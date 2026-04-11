@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0a0a1a">
+  <meta name="screen-orientation" content="portrait">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="oxy">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='90' font-family='system-ui'>😮‍💨</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <title>oxy – Atemübungen</title>
+</head>
+<body>
+  <div id="landscapeOverlay">
+    <span class="rotate-icon">📱</span>
+    <span class="rotate-text">Bitte drehe dein Gerät ins Hochformat</span>
+  </div>
+
+  <noscript>
+    <div style="color:white;padding:40px;text-align:center;font-size:18px;">
+      JavaScript muss aktiviert sein.
+    </div>
+  </noscript>
+
+  <header class="top-bar" id="topBar">
+    <div class="top-logo">oxy</div>
+    <div class="top-actions">
+      <button class="top-btn" id="settingsBtn" title="Einstellungen" aria-label="Einstellungen öffnen">⚙️</button>
+    </div>
+  </header>
+
+  <!-- Home Screen -->
+  <div id="home" class="screen active">
+    <div class="home-spacer"></div>
+    <div class="cat-tabs" id="catTabs" role="navigation" aria-label="Kategorien"></div>
+    <div class="cat-tabs" id="subcatTabs" style="display:none;background:var(--bg);border-bottom:1px solid var(--border);" role="navigation" aria-label="Unterkategorien"></div>
+    <div class="exercises" id="exerciseList" role="main"></div>
+  </div>
+
+  <!-- Exercise Screen -->
+  <div id="exercise" class="screen">
+    <div class="exercise-header">
+      <button class="exercise-back" id="backBtn" title="Zurück" aria-label="Zurück zur Startseite">←</button>
+      <div class="exercise-titles">
+        <div class="exercise-title" id="exTitle">Übung</div>
+        <div class="exercise-subtitle" id="exSubtitle">Untertitel</div>
+      </div>
+    </div>
+
+    <div class="anim-container" id="animContainer">
+      <div class="countdown" id="countdown">3</div>
+    </div>
+
+    <div class="phase-text" id="phaseText" aria-live="polite">Einatmen</div>
+    <div class="phase-sub" id="phaseSub"></div>
+
+    <div class="timer-display">
+      <div class="timer-part">
+        <div class="timer-value" id="elapsedTime">0:00</div>
+        <div class="timer-label">Vergangen</div>
+      </div>
+      <div class="timer-part">
+        <div class="timer-value" id="remainingTime">0:00</div>
+        <div class="timer-label">Verbleibend</div>
+      </div>
+    </div>
+
+    <div class="progress-bar">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+
+    <div class="exercise-controls">
+      <button class="control-btn" id="soundBtn" title="Ton" aria-label="Ton ein/aus">🔊</button>
+      <button class="control-btn primary" id="playBtn" title="Starten" aria-label="Übung starten/pausieren">▶</button>
+      <button class="control-btn" id="voiceBtn" title="Stimme" aria-label="Sprachführung ein/aus">🎤</button>
+    </div>
+
+    <div class="breath-counter">
+      Atemzug <span class="counter-value" id="breathCount">0</span>
+    </div>
+
+    <div class="instruction" id="instruction">
+      Folgen Sie der Animation und Ihrem natürlichen Atemrhythmus.
+    </div>
+  </div>
+
+  <!-- Settings Panel -->
+  <div class="side-backdrop" id="sideBackdrop"></div>
+  <div class="side-panel" id="settingsPanel">
+    <div class="side-header">
+      <h2>Einstellungen</h2>
+      <button class="side-close" id="settingsCloseBtn" aria-label="Einstellungen schließen">✕</button>
+    </div>
+    <div class="side-content">
+      <div class="settings-group">
+        <div class="settings-group-title">Audio</div>
+        <div class="toggle-row">
+          <span class="toggle-label">Hintergrundmusik</span>
+          <div class="toggle" id="bgMusicToggle" role="switch" tabindex="0" aria-label="Hintergrundmusik">
+            <div class="toggle-switch"></div>
+          </div>
+        </div>
+        <div class="toggle-row">
+          <span class="toggle-label">Naturgeräusche</span>
+          <div class="toggle" id="ambientToggle" role="switch" tabindex="0" aria-label="Naturgeräusche">
+            <div class="toggle-switch"></div>
+          </div>
+        </div>
+        <div class="toggle-row">
+          <span class="toggle-label">Phasen-Klänge</span>
+          <div class="toggle" id="phaseSoundsToggle" role="switch" tabindex="0" aria-label="Phasen-Klänge">
+            <div class="toggle-switch"></div>
+          </div>
+        </div>
+        <div class="toggle-row">
+          <span class="toggle-label">Sprachführung</span>
+          <div class="toggle" id="voiceGuidanceToggle" role="switch" tabindex="0" aria-label="Sprachführung">
+            <div class="toggle-switch"></div>
+          </div>
+        </div>
+        <div class="range-row">
+          <label class="range-label" for="volumeSlider">Lautstärke</label>
+          <input type="range" id="volumeSlider" min="0" max="100" value="70">
+        </div>
+        <div class="range-row">
+          <label class="range-label" for="ambientSelect">Naturgeräusch</label>
+          <select id="ambientSelect">
+            <option value="rain">Regen</option>
+            <option value="ocean">Ozean</option>
+            <option value="wind">Wind</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="settings-group">
+        <div class="settings-group-title">Anzeige</div>
+        <div class="toggle-row">
+          <span class="toggle-label">Einschlaf-Modus</span>
+          <div class="toggle" id="sleepModeToggle" role="switch" tabindex="0" aria-label="Einschlaf-Modus">
+            <div class="toggle-switch"></div>
+          </div>
+        </div>
+        <div class="toggle-row">
+          <span class="toggle-label">Countdown anzeigen</span>
+          <div class="toggle" id="countdownToggle" role="switch" tabindex="0" aria-label="Countdown anzeigen">
+            <div class="toggle-switch"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal" id="modalContent"></div>
+  </div>
+
+  <!-- Sleep Overlay -->
+  <div class="sleep-overlay" id="sleepOverlay"></div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

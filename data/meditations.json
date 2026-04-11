@@ -1,0 +1,3720 @@
+[
+  {
+    "id": "med_01",
+    "name": "Atemgewahrsein Grundlagen",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Eine grundlegende Atemmeditation zur Schulung von Aufmerksamkeit und innerer Ruhe",
+    "duration": 300,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Vorbereitung",
+        "dur": 1,
+        "voice": "Setzen Sie sich bequem hin und schließen Sie die Augen",
+        "type": "observation"
+      },
+      {
+        "name": "Atembeobachtung",
+        "dur": 3,
+        "voice": "Beobachten Sie jeden Atemzug ohne einzugreifen",
+        "type": "observation"
+      },
+      {
+        "name": "Vertiefung",
+        "dur": 1,
+        "voice": "Vertiefen Sie Ihre Aufmerksamkeit mit jedem Atemzug",
+        "type": "observation"
+      }
+    ],
+    "tip": "Kehren Sie jedes Mal sanft zu Ihrem Atem zurück, wenn Ihr Geist abschweift.",
+    "info": {
+      "why": "Das Beobachten des Atems ist die Grundlage aller Achtsamkeitspraxis und trainiert den Geist zur Konzentration.",
+      "evidence": "Neurowissenschaftliche Studien zeigen, dass Atemmeditation die Graustoffe im präfrontalen Kortex vergrößert.",
+      "best": "Morgens nach dem Aufwachen für maximale Wirksamkeit."
+    }
+  },
+  {
+    "id": "med_02",
+    "name": "Körpergefühl erleben",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Schulung der Körperwahrnehmung durch systematisches Scanning von innen heraus",
+    "duration": 420,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Einstimmung",
+        "dur": 1,
+        "voice": "Lenken Sie Ihre Aufmerksamkeit sanft nach innen",
+        "type": "observation"
+      },
+      {
+        "name": "Körperwahrnehmung",
+        "dur": 5,
+        "voice": "Durchlaufen Sie Ihren Körper von Kopf bis Fuß",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Spüren Sie den Fluss der Energie durch Ihren ganzen Körper",
+        "type": "observation"
+      }
+    ],
+    "tip": "Es gibt keine richtige oder falsche Wahrnehmung. Alles ist willkommen.",
+    "info": {
+      "why": "Achtsamkeit für den Körper verbessert die Körper-Geist-Verbindung und reduziert Dissoziation.",
+      "evidence": "Studien zeigen, dass regelmäßige Body-Awareness die Interozektion erhöht.",
+      "best": "Zu jeder Tageszeit, idealerweise wenn Sie eine halbe Stunde Zeit haben."
+    }
+  },
+  {
+    "id": "med_03",
+    "name": "Gedankenbeobachtung",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Lernen Sie, Ihre Gedanken ohne Wertung zu beobachten",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Ankern",
+        "dur": 2,
+        "voice": "Konzentrieren Sie sich auf Ihren Atem als Anker",
+        "type": "observation"
+      },
+      {
+        "name": "Gedanken Scanning",
+        "dur": 5,
+        "voice": "Beobachten Sie jeden Gedanken, der vorbeigleitet wie eine Wolke am Himmel",
+        "type": "observation"
+      },
+      {
+        "name": "Loslassen",
+        "dur": 1,
+        "voice": "Lassen Sie jeden Gedanken ohne Widerstand vorbeiziehen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Sie versuchen nicht, Gedanken zu stoppen. Sie trainieren nur, sie anzusehen.",
+    "info": {
+      "why": "Das Beobachten von Gedanken vermindert ihre emotionale Ladung und schafft inneren Raum.",
+      "evidence": "Achtsamkeitsmeditationen reduzieren Rumination und depressive Gedankenmuster.",
+      "best": "Tägliche Praxis für beste Ergebnisse."
+    }
+  },
+  {
+    "id": "med_04",
+    "name": "Gegenwärtsmoment Anker",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Vertiefen Sie Ihre Präsenz in diesem Moment mit mehreren Sinnen",
+    "duration": 360,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Öffnung",
+        "dur": 1,
+        "voice": "Öffnen Sie sich für die Gegenwart",
+        "type": "observation"
+      },
+      {
+        "name": "Sinneswahrnehmung",
+        "dur": 4,
+        "voice": "Spüren Sie Geräusche, Gerüche, Temperatur und Texturen um Sie herum",
+        "type": "observation"
+      },
+      {
+        "name": "Einheit",
+        "dur": 1,
+        "voice": "Werden Sie eins mit diesem Moment",
+        "type": "observation"
+      }
+    ],
+    "tip": "Der gegenwärtige Moment ist der einzige Ort, an dem echtes Leben stattfindet.",
+    "info": {
+      "why": "Präsenz reduziert Angst und Depression, die an Vergangenheit und Zukunft gebunden sind.",
+      "evidence": "Achtsamkeitsforscher berichten, dass Gegenwärtigkeit das Wohlbefinden signifikant erhöht.",
+      "best": "Mehrmals täglich in kurzen Sitzungen."
+    }
+  },
+  {
+    "id": "med_05",
+    "name": "Atem und Bewegung",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Synchronisieren Sie Ihre Atemzüge mit sanften Bewegungen",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Zentrierung",
+        "dur": 1,
+        "voice": "Finden Sie Ihre natürliche Atmung",
+        "type": "observation"
+      },
+      {
+        "name": "Bewegte Achtsamkeit",
+        "dur": 7,
+        "voice": "Führen Sie langsame Bewegungen mit jedem Ein- und Ausatmen durch",
+        "type": "observation"
+      },
+      {
+        "name": "Ruhe",
+        "dur": 1,
+        "voice": "Kehren Sie zur stillschweigenden Präsenz zurück",
+        "type": "observation"
+      }
+    ],
+    "tip": "Bewegung verstärkt Achtsamkeit und befreit stagnierende Energien.",
+    "info": {
+      "why": "Bewegungsmeditation integriert Körper und Geist durch Koordination.",
+      "evidence": "Studien zeigen, dass moving meditation das Bewusstsein stärker verankert als stille Praxis.",
+      "best": "Morgens oder mittags zur Aktivierung."
+    }
+  },
+  {
+    "id": "med_06",
+    "name": "Raum und Stille",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Erkunden Sie den Raum von Stille in Ihrem Bewusstsein",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eintritt",
+        "dur": 2,
+        "voice": "Treten Sie in die Stille ein wie in einen heiligen Raum",
+        "type": "observation"
+      },
+      {
+        "name": "Verweilen",
+        "dur": 7,
+        "voice": "Verweilen Sie einfach in der Stille ohne zu tun oder zu streben",
+        "type": "observation"
+      },
+      {
+        "name": "Rückkehr",
+        "dur": 1,
+        "voice": "Führen Sie diese Stille allmählich in Ihr alltägliches Leben",
+        "type": "observation"
+      }
+    ],
+    "tip": "Stille ist nicht das Fehlen von Gedanken, sondern das Fehlen von Reaktion.",
+    "info": {
+      "why": "Die Praxis der Stille aktiviert den Default Mode Network des Gehirns zur inneren Integration.",
+      "evidence": "Studien zeigen, dass längere Stille neuroplastische Veränderungen fördert.",
+      "best": "Am besten in einer ruhigen Umgebung."
+    }
+  },
+  {
+    "id": "med_07",
+    "name": "Achtsamkeit im Alltag",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Transformieren Sie alltägliche Aktivitäten in Achtsamkeitspraxis",
+    "duration": 420,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Wahl",
+        "dur": 1,
+        "voice": "Wählen Sie eine einfache tägliche Aktivität",
+        "type": "observation"
+      },
+      {
+        "name": "Achtsamkeit",
+        "dur": 5,
+        "voice": "Führen Sie diese Aktivität mit vollständiger Aufmerksamkeit durch",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Tragen Sie diese Achtsamkeit in Ihren restlichen Tag",
+        "type": "observation"
+      }
+    ],
+    "tip": "Achtsamkeit ist nicht nur für formale Meditation gedacht, sondern für das ganze Leben.",
+    "info": {
+      "why": "Alltägliche Achtsamkeit verwandelt routinemäßige Handlungen in spirituelle Praxis.",
+      "evidence": "Studien zeigen, dass Achtsamkeit im Alltag die Lebenszufriedenheit erhöht.",
+      "best": "Jederzeit mit jeder Aktivität."
+    }
+  },
+  {
+    "id": "med_08",
+    "name": "Emotionen beobachten",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Entwickeln Sie ein gleichmütiges Verhältnis zu Ihren Gefühlen",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Einleitung",
+        "dur": 1,
+        "voice": "Schaffen Sie Raum für alle Ihre Gefühle",
+        "type": "observation"
+      },
+      {
+        "name": "Emotionale Wahrnehmung",
+        "dur": 6,
+        "voice": "Beobachten Sie Gefühle als vorübergehende Wolken in Ihrem inneren Himmel",
+        "type": "observation"
+      },
+      {
+        "name": "Weisheit",
+        "dur": 1,
+        "voice": "Erkennen Sie, dass Sie nicht Ihre Gefühle sind",
+        "type": "observation"
+      }
+    ],
+    "tip": "Gefühle sind normale Energiemuster, die kommen und gehen.",
+    "info": {
+      "why": "Emotionale Achtsamkeit vermindert Überreaktion und fördert emotionale Regulierung.",
+      "evidence": "Forschung zeigt, dass diese Praxis die emotionale Stabilität erhöht.",
+      "best": "Tägliche Praxis für emotionales Wohlbefinden."
+    }
+  },
+  {
+    "id": "med_09",
+    "name": "Präsenz mit Naturtönen",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Verbinden Sie sich mit der Gegenwart durch Naturklänge",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Einstimmung",
+        "dur": 1,
+        "voice": "Öffnen Sie sich für die Klänge der Natur",
+        "type": "observation"
+      },
+      {
+        "name": "Hörmeditation",
+        "dur": 7,
+        "voice": "Lauschen Sie aufmerksam jedem Ton ohne zu urteilen",
+        "type": "observation"
+      },
+      {
+        "name": "Versöhnung",
+        "dur": 1,
+        "voice": "Verschmelzen Sie mit den natürlichen Rhythmen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Naturklänge wie Vogelgesang oder Regen fördern tiefe Entspannung.",
+    "info": {
+      "why": "Natürliche Klänge nutzen unsere evolutionäre Verbindung zur Natur.",
+      "evidence": "Studien zeigen, dass Naturklänge Stress schneller als andere Methoden reduzieren.",
+      "best": "In der Nähe von Natur oder mit Naturton-Aufnahmen."
+    }
+  },
+  {
+    "id": "med_10",
+    "name": "Achtsame Wahrnehmung",
+    "cat": "Meditation",
+    "subcat": "Achtsamkeit",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Verfeinern Sie Ihre sensorische Wahrnehmung durch achtsame Aufmerksamkeit",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Vorbereitung",
+        "dur": 1,
+        "voice": "Schließen Sie alle Sinne nach innen",
+        "type": "observation"
+      },
+      {
+        "name": "Wahrnehmungstraining",
+        "dur": 8,
+        "voice": "Schweifen Sie durch jeden Sinn mit maximaler Feinfühligkeit",
+        "type": "observation"
+      },
+      {
+        "name": "Synthese",
+        "dur": 1,
+        "voice": "Integrieren Sie alle Sinne in harmonisches Gewahrsein",
+        "type": "observation"
+      }
+    ],
+    "tip": "Wirkliche Wahrnehmung ist frei von mentalen Überlagerungen.",
+    "info": {
+      "why": "Verfeinerte Wahrnehmung erhöht die Sensitivität und das spirituelle Bewusstsein.",
+      "evidence": "Achtsamkeitstraining vergrößert die Areale im Gehirn, die für sensorische Verarbeitung zuständig sind.",
+      "best": "Regelmäßig für Persönlichkeitsentwicklung."
+    }
+  },
+  {
+    "id": "med_11",
+    "name": "Kopf Scanning",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Entspannen Sie systematisch alle Muskeln im Kopfbereich",
+    "duration": 360,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Ankommen",
+        "dur": 1,
+        "voice": "Kommen Sie in Ihrem Körper an",
+        "type": "observation"
+      },
+      {
+        "name": "Kopf Scanning",
+        "dur": 4,
+        "voice": "Scannen Sie Stirn, Augen, Wangen, Nase und Kiefer",
+        "type": "observation"
+      },
+      {
+        "name": "Entspannung",
+        "dur": 1,
+        "voice": "Lassen Sie alle Anspannung los",
+        "type": "observation"
+      }
+    ],
+    "tip": "Verspannungen im Kopf entstehen oft durch unbewusste Anspannung.",
+    "info": {
+      "why": "Head Scanning reduziert Kopfschmerzen und innere Unruhe.",
+      "evidence": "Progressive Muskelentspannung ist wissenschaftlich nachgewiesen wirksam.",
+      "best": "Bei Kopfschmerzen oder mentaler Belastung."
+    }
+  },
+  {
+    "id": "med_12",
+    "name": "Nacken- und Schultermassage",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Scanning und Entspannung für Nacken- und Schulterbereich",
+    "duration": 420,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Fokus",
+        "dur": 1,
+        "voice": "Richten Sie Ihre Aufmerksamkeit auf Nacken und Schultern",
+        "type": "observation"
+      },
+      {
+        "name": "Scanning",
+        "dur": 5,
+        "voice": "Spüren Sie die Anspannung und lassen Sie sie los",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Spüren Sie die neue Leichtigkeit",
+        "type": "observation"
+      }
+    ],
+    "tip": "Dieser Bereich speichert Stress und Anspannung aus dem Alltag.",
+    "info": {
+      "why": "Nacken- und Schulterverspannungen beeinflussen das gesamte Nervensystem.",
+      "evidence": "Lokale Entspannung hat globale positive Effekte auf die Gesundheit.",
+      "best": "Nach einem anstrengenden Tag."
+    }
+  },
+  {
+    "id": "med_13",
+    "name": "Brust und Herz Öffnung",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Öffnen Sie Ihren Brustbereich und aktivieren Sie das Herzzentrum",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Hinwendung",
+        "dur": 1,
+        "voice": "Richten Sie Ihre Aufmerksamkeit auf Ihr Herz",
+        "type": "observation"
+      },
+      {
+        "name": "Öffnung",
+        "dur": 6,
+        "voice": "Spüren Sie, wie sich Ihre Brust mit jedem Atemzug öffnet",
+        "type": "observation"
+      },
+      {
+        "name": "Einigung",
+        "dur": 1,
+        "voice": "Vereinigen Sie sich mit Ihrem Herzraum",
+        "type": "observation"
+      }
+    ],
+    "tip": "Eine offene Brust ist Zeichen von emotionaler Verfügbarkeit und Mut.",
+    "info": {
+      "why": "Herz-Chakra-Arbeit verbessert emotionale Offenheit und Mitgefühl.",
+      "evidence": "Studien zeigen, dass Herzachsamkeit empathische Reaktionen verstärkt.",
+      "best": "Morgens zur Erzeugung von Liebesenergie."
+    }
+  },
+  {
+    "id": "med_14",
+    "name": "Bauch und Solarplexus",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Aktivieren Sie Ihr Kraftzentrum im Bauchraum",
+    "duration": 420,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Bewusstsein",
+        "dur": 1,
+        "voice": "Bringen Sie Aufmerksamkeit zu Ihrem Bauch",
+        "type": "observation"
+      },
+      {
+        "name": "Kraftaktivierung",
+        "dur": 5,
+        "voice": "Spüren Sie Ihre innere Kraft und Willensstärke wachsen",
+        "type": "observation"
+      },
+      {
+        "name": "Verankerung",
+        "dur": 1,
+        "voice": "Verankern Sie diese Kraft in Ihrem Körper",
+        "type": "observation"
+      }
+    ],
+    "tip": "Der Bauch ist unser körperliches Kraftzentrum und Sitz des Mutes.",
+    "info": {
+      "why": "Solarplexus-Aktivierung erhöht Willenskraft und Selbstvertrauen.",
+      "evidence": "Bauch-Atemtechniken aktivieren das parasympathische Nervensystem.",
+      "best": "Vor wichtigen Aufgaben zur Stärkung."
+    }
+  },
+  {
+    "id": "med_15",
+    "name": "Becken und Wurzeln",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Verwurzeln Sie sich in Ihrer körperlichen Existenz",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erdung",
+        "dur": 2,
+        "voice": "Spüren Sie Ihre Verbindung zur Erde",
+        "type": "observation"
+      },
+      {
+        "name": "Wurzelscanning",
+        "dur": 5,
+        "voice": "Scannen Sie Becken, Hüften und Oberschenkel",
+        "type": "observation"
+      },
+      {
+        "name": "Stabilisierung",
+        "dur": 1,
+        "voice": "Spüren Sie unerschütterliche Stabilität",
+        "type": "observation"
+      }
+    ],
+    "tip": "Eine starke Wurzel ermöglicht innere Freiheit und Vertrauen.",
+    "info": {
+      "why": "Wurzelchakra-Arbeit schafft psychologische Stabilität und Sicherheit.",
+      "evidence": "Erdungsübungen reduzieren Angststörungen signifikant.",
+      "best": "Täglich zur Stabilitätserhaltung."
+    }
+  },
+  {
+    "id": "med_16",
+    "name": "Beine und Füße Erfrischung",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Erwecken Sie Ihre unteren Extremitäten zu neuer Energie",
+    "duration": 360,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Aufmerksamkeit",
+        "dur": 1,
+        "voice": "Richten Sie Bewusstsein auf Ihre Beine",
+        "type": "observation"
+      },
+      {
+        "name": "Vitalität",
+        "dur": 4,
+        "voice": "Spüren Sie Wärme und Energie durch Oberschenkel, Unterschenkel und Füße fließen",
+        "type": "observation"
+      },
+      {
+        "name": "Erneuerung",
+        "dur": 1,
+        "voice": "Genießen Sie die neue Vitalität",
+        "type": "observation"
+      }
+    ],
+    "tip": "Beine tragen uns durchs Leben. Ihre Pflege ist essentiell.",
+    "info": {
+      "why": "Leg-Scanning verbessert Durchblutung und energetischen Fluss.",
+      "evidence": "Regelmäßiges Scanning reduziert Beinschmerzen und Verspannungen.",
+      "best": "Abends nach anstrengendem Tag."
+    }
+  },
+  {
+    "id": "med_17",
+    "name": "Gesamtkörper-Harmonie",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Harmonisieren Sie alle Körperteile zu einem Ganzen",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eröffnung",
+        "dur": 2,
+        "voice": "Öffnen Sie Ihren Körper für umfassendes Gewahrsein",
+        "type": "observation"
+      },
+      {
+        "name": "Gesamter Scan",
+        "dur": 9,
+        "voice": "Durchlaufen Sie Ihren ganzen Körper langsam und bewusst",
+        "type": "observation"
+      },
+      {
+        "name": "Vereinigung",
+        "dur": 1,
+        "voice": "Fühlen Sie sich als harmonisches Ganzes",
+        "type": "observation"
+      }
+    ],
+    "tip": "Ganzheitlichkeit ist der Zustand der Gesundheit und des Wohlbefindens.",
+    "info": {
+      "why": "Ganzheitliches Body Scanning aktiviert tiefe Heilungsprozesse.",
+      "evidence": "Integrative Körperarbeit fördert Selbstheilungsmechanismen.",
+      "best": "Wöchentlich für umfassende Heiling."
+    }
+  },
+  {
+    "id": "med_18",
+    "name": "Energiebahnen aktivieren",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Aktivieren Sie die Energiebahnen in Ihrem Körper",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Öffnung",
+        "dur": 1,
+        "voice": "Öffnen Sie sich für den Fluss von Lebensenergie",
+        "type": "observation"
+      },
+      {
+        "name": "Aktivierung",
+        "dur": 8,
+        "voice": "Führen Sie Energie durch Ihre Meridiane und Chakren",
+        "type": "observation"
+      },
+      {
+        "name": "Strahlkraft",
+        "dur": 1,
+        "voice": "Strahlen Sie vitale Energie in Ihr Leben",
+        "type": "observation"
+      }
+    ],
+    "tip": "Freie Energiebahnen sind Zeichen von körperlicher Vitalität.",
+    "info": {
+      "why": "Meridian-Arbeit basiert auf tausendjähriger östlicher Weisheit.",
+      "evidence": "Traditionelle chinesische Medizin nutzt diese Konzepte erfolgreich.",
+      "best": "Morgens zur Belebung."
+    }
+  },
+  {
+    "id": "med_19",
+    "name": "Zelluläre Erneuerung",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Stimulieren Sie natürliche Regenerationsprozesse auf zellulärer Ebene",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eintauchen",
+        "dur": 2,
+        "voice": "Tauchen Sie in das Gewahrsein Ihrer Zellen ein",
+        "type": "observation"
+      },
+      {
+        "name": "Erneuerung",
+        "dur": 8,
+        "voice": "Visualisieren Sie Heilung und Erneuerung in jeder Zelle",
+        "type": "observation"
+      },
+      {
+        "name": "Verjüngung",
+        "dur": 1,
+        "voice": "Fühlen Sie sich jung und lebendig",
+        "type": "observation"
+      }
+    ],
+    "tip": "Unser Körper erneuert sich ständig. Diese Meditation unterstützt den Prozess.",
+    "info": {
+      "why": "Bewusste Zellmemstellung aktiviert Heilungsgene.",
+      "evidence": "Epigenetische Forschung zeigt, dass Gedanken die Genexpression beeinflussen.",
+      "best": "Vor dem Schlafengehen für nächtliche Regeneration."
+    }
+  },
+  {
+    "id": "med_20",
+    "name": "Schmerzlinderung bewusst",
+    "cat": "Meditation",
+    "subcat": "Body Scan",
+    "icon": "🔍",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Lindert körperliche Schmerzen durch bewusste Aufmerksamkeit",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Verständnis",
+        "dur": 1,
+        "voice": "Nähern Sie sich dem Schmerz mit Mitgefühl",
+        "type": "observation"
+      },
+      {
+        "name": "Dialog",
+        "dur": 7,
+        "voice": "Erkunden Sie den Schmerz ohne Widerstand",
+        "type": "observation"
+      },
+      {
+        "name": "Transformation",
+        "dur": 1,
+        "voice": "Beobachten Sie, wie sich der Schmerz mit Aufmerksamkeit verändert",
+        "type": "observation"
+      }
+    ],
+    "tip": "Widerstand gegen Schmerz verstärkt ihn. Annahme lindert ihn.",
+    "info": {
+      "why": "Schmerzmeditation nutzt die Neuroplastizität zur Schmerzmodulation.",
+      "evidence": "Studien zeigen, dass Achtsamkeit chronische Schmerzen signifikant reduziert.",
+      "best": "Bei Schmerzen oder vorbeugend."
+    }
+  },
+  {
+    "id": "med_21",
+    "name": "Metta Grundlagen Liebe",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Beginnende Liebenswürdigkeit-Meditation zur Kultivierung von Mitgefühl",
+    "duration": 420,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Selbst",
+        "dur": 2,
+        "voice": "Senden Sie bedingungslose Liebe zu sich selbst",
+        "type": "observation"
+      },
+      {
+        "name": "Nahestehende",
+        "dur": 3,
+        "voice": "Erweitern Sie Liebe zu Menschen, die Sie lieben",
+        "type": "observation"
+      },
+      {
+        "name": "Strahlen",
+        "dur": 2,
+        "voice": "Lassen Sie Liebe in alle Richtungen strahlen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Mitgefühl beginnt immer mit Selbstmitgefühl.",
+    "info": {
+      "why": "Metta-Meditation vergrößert die Bereiche des Gehirns, die Mitgefühl kontrollieren.",
+      "evidence": "Wissenschaftler haben gemessen, dass Liebende-Güte-Meditation die Herzratenvariabilität erhöht.",
+      "best": "Täglich zur Kultivierung von Herzqualität."
+    }
+  },
+  {
+    "id": "med_22",
+    "name": "Für andere Liebe senden",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Erweitern Sie Ihr Herz auf alle Wesen",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Öffnung",
+        "dur": 1,
+        "voice": "Öffnen Sie Ihr Herz weit",
+        "type": "observation"
+      },
+      {
+        "name": "Versendung",
+        "dur": 7,
+        "voice": "Senden Sie liebevolle Segnungen an alle Wesen überall",
+        "type": "observation"
+      },
+      {
+        "name": "Einheit",
+        "dur": 1,
+        "voice": "Fühlen Sie die universelle Liebe",
+        "type": "observation"
+      }
+    ],
+    "tip": "Universelle Liebe ist der höchste Ausdruck spiritueller Entwicklung.",
+    "info": {
+      "why": "Universelles Mitgefühl verbindet uns mit dem größeren Ganzen.",
+      "evidence": "Forschung zeigt, dass diese Praxis Isolation reduziert und Zugehörigkeitsgefühl erhöht.",
+      "best": "Morgens zum Einstellen des Herztons für den Tag."
+    }
+  },
+  {
+    "id": "med_23",
+    "name": "Schwierige Menschen Mitgefühl",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Entwickeln Sie Mitgefühl sogar für schwierige Menschen in Ihrem Leben",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Vorbereitung",
+        "dur": 1,
+        "voice": "Halten Sie eine schwierige Person in Ihrem Bewusstsein",
+        "type": "observation"
+      },
+      {
+        "name": "Transformation",
+        "dur": 8,
+        "voice": "Senden Sie ihr Liebe und Verständnis trotz Unterschieden",
+        "type": "observation"
+      },
+      {
+        "name": "Befreiung",
+        "dur": 1,
+        "voice": "Befreien Sie sich und den anderen durch Mitgefühl",
+        "type": "observation"
+      }
+    ],
+    "tip": "Mitgefühl für Gegner ist das mächtigste Transformationswerkzeug.",
+    "info": {
+      "why": "Das Praktizieren von Mitgefühl für schwierige Menschen bricht Zyklen von Groll auf.",
+      "evidence": "Studien zeigen, dass diese Praxis emotionale Wunden heilt.",
+      "best": "Bei zwischenmenschlichen Konflikten."
+    }
+  },
+  {
+    "id": "med_24",
+    "name": "Dankbarkeits Metta",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Vereinen Sie Liebe mit tiefem Dankbarkeitsgefühl",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Anhebung",
+        "dur": 1,
+        "voice": "Heben Sie Ihre Vibrationsfrequenz mit Dankbarkeit",
+        "type": "observation"
+      },
+      {
+        "name": "Verbindung",
+        "dur": 6,
+        "voice": "Verbinden Sie Liebe mit Dankbarkeit für alles",
+        "type": "observation"
+      },
+      {
+        "name": "Ausstrahlung",
+        "dur": 1,
+        "voice": "Strahlen Sie Dankbarkeit und Liebe aus",
+        "type": "observation"
+      }
+    ],
+    "tip": "Dankbarkeit ist das beste Mittel zur Transformation von Energien.",
+    "info": {
+      "why": "Dankbarkeit erhöht natürlich Oxytocin, das Liebesbotenstoff des Körpers.",
+      "evidence": "Forschung zeigt, dass dankbare Menschen bessere Beziehungen haben.",
+      "best": "Abends zur Dankesreflexion."
+    }
+  },
+  {
+    "id": "med_25",
+    "name": "Heilung von Herzenswunden",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Heilen Sie alte emotionale Wunden durch mitfühlende Aufmerksamkeit",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eröffnung",
+        "dur": 2,
+        "voice": "Öffnen Sie sich Ihren Herzenschmerz mit Mitgefühl",
+        "type": "observation"
+      },
+      {
+        "name": "Heilung",
+        "dur": 9,
+        "voice": "Umhüllen Sie Ihre Wunden mit Liebe und Verständnis",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Integrieren Sie diese Heilung in Ihr neues Selbst",
+        "type": "observation"
+      }
+    ],
+    "tip": "Wunden heilen, wenn wir ihnen mit Liebe begegnen, nicht mit Verurteilung.",
+    "info": {
+      "why": "Liebevolle Aufmerksamkeit aktiviert das parasympathische Heilungssystem.",
+      "evidence": "Traumatherapie nutzt Mitgefühl als wesentliches Element der Heilung.",
+      "best": "Regelmäßig zur emotionalen Heilung."
+    }
+  },
+  {
+    "id": "med_26",
+    "name": "Bedingungloses Wohlwollen",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Kultivieren Sie bedingungsloses Wohlwollen gegenüber allem Leben",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Empfänglichkeit",
+        "dur": 1,
+        "voice": "Werden Sie empfänglich für die Essenz bedingungslosen Wohlwollens",
+        "type": "observation"
+      },
+      {
+        "name": "Kultivierung",
+        "dur": 9,
+        "voice": "Kultivieren Sie Wohlwollen gegenüber allem, was lebt",
+        "type": "observation"
+      },
+      {
+        "name": "Emanation",
+        "dur": 1,
+        "voice": "Strahlen Sie dieses Wohlwollen überall aus",
+        "type": "observation"
+      }
+    ],
+    "tip": "Bedingungsloses Wohlwollen ist das Bild spiritueller Reife.",
+    "info": {
+      "why": "Diese höchste Form der Liebe öffnet alle Energiezentren.",
+      "evidence": "Buddhistische Mönche zeigen messbare Gehirnveränderungen von dieser Praxis.",
+      "best": "Regelmäßig für tiefe Transformation."
+    }
+  },
+  {
+    "id": "med_27",
+    "name": "Verbundenheit spüren",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Spüren Sie die tiefe Verbundenheit mit allen Wesen",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkenntnis",
+        "dur": 1,
+        "voice": "Erkenne, dass alle Wesen dir ähnlich sind",
+        "type": "observation"
+      },
+      {
+        "name": "Verbindung",
+        "dur": 7,
+        "voice": "Spüre die unsichtbare Schnur, die dich mit allen verbindet",
+        "type": "observation"
+      },
+      {
+        "name": "Eins-Sein",
+        "dur": 1,
+        "voice": "Ruhe im Wissen der universellen Verbundenheit",
+        "type": "observation"
+      }
+    ],
+    "tip": "Getrenntheit ist eine Illusion. Verbundenheit ist die Wahrheit.",
+    "info": {
+      "why": "Verbundenheitsgefühl reduziert isolierte Denkmuster und erhöht Wohlbefinden.",
+      "evidence": "Forschung zeigt, dass dieses Gefühl Oxytocin-Freisetzung steigert.",
+      "best": "Täglich zur Überwindung von Einsamkeit."
+    }
+  },
+  {
+    "id": "med_28",
+    "name": "Freude und Mitfreude",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Kultivieren Sie Freude in der Freude anderer Menschen",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Öffnung",
+        "dur": 1,
+        "voice": "Öffnen Sie sich für echte Freude",
+        "type": "observation"
+      },
+      {
+        "name": "Mitfreude",
+        "dur": 6,
+        "voice": "Praktizieren Sie Mitfreude an den Erfolgen anderer",
+        "type": "observation"
+      },
+      {
+        "name": "Expansion",
+        "dur": 1,
+        "voice": "Erlauben Sie Ihrem Herzen zu expandieren in dieser Freude",
+        "type": "observation"
+      }
+    ],
+    "tip": "Mitfreude ist eine Tugend, die vielen Menschen fehlt, aber transformativ wirkt.",
+    "info": {
+      "why": "Mitfreude neutralisiert Neid und Missgunst, die das Herz verfinstern.",
+      "evidence": "Buddhistische Psychologie bezeichnet dies als kostbare Hilfsmittel zur Harmonie.",
+      "best": "Wenn Sie Erfolg anderer hören."
+    }
+  },
+  {
+    "id": "med_29",
+    "name": "Familie Metta Stärkung",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Verstärken Sie die Liebesenergie in Ihren Familienbeziehungen",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Vereinigung",
+        "dur": 1,
+        "voice": "Vereinigen Sie Ihre Familie in Ihrem Herzen",
+        "type": "observation"
+      },
+      {
+        "name": "Segnungen",
+        "dur": 8,
+        "voice": "Senden Sie jedem Familienmitglied individuelle Segnungen",
+        "type": "observation"
+      },
+      {
+        "name": "Harmonie",
+        "dur": 1,
+        "voice": "Visualisieren Sie harmonische Familienbeziehungen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Familie ist das erste Trainingsgelände für Liebe und Mitgefühl.",
+    "info": {
+      "why": "Familiale Harmonie beginnt mit Herzenssegnung jedes Mitglieds.",
+      "evidence": "Familientherapieforschung zeigt den Wert von liebevoller Intention.",
+      "best": "Regelmäßig für Familienharmonie."
+    }
+  },
+  {
+    "id": "med_30",
+    "name": "Vergeben und Loslassen",
+    "cat": "Meditation",
+    "subcat": "Loving-Kindness",
+    "icon": "💗",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Befreien Sie sich durch tiefes Vergeben und Loslassen",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Realisierung",
+        "dur": 1,
+        "voice": "Erkenne, dass Groll nur dir selbst schadet",
+        "type": "observation"
+      },
+      {
+        "name": "Vergebung",
+        "dur": 9,
+        "voice": "Vergebe dir selbst und anderen vollständig",
+        "type": "observation"
+      },
+      {
+        "name": "Freiheit",
+        "dur": 1,
+        "voice": "Fühle dich leicht und befreit",
+        "type": "observation"
+      }
+    ],
+    "tip": "Vergeben ist nicht für den anderen, sondern für deine eigene Befreiung.",
+    "info": {
+      "why": "Vergebung reduziert Stresshormone und aktiviert Heilung.",
+      "evidence": "Kardiovaskular-Studien zeigen, dass Vergebung das Herz schützt.",
+      "best": "Bei emotionalen Lasten."
+    }
+  },
+  {
+    "id": "med_31",
+    "name": "Waldlicht Visualisierung",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Reisen Sie zu einem magischen Waldheiligtum voller Licht",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eingang",
+        "dur": 2,
+        "voice": "Betreten Sie einen schönen Wald voller goldenes Licht",
+        "type": "observation"
+      },
+      {
+        "name": "Erforschung",
+        "dur": 9,
+        "voice": "Erkunden Sie die Schönheit und Ruhe dieses heiligen Ortes",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Tragen Sie diesen Frieden in Ihr tägliches Leben",
+        "type": "observation"
+      }
+    ],
+    "tip": "Visuelle Reisen aktivieren die gleichen Gehirnzonen wie physische Erfahrung.",
+    "info": {
+      "why": "Imaginäres Wald-Immersion reduziert Stress und fördert Naturverbindung.",
+      "evidence": "Studien zeigen, dass virtuelle Naturerfahrung echte physiologische Effekte hat.",
+      "best": "Während der Arbeitswoche zur Stressabbau."
+    }
+  },
+  {
+    "id": "med_32",
+    "name": "Bergipfel Gipfel des Bewusstseins",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Besteigen Sie einen heiligen Berg und erreichen Sie höheres Bewusstsein",
+    "duration": 780,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Aufstieg",
+        "dur": 3,
+        "voice": "Besteigen Sie den heiligen Berg Schritt für Schritt",
+        "type": "observation"
+      },
+      {
+        "name": "Gipfel",
+        "dur": 9,
+        "voice": "Genießen Sie die erhebende Aussicht von dem Gipfel",
+        "type": "observation"
+      },
+      {
+        "name": "Erkenntnis",
+        "dur": 1,
+        "voice": "Empfange Weisheit aus dieser Höhe",
+        "type": "observation"
+      }
+    ],
+    "tip": "Bergbesteigung symbolisiert den Aufstieg zur spirituellen Erleuchtung.",
+    "info": {
+      "why": "Symbolische Bergbesteigung aktiviert Wachstumscenter im Gehirn.",
+      "evidence": "Archetypische Symbolik nutzt das tiefe Unbewusste zur Transformation.",
+      "best": "Bei Plateaus oder Stagnation."
+    }
+  },
+  {
+    "id": "med_33",
+    "name": "Ozeanwellen Entspannung",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Lassen Sie sich von sanften Ozeanwellen entspannen und beruhigen",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Strand",
+        "dur": 2,
+        "voice": "Stellen Sie sich an einem wunderschönen Strand vor",
+        "type": "observation"
+      },
+      {
+        "name": "Wellen",
+        "dur": 8,
+        "voice": "Lassen Sie sich von den rhythmischen Wellen wiegen und entspannen",
+        "type": "observation"
+      },
+      {
+        "name": "Klarheit",
+        "dur": 1,
+        "voice": "Fühlen Sie klare Klarheit wie das Ozeanwasser",
+        "type": "observation"
+      }
+    ],
+    "tip": "Das Meer symbolisiert das tiefe Unbewusste und emotionale Flüssigkeit.",
+    "info": {
+      "why": "Ozeanmeditationen aktivieren den parasympathischen Nerv durch Rhythmus.",
+      "evidence": "Wasser-Geräusche sind scientifically-optimiert zur Entspannung.",
+      "best": "Bei emotionaler Turbulenz."
+    }
+  },
+  {
+    "id": "med_34",
+    "name": "Sternenlicht Kosmische Reise",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Reisen Sie durch das Universum zu kosmischem Licht",
+    "duration": 840,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Liftoff",
+        "dur": 2,
+        "voice": "Starten Sie in den kosmischen Raum",
+        "type": "observation"
+      },
+      {
+        "name": "Reise",
+        "dur": 11,
+        "voice": "Schweben Sie durch Sterne und Galaxien",
+        "type": "observation"
+      },
+      {
+        "name": "Verbindung",
+        "dur": 1,
+        "voice": "Verbinde dich mit dem universellen Bewusstsein",
+        "type": "observation"
+      }
+    ],
+    "tip": "Kosmische Reisen öffnen das Bewusstsein für unendliche Möglichkeiten.",
+    "info": {
+      "why": "Kosmische Imagination verbessert Perspektive und reduziert Angst.",
+      "evidence": "Raumtranszendenzen-Meditation zeigt positiv auf Angststörungen.",
+      "best": "Abends für kosmische Verbindung."
+    }
+  },
+  {
+    "id": "med_35",
+    "name": "Kristallhöhle Heilung",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Betreten Sie eine wunderbare Kristallhöhle zur Tiefenheilung",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Entdeckung",
+        "dur": 2,
+        "voice": "Entdecke eine verborgene Kristallhöhle",
+        "type": "observation"
+      },
+      {
+        "name": "Heilung",
+        "dur": 9,
+        "voice": "Lass dich von der Kristallenergie heilen und transformieren",
+        "type": "observation"
+      },
+      {
+        "name": "Erfüllung",
+        "dur": 1,
+        "voice": "Verlasse die Höhle neu erfüllt",
+        "type": "observation"
+      }
+    ],
+    "tip": "Kristalle halten hochfrequente Energie zur Heilung und Klärung.",
+    "info": {
+      "why": "Kristallmeditationen nutzen geometrische Harmonie zur Heilung.",
+      "evidence": "Kristallheilkunst wird weltweit in Heilungspraxis eingesetzt.",
+      "best": "Bei physischer oder emotionaler Krankheit."
+    }
+  },
+  {
+    "id": "med_36",
+    "name": "Blumengarten Transformation",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Wandeln Sie sich wie eine Blume in einem himmlischen Garten",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Keim",
+        "dur": 2,
+        "voice": "Visualisiere dich als Blumensamen in reicher Erde",
+        "type": "observation"
+      },
+      {
+        "name": "Entfaltung",
+        "dur": 8,
+        "voice": "Wachse und entfalte deine Blütenblätter",
+        "type": "observation"
+      },
+      {
+        "name": "Blüte",
+        "dur": 1,
+        "voice": "Erreiche volle Blüte in Schönheit und Duft",
+        "type": "observation"
+      }
+    ],
+    "tip": "Der Blume folgt das Pflanzenwachstum. So auch dein inneres Wachstum.",
+    "info": {
+      "why": "Botanische Metaphern nutzen natürliche Zyklen zur Aktivierung des Wachstums.",
+      "evidence": "Natur-basierte Meditationen fördern persönliche Transformation.",
+      "best": "Bei Wachstumsprozessen oder Lebenswechsel."
+    }
+  },
+  {
+    "id": "med_37",
+    "name": "Licht durchflutete Kathedrale",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Treten Sie in eine heilige Kathedrale voller himmlischen Lichts",
+    "duration": 780,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eingang",
+        "dur": 2,
+        "voice": "Gehe hinein in die ehrfürchtige Kathedrale",
+        "type": "observation"
+      },
+      {
+        "name": "Anbetung",
+        "dur": 10,
+        "voice": "Bathe dich im heiligen Licht, das von oben strömt",
+        "type": "observation"
+      },
+      {
+        "name": "Erfüllung",
+        "dur": 1,
+        "voice": "Werde erfüllt mit göttlicher Präsenz",
+        "type": "observation"
+      }
+    ],
+    "tip": "Heilige Architektur aktiviert tiefe spirituelle Zentren.",
+    "info": {
+      "why": "Sakrale Visualisierungen aktivieren das Spirituelle Netzwerk im Gehirn.",
+      "evidence": "Kirchen-Meditation wird therapeutisch in der Seelsorge eingesetzt.",
+      "best": "Bei Suche nach spiritueller Tiefe."
+    }
+  },
+  {
+    "id": "med_38",
+    "name": "Feuer Transformation Kraft",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Nutze das transformative Feuer um alte Muster zu verbrennen",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Entzündung",
+        "dur": 1,
+        "voice": "Zünde das Feuer deiner Transformation an",
+        "type": "observation"
+      },
+      {
+        "name": "Verbrennung",
+        "dur": 8,
+        "voice": "Lass alles, was dir nicht dient, im Feuer verbrennen",
+        "type": "observation"
+      },
+      {
+        "name": "Wiedergeburt",
+        "dur": 1,
+        "voice": "Entstehe neu aus der Asche",
+        "type": "observation"
+      }
+    ],
+    "tip": "Feuer ist das Element der Transformation und Reinigung.",
+    "info": {
+      "why": "Feuermeditation aktiviert Willenskraft und Transformationsfähigkeit.",
+      "evidence": "Rituelles Feuer wird in vielen Kulturen zur Transformation genutzt.",
+      "best": "Bei der Bewältigung von Lebensveränderungen."
+    }
+  },
+  {
+    "id": "med_39",
+    "name": "Wasserstrom Fluss des Lebens",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Fließe wie ein Wasserstrom mit dem Leben mit",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Quelle",
+        "dur": 1,
+        "voice": "Entspringen Sie aus der Quelle des Lebens",
+        "type": "observation"
+      },
+      {
+        "name": "Fluss",
+        "dur": 7,
+        "voice": "Fließe mühelos mit dem Fluss des Lebens",
+        "type": "observation"
+      },
+      {
+        "name": "Ozean",
+        "dur": 1,
+        "voice": "Vereinige dich mit dem universellen Ozean",
+        "type": "observation"
+      }
+    ],
+    "tip": "Wasser-Natur lehrt uns, flexibel und kraftvoll zu sein.",
+    "info": {
+      "why": "Wasser-Fluss-Metapher hilft, Widerstand loszulassen.",
+      "evidence": "Flow-Psychologie zeigt positive Effekte dieser Mentalhaltung.",
+      "best": "Wenn Sie gegen das Leben arbeiten."
+    }
+  },
+  {
+    "id": "med_40",
+    "name": "Licht Heilungs Aura",
+    "cat": "Meditation",
+    "subcat": "Visualisierung",
+    "icon": "🌲",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Zeichne Heilungslicht in deine Aura um dich selbst zu heilen",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Aktivierung",
+        "dur": 1,
+        "voice": "Aktiviere das Heilungslicht in deinem Herzen",
+        "type": "observation"
+      },
+      {
+        "name": "Ausstrahlung",
+        "dur": 10,
+        "voice": "Strahle dieses Licht als heilsame Aura um deinen ganzen Körper",
+        "type": "observation"
+      },
+      {
+        "name": "Schutz",
+        "dur": 1,
+        "voice": "Nutze dieses Licht als Schutz und Heilung",
+        "type": "observation"
+      }
+    ],
+    "tip": "Deine Aura ist dein energetisches Immunsystem.",
+    "info": {
+      "why": "Aura-Visualisierung stärkt das Energiefeld zur Krankheitsabwehr.",
+      "evidence": "Bioenergieforschung zeigt messbares Aura-Feld um den Körper.",
+      "best": "Täglich zur energetischen Hygiene."
+    }
+  },
+  {
+    "id": "med_41",
+    "name": "Yoga Nidra Schlaf des Yogis",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Der klassische yogische Schlaf für tiefste Entspannung und Bewusstwachstum",
+    "duration": 1200,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Ankommen",
+        "dur": 2,
+        "voice": "Kommen Sie in Ihrem Körper an",
+        "type": "observation"
+      },
+      {
+        "name": "Sankalpa",
+        "dur": 2,
+        "voice": "Setzen Sie eine positive Intention",
+        "type": "observation"
+      },
+      {
+        "name": "Körperscan",
+        "dur": 10,
+        "voice": "Durchlaufen Sie Ihren ganzen Körper mit Aufmerksamkeit",
+        "type": "observation"
+      },
+      {
+        "name": "Gegenkörperscan",
+        "dur": 4,
+        "voice": "Durchlaufen Sie Ihren Körper in umgekehrter Richtung",
+        "type": "observation"
+      },
+      {
+        "name": "Abschluss",
+        "dur": 2,
+        "voice": "Kehren Sie langsam ins wache Bewusstsein zurück",
+        "type": "observation"
+      }
+    ],
+    "tip": "Yoga Nidra ist potentieller als Schlaf für tiefe Regeneration.",
+    "info": {
+      "why": "Yoga Nidra aktiviert den Theta-Zustand ohne Schlaf für Heilung.",
+      "evidence": "Neurowissenschaftliche Studien zeigen, dass Yoga Nidra dem REM-Schlaf ähnelt.",
+      "best": "Vor dem Schlafengehen oder am Wochenende."
+    }
+  },
+  {
+    "id": "med_42",
+    "name": "Chakra Nidra Energiereinigung",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Yoga Nidra mit Chakra-Fokus zur Energiereinigung",
+    "duration": 1080,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eröffnung",
+        "dur": 2,
+        "voice": "Öffnen Sie sich für die Chakra-Energien",
+        "type": "observation"
+      },
+      {
+        "name": "Wurzel bis Krone",
+        "dur": 13,
+        "voice": "Durchlaufen Sie alle sieben Chakren mit heilendem Licht",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 3,
+        "voice": "Integrieren Sie die Chakra-Harmonie in Ihrem Körper",
+        "type": "observation"
+      }
+    ],
+    "tip": "Chakra-Balance ist Schlüssel zu umfassender Gesundheit.",
+    "info": {
+      "why": "Chakra-Reinigung balanciert das gesamte Energiesystem.",
+      "evidence": "Traditionelle Chakra-Lehren werden durch modernes Verständnis bestätigt.",
+      "best": "Monatlich zur energetischen Wartung."
+    }
+  },
+  {
+    "id": "med_43",
+    "name": "Sankalpa Manifestation Nidra",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Yoga Nidra zur Manifestation Ihrer Lebensintentionen",
+    "duration": 960,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Ankern",
+        "dur": 2,
+        "voice": "Ankern Sie Ihre bewusste Intention",
+        "type": "observation"
+      },
+      {
+        "name": "Vertiefung",
+        "dur": 11,
+        "voice": "Immer wieder visualisieren Sie Ihre Intention im tiefsten inneren Raum",
+        "type": "observation"
+      },
+      {
+        "name": "Manifestation",
+        "dur": 3,
+        "voice": "Fühlen Sie, als ob Ihre Intention bereits manifestiert ist",
+        "type": "observation"
+      }
+    ],
+    "tip": "Sankalpa ist das Samenkorn der Manifestation.",
+    "info": {
+      "why": "Yoga Nidra mit Intention nutzt das unterbewusste Mind zur Manifestation.",
+      "evidence": "Quantenphysik unterstützt die Kraft von Intention und Visualisierung.",
+      "best": "Nächte vor wichtigen Tagen."
+    }
+  },
+  {
+    "id": "med_44",
+    "name": "Körper Bewusstsein Nidra",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Intensiver Körperscan in Yoga Nidra für Körper-Geist-Integration",
+    "duration": 1020,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Vorbereitung",
+        "dur": 1,
+        "voice": "Bereiten Sie sich auf eine innere Reise vor",
+        "type": "observation"
+      },
+      {
+        "name": "Detaillierter Scan",
+        "dur": 14,
+        "voice": "Durchlaufen Sie jeden Teil Ihres Körpers minutiös",
+        "type": "observation"
+      },
+      {
+        "name": "Einheit",
+        "dur": 2,
+        "voice": "Erfahren Sie Ihren Körper als harmonisches Ganzes",
+        "type": "observation"
+      }
+    ],
+    "tip": "Detailliertes Body-Scanning ist eine Form der Körpermitgefühl-Praxis.",
+    "info": {
+      "why": "Intensiver Körperscan aktiviert Heilungsmechanismen auf allen Ebenen.",
+      "evidence": "Somatische Therapieforschung zeigt Effektivität dieses Ansatzes.",
+      "best": "Regelmäßig zur Körper-Integration."
+    }
+  },
+  {
+    "id": "med_45",
+    "name": "Emotional Release Nidra",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Yoga Nidra zur Freisetzung gespeicherter Emotionen",
+    "duration": 1140,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Öffnung",
+        "dur": 2,
+        "voice": "Öffnen Sie sich für emotionale Freigabe",
+        "type": "observation"
+      },
+      {
+        "name": "Bewegung",
+        "dur": 14,
+        "voice": "Erlauben Sie Emotionen, frei durch Ihren Körper zu fließen",
+        "type": "observation"
+      },
+      {
+        "name": "Reinigung",
+        "dur": 3,
+        "voice": "Fühlen Sie, wie alte Emotionen gelöst werden",
+        "type": "observation"
+      }
+    ],
+    "tip": "Emotionen sind Energie in Bewegung. Yoga Nidra lässt sie fließen.",
+    "info": {
+      "why": "Yoga Nidra aktiviert das parasympathische System zur emotionalen Verarbeitung.",
+      "evidence": "Polyvagal-Theorie erklärt, warum Yoga Nidra Traumafreisetzung fördert.",
+      "best": "Nach emotionalen Herausforderungen."
+    }
+  },
+  {
+    "id": "med_46",
+    "name": "Zellulare Heilung Nidra",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Programmiere Deine Zellen zur Selbstheilung durch Yoga Nidra",
+    "duration": 1080,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Kontakt",
+        "dur": 1,
+        "voice": "Kontaktiere Dein Zellbewusstsein",
+        "type": "observation"
+      },
+      {
+        "name": "Programmierung",
+        "dur": 15,
+        "voice": "Programmiere Deine Zellen mit Heilungs- und Regenerationsbotschaften",
+        "type": "observation"
+      },
+      {
+        "name": "Aktivierung",
+        "dur": 2,
+        "voice": "Aktiviere Deine Selbstheilungskräfte",
+        "type": "observation"
+      }
+    ],
+    "tip": "Dein Körper hat ein inneres Ärztesystem. Diese Meditation aktiviert es.",
+    "info": {
+      "why": "Zellmeditation nutzt Epigenetik zur Aktivierung von Heilungsgenen.",
+      "evidence": "Bruce Liptons Arbeit zeigt, dass Überzeugungen Genexpression programmieren.",
+      "best": "Bei Heilungsbedarf."
+    }
+  },
+  {
+    "id": "med_47",
+    "name": "Schlaf Vorbereitung Nidra",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Yoga Nidra speziell zur Vorbereitung auf erholsamen Schlaf",
+    "duration": 960,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Entspannung",
+        "dur": 3,
+        "voice": "Entspannen Sie progressiv alle Muskeln",
+        "type": "observation"
+      },
+      {
+        "name": "Transition",
+        "dur": 12,
+        "voice": "Gleiten Sie mühelos vom Wachsein zum Schlaf",
+        "type": "observation"
+      },
+      {
+        "name": "Verankerung",
+        "dur": 1,
+        "voice": "Ankern Sie den Zustand guten Schlafes in Ihrem Körper-Geist",
+        "type": "observation"
+      }
+    ],
+    "tip": "Yoga Nidra vor dem Schlaf garantiert bessere Schlafqualität.",
+    "info": {
+      "why": "Yoga Nidra vor Schlaf reduziert Insomnia und verbessert Schlaftiefe.",
+      "evidence": "Schlafstudien zeigen, dass Yoga Nidra echten Schlaf vertieft.",
+      "best": "30 Minuten vor dem Schlafengehen."
+    }
+  },
+  {
+    "id": "med_48",
+    "name": "Gedächtnis Aktivierung Nidra",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Yoga Nidra zur Verbesserung der Lernfähigkeit und Gedächtnis",
+    "duration": 900,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Aktivierung",
+        "dur": 2,
+        "voice": "Aktiviere die Gedächtniszentren in deinem Gehirn",
+        "type": "observation"
+      },
+      {
+        "name": "Stärkung",
+        "dur": 12,
+        "voice": "Verstärke Dein Gedächtnis und Lernfähigkeit",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Integriere besseres Lernen in Deinen Alltag",
+        "type": "observation"
+      }
+    ],
+    "tip": "Yoga Nidra kombiniert Entspannung mit kognitiver Aktivierung.",
+    "info": {
+      "why": "Yoga Nidra im Theta-Zustand fördert Langzeitspeicherung.",
+      "evidence": "Lernforschung zeigt, dass Theta-Wellen-Aktivität Gedächtnis verstärken.",
+      "best": "Vor Lernphasen oder zum Lernen neue Informationen."
+    }
+  },
+  {
+    "id": "med_49",
+    "name": "Vitale Energie Nidra",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Yoga Nidra zur Revitalisierung Deiner Vitalenergie und Lebenskraft",
+    "duration": 1020,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erwachen",
+        "dur": 2,
+        "voice": "Erwache zu deiner inneren Vitalität",
+        "type": "observation"
+      },
+      {
+        "name": "Aufbau",
+        "dur": 13,
+        "voice": "Baue deine Prana-Energie systematisch auf",
+        "type": "observation"
+      },
+      {
+        "name": "Durchfluss",
+        "dur": 2,
+        "voice": "Lasse diese Energie durch deinen ganzen Körper fließen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Vitalenergie ist Dein Kraftstoff. Yoga Nidra füllt den Tank.",
+    "info": {
+      "why": "Yoga Nidra am Morgen revitalisiert Prana für den ganzen Tag.",
+      "evidence": "Traditionelle Ayurveda-Medizin nutzt Prana-Steigerung zur Vitalität.",
+      "best": "Morgens nach dem Aufwachen."
+    }
+  },
+  {
+    "id": "med_50",
+    "name": "Spirituelle Öffnung Nidra",
+    "cat": "Meditation",
+    "subcat": "Yoga Nidra",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#ffd89b,#19547b)",
+    "desc": "Yoga Nidra zur spirituellen Erweckung und Transzendenz",
+    "duration": 1200,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eröffnung",
+        "dur": 3,
+        "voice": "Öffne dich für spirituelle Realitäten",
+        "type": "observation"
+      },
+      {
+        "name": "Aufstieg",
+        "dur": 15,
+        "voice": "Steige zu höheren Ebenen des Bewusstseins auf",
+        "type": "observation"
+      },
+      {
+        "name": "Segen",
+        "dur": 2,
+        "voice": "Empfange spirituelle Segen und Initiation",
+        "type": "observation"
+      }
+    ],
+    "tip": "Yoga Nidra ist das Tor zu transzendentalen Erfahrungen.",
+    "info": {
+      "why": "Yoga Nidra öffnet Zugang zum höheren Selbst und spiritueller Tiefe.",
+      "evidence": "Yogis nutzen Yoga Nidra zur spirituellen Erweckung seit Jahrtausenden.",
+      "best": "Regelmäßig zum spirituellen Wachstum."
+    }
+  },
+  {
+    "id": "med_51",
+    "name": "Angst befreit Atem",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Atemtechnik zur schnellen Befreiung von Angst und Panik",
+    "duration": 300,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkennung",
+        "dur": 1,
+        "voice": "Erkenne deine Angst ohne Widerstand",
+        "type": "observation"
+      },
+      {
+        "name": "Tiefe Atmung",
+        "dur": 3,
+        "voice": "Atme tief und langsam, um dein Nervensystem zu beruhigen",
+        "type": "observation"
+      },
+      {
+        "name": "Befreiung",
+        "dur": 1,
+        "voice": "Spüre, wie die Angst mit jedem Atemzug verblasst",
+        "type": "observation"
+      }
+    ],
+    "tip": "Tiefe Atmung ist der schnellste Weg, um Angst zu befrieden.",
+    "info": {
+      "why": "Langsame Atmung aktiviert den Vagusnerv zur Angstreduktion.",
+      "evidence": "Studien zeigen, dass 4-7-8 Atmung Angst sofort reduziert.",
+      "best": "Bei Angstaufflammen."
+    }
+  },
+  {
+    "id": "med_52",
+    "name": "Sorge Freigabe",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Befreien Sie sich von chronischen Sorgen und Besorgnis",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkennung",
+        "dur": 1,
+        "voice": "Erkenne deine habituellen Sorgen",
+        "type": "observation"
+      },
+      {
+        "name": "Loslassen",
+        "dur": 6,
+        "voice": "Stelle jede Sorge dar und lass sie los",
+        "type": "observation"
+      },
+      {
+        "name": "Frieden",
+        "dur": 1,
+        "voice": "Spüre den Frieden, wenn Sorgen losgelassen werden",
+        "type": "observation"
+      }
+    ],
+    "tip": "Sorgen sind Gedanken über Zukunft, die nicht existiert.",
+    "info": {
+      "why": "Das Erkennen der Natur von Sorgen mindert ihre Kraft.",
+      "evidence": "Kognitiv-Verhaltenstherapie zeigt, dass Sorgen-Identifikation diese reduziert.",
+      "best": "Täglich zur Sorgen-Management."
+    }
+  },
+  {
+    "id": "med_53",
+    "name": "Stressabbau Körper Release",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Physisches Loslassen von Stress aus Ihren Muskeln und Geweben",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Lokalisierung",
+        "dur": 1,
+        "voice": "Lokalisiere wo du Stress speicherst",
+        "type": "observation"
+      },
+      {
+        "name": "Freigabe",
+        "dur": 7,
+        "voice": "Lass Spannung durch Bewegung und Atemzüge los",
+        "type": "observation"
+      },
+      {
+        "name": "Erleichterung",
+        "dur": 1,
+        "voice": "Spüre die Erleichterung und Lockerheit",
+        "type": "observation"
+      }
+    ],
+    "tip": "Stress ist viel im Körper gelagert. Körperliche Freigabe ist essentiell.",
+    "info": {
+      "why": "Somatische Freigabe aktiviert das parasympathische Nervensystem.",
+      "evidence": "Somatische Therapie zeigt, dass körperliche Freigabe Stress löst.",
+      "best": "Nach stressigen Situationen."
+    }
+  },
+  {
+    "id": "med_54",
+    "name": "Angststörung Tiefenarbeit",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Tiefere Arbeit mit grundlegenden Angstmustern",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eintritt",
+        "dur": 2,
+        "voice": "Betritt deine grundlegende Angst mit Mut",
+        "type": "observation"
+      },
+      {
+        "name": "Transformation",
+        "dur": 9,
+        "voice": "Transformiere die Ursprünge deiner Angst durch Bewusstsein",
+        "type": "observation"
+      },
+      {
+        "name": "Neubewertung",
+        "dur": 1,
+        "voice": "Erkenne die Angst neu als überholtes Schutzmuster",
+        "type": "observation"
+      }
+    ],
+    "tip": "Tiefere Angststörungen brauchen geduldig Transformationsarbeit.",
+    "info": {
+      "why": "Primäre Angstmuster erfordern tiefe unbewusste Arbeit zur Heilung.",
+      "evidence": "Emotionale Freigabe-Arbeit zeigt tiefe Transformationsergebnisse.",
+      "best": "Regelmäßig über mehrere Wochen."
+    }
+  },
+  {
+    "id": "med_55",
+    "name": "Sozialer Angst Überwind",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Überwindung von sozialer Angst und Nervosität in sozialen Situationen",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Exposition",
+        "dur": 1,
+        "voice": "Stelle dich deiner sozialen Angst mutig",
+        "type": "observation"
+      },
+      {
+        "name": "Umgestaltung",
+        "dur": 6,
+        "voice": "Ändere deine Gedanken über soziale Situationen",
+        "type": "observation"
+      },
+      {
+        "name": "Vertrauen",
+        "dur": 1,
+        "voice": "Baue Selbstvertrauen in sozialen Kontexten auf",
+        "type": "observation"
+      }
+    ],
+    "tip": "Soziale Angst ist Furcht vor Urteil. Selbstakzeptanz ist das Gegenmittel.",
+    "info": {
+      "why": "Soziale Angst reduziert durch Exposition und Gedankenumgestaltung.",
+      "evidence": "Kognitive Verhaltenstherapie ist goldener Standard für Sozialangst.",
+      "best": "Vor sozialen Veranstaltungen."
+    }
+  },
+  {
+    "id": "med_56",
+    "name": "Panik Kontrolle Meisterschaft",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Meistere Panikattacken durch Atemkontrolle und Präsenz",
+    "duration": 420,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Ankern",
+        "dur": 1,
+        "voice": "Ankere dich in dieser Moment",
+        "type": "observation"
+      },
+      {
+        "name": "Atmungskontrolle",
+        "dur": 5,
+        "voice": "Kontrolliere deine Atmung, um Panik zu beruhigen",
+        "type": "observation"
+      },
+      {
+        "name": "Meisterschaft",
+        "dur": 1,
+        "voice": "Meistere jede Panikattacke mit diesen Werkzeugen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Panik ist physisches Unbehagen mit psychologischen Überzeugungen. Beider können sich ändern.",
+    "info": {
+      "why": "Atemkontrolle reduziert physische Symptome von Panik.",
+      "evidence": "Hyperventilations-Kontrollstudien zeigen 80% Reduktion von Panik.",
+      "best": "Beim ersten Zeichen von Panik."
+    }
+  },
+  {
+    "id": "med_57",
+    "name": "Schlafstörung Entspannung",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Entspannung für stressgestörten Schlaf",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Vorbereitung",
+        "dur": 1,
+        "voice": "Bereite deinen Körper auf Entspannung vor",
+        "type": "observation"
+      },
+      {
+        "name": "Stressabbau",
+        "dur": 8,
+        "voice": "Lasse systematisch allen Stress los",
+        "type": "observation"
+      },
+      {
+        "name": "Schlafübergang",
+        "dur": 1,
+        "voice": "Gleite sanft in Schlaf über",
+        "type": "observation"
+      }
+    ],
+    "tip": "Stress hindert Schlaf. Diese Meditation bereitet Schlaf vor.",
+    "info": {
+      "why": "Stress-bedingte Schlaflosigkeit erfordert Stress-freigabe vor dem Schlaf.",
+      "evidence": "Schlaftechniken-Studien zeigen Effektivität dieser Herangehensweise.",
+      "best": "30 Minuten vor dem Schlafengehen."
+    }
+  },
+  {
+    "id": "med_58",
+    "name": "Chronische Anspannung befreit",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Befreie dich von chronischer Körperanspannung",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Awareness",
+        "dur": 2,
+        "voice": "Werde dir deiner chronischen Anspannung bewusst",
+        "type": "observation"
+      },
+      {
+        "name": "Freigabe",
+        "dur": 8,
+        "voice": "Lasse diese tiefe Anspannung systematisch los",
+        "type": "observation"
+      },
+      {
+        "name": "Neugewohnheit",
+        "dur": 1,
+        "voice": "Etabliere neue Gewohnheit der Entspannung",
+        "type": "observation"
+      }
+    ],
+    "tip": "Chronische Anspannung wird zur neuen Norm. Diese Meditation setzt sie zurück.",
+    "info": {
+      "why": "Chronische Anspannung erfordert systematisches Umtraining des Nervensystems.",
+      "evidence": "Neurofeedback-Forschung zeigt, dass das Nervensystem umgestellt werden kann.",
+      "best": "Regelmäßig über mehrere Wochen."
+    }
+  },
+  {
+    "id": "med_59",
+    "name": "Trauma Release und Heilung",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Sanfte Trauma-Freigabe und Heilung",
+    "duration": 780,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Sicherheit",
+        "dur": 2,
+        "voice": "Stelle innere Sicherheit her",
+        "type": "observation"
+      },
+      {
+        "name": "Freigabe",
+        "dur": 10,
+        "voice": "Lasse traumatische Energien langsam los",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Integriere Heilung in dein neues Leben",
+        "type": "observation"
+      }
+    ],
+    "tip": "Trauma erfordert sanfte, schrittweise Freigabe, nicht Konfrontation.",
+    "info": {
+      "why": "Traumatische Freigabe erfordert Sicherheit und Schrittweise-Natur.",
+      "evidence": "Somatic Experiencing und Polyvagal-Theorie zeigen wirksame Trauma-Heilung.",
+      "best": "Mit Therapeut oder regelmäßig."
+    }
+  },
+  {
+    "id": "med_60",
+    "name": "Hyperarousal Normalisierung",
+    "cat": "Meditation",
+    "subcat": "Stress & Angst",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Normalisierung von Übererregung des Nervensystems",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkennung",
+        "dur": 1,
+        "voice": "Erkenne Hyperarousal in deinem Körper",
+        "type": "observation"
+      },
+      {
+        "name": "Regulation",
+        "dur": 10,
+        "voice": "Reguliere dein Nervensystem zur Normalität",
+        "type": "observation"
+      },
+      {
+        "name": "Stabilisierung",
+        "dur": 1,
+        "voice": "Stabilisiere diesen neuen ausgeglichenen Zustand",
+        "type": "observation"
+      }
+    ],
+    "tip": "Hyperarousal ist Daueralarm. Diese Meditation lehrt neue Ruhe.",
+    "info": {
+      "why": "Hyperarousal-Normalisierung erfordert systamtisches Nervensystem-Retraining.",
+      "evidence": "Trauma-Therapie zeigt, dass chronische Hyperarousal rückgängig gemacht werden kann.",
+      "best": "Täglich zur Nervensystem-Neuausrichtung."
+    }
+  },
+  {
+    "id": "med_61",
+    "name": "Tiefschlaf Initiation",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Initiation von tiefem, erholsamen Schlaf",
+    "duration": 900,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Vorbereitung",
+        "dur": 2,
+        "voice": "Bereite deinen Körper vollständig vor",
+        "type": "observation"
+      },
+      {
+        "name": "Tiefschlaf-Induktion",
+        "dur": 12,
+        "voice": "Führe deinen Körper in die tiefsten Schlafstadien",
+        "type": "observation"
+      },
+      {
+        "name": "Verankerung",
+        "dur": 1,
+        "voice": "Verankere tiefe Schlaf-Gewohnheit in deinem Körper",
+        "type": "observation"
+      }
+    ],
+    "tip": "Tiefschlaf ist wenn echte Regeneration stattfindet.",
+    "info": {
+      "why": "Tiefschlaf-Initiations-Meditation fördert langsame Gehirnwellen.",
+      "evidence": "Schlaf-Stadien-Forschung zeigt, dass Meditation Tiefschlaf erhöht.",
+      "best": "Direkt vor dem Schlafengehen."
+    }
+  },
+  {
+    "id": "med_62",
+    "name": "Traumfreier Schlaf Raum",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Schaffeinen sicheren Raum für traumfreien, ruhigen Schlaf",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Sicherheit",
+        "dur": 2,
+        "voice": "Schaffe einen Sicherheitsraum in deinem Unbewusstsein",
+        "type": "observation"
+      },
+      {
+        "name": "Schlaf-Raum",
+        "dur": 9,
+        "voice": "Etabliere einen heiligen Schlafraum frei von Alpträumen",
+        "type": "observation"
+      },
+      {
+        "name": "Schutz",
+        "dur": 1,
+        "voice": "Schütze diesen Raum mit deiner Intention",
+        "type": "observation"
+      }
+    ],
+    "tip": "Ein sicherer innerer Raum ist Grundlage für ruhigen Schlaf.",
+    "info": {
+      "why": "Sichere innere Räume reduzieren Alpträume und nächtliche Angst.",
+      "evidence": "Traumatherapie nutzt diese Technik zur Sicherheitsgenerierung.",
+      "best": "Regelmäßig vor dem Schlaf."
+    }
+  },
+  {
+    "id": "med_63",
+    "name": "Schlafzyklus Optimierung",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Optimiere deine natürlichen Schlafzyklen",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Rhythmus-Einstimmung",
+        "dur": 2,
+        "voice": "Stimme dich auf deinen natürlichen Schlaf-Wach-Rhythmus ein",
+        "type": "observation"
+      },
+      {
+        "name": "Zyklus-Optimierung",
+        "dur": 8,
+        "voice": "Optimiere alle Phasen deines Schlafzyklus",
+        "type": "observation"
+      },
+      {
+        "name": "Harmonie",
+        "dur": 1,
+        "voice": "Harmonisiere dich mit zirkadianen Rhythmen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Natürliche Schlafzyklen sind nicht optional, sie sind essentiell.",
+    "info": {
+      "why": "Zirkadianer Rhythmus-Alignment verbessert Schlafqualität dramatisch.",
+      "evidence": "Chronobiology-Forschung zeigt, dass Rhythmus-Optimierung Schlaf transformiert.",
+      "best": "Täglich zur Rhythmus-Optimization."
+    }
+  },
+  {
+    "id": "med_64",
+    "name": "Entspannung vor Schlaf",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Progressive Entspannung zur Vorbereitung auf erholsamen Schlaf",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Ankommen",
+        "dur": 1,
+        "voice": "Komme zu dir an",
+        "type": "observation"
+      },
+      {
+        "name": "Progressive Entspannung",
+        "dur": 8,
+        "voice": "Entspanne progressiv jeden Körperteil",
+        "type": "observation"
+      },
+      {
+        "name": "Übergabe",
+        "dur": 1,
+        "voice": "Übergib dich dem Schlaf",
+        "type": "observation"
+      }
+    ],
+    "tip": "Progressive Entspannung vor Schlaf reduziert Schlaflatenz.",
+    "info": {
+      "why": "Progressive Muskelentspannung fördert schnelle Schlafeinleitung.",
+      "evidence": "PMR-Studien zeigen signifikante Schlafverbesserungen.",
+      "best": "30 Minuten vor dem Schlafengehen."
+    }
+  },
+  {
+    "id": "med_65",
+    "name": "Nachtruhe Wiederherstellung",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Wiederherstellung durch nächtliche Ruhemeditation",
+    "duration": 780,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Zufluchtsort",
+        "dur": 2,
+        "voice": "Schaffe deinen inneren Zufluchtsort für Ruhe",
+        "type": "observation"
+      },
+      {
+        "name": "Tiefe Heilung",
+        "dur": 10,
+        "voice": "Ermögliche tiefe nächtliche Heilung und Regeneration",
+        "type": "observation"
+      },
+      {
+        "name": "Verjüngung",
+        "dur": 1,
+        "voice": "Erwache verjüngt und erfrischt",
+        "type": "observation"
+      }
+    ],
+    "tip": "Nacht ist wenn Körper und Geist wirklich heilen.",
+    "info": {
+      "why": "Nächtliche Meditation verstärkt Körperheilungsprozesse.",
+      "evidence": "Melatonin-Forschung zeigt, dass Nacht Heilungs-Peak ist.",
+      "best": "Jeden Abend vor Schlaf."
+    }
+  },
+  {
+    "id": "med_66",
+    "name": "Schlafapnoe Erleichterung",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Erleichterung von Schlafapnoe durch Atemregulation",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Atemkenntnis",
+        "dur": 1,
+        "voice": "Werde dir deines Atems bewusst",
+        "type": "observation"
+      },
+      {
+        "name": "Regulierung",
+        "dur": 6,
+        "voice": "Reguliere deinen Atem für kontinuierliches Atmen während des Schlafs",
+        "type": "observation"
+      },
+      {
+        "name": "Stabilisierung",
+        "dur": 1,
+        "voice": "Stabilisiere gesunden Atem",
+        "type": "observation"
+      }
+    ],
+    "tip": "Schlafapnoe ist oft psychosomatisch. Atemregulation hilft.",
+    "info": {
+      "why": "Atemregulations-Meditationen können mild-moderate Schlafapnoe reduzieren.",
+      "evidence": "Atemtherapie-Studien zeigen Apnoe-Reduktion durch Atemarbeit.",
+      "best": "Täglich und vor Schlaf."
+    }
+  },
+  {
+    "id": "med_67",
+    "name": "REM-Schlaf Unterstützung",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Unterstützung von traumischem REM-Schlaf für emotionale Verarbeitung",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Traum-Einleitung",
+        "dur": 2,
+        "voice": "Leite deinen Körper in REM-Schlaf ein",
+        "type": "observation"
+      },
+      {
+        "name": "Traumverarbeitung",
+        "dur": 9,
+        "voice": "Ermögliche emotionale Verarbeitung durch Träume",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Integriere Traumeinsichten in deinen Tag",
+        "type": "observation"
+      }
+    ],
+    "tip": "REM-Schlaf und Träume sind essentiell für emotionale Gesundheit.",
+    "info": {
+      "why": "REM-Schlaf-Unterstützung fördert psychologische Heilung.",
+      "evidence": "Traumforschung zeigt, dass ausreichend REM Depressionen verhindert.",
+      "best": "Nächte nach emotionalen Herausforderungen."
+    }
+  },
+  {
+    "id": "med_68",
+    "name": "Schlaflosigkeit Heilung",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Heilung chronischer Schlaflosigkeit",
+    "duration": 840,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Akzeptanz",
+        "dur": 2,
+        "voice": "Akzeptiere Schlaflosigkeit ohne Kampf",
+        "type": "observation"
+      },
+      {
+        "name": "Entspannung",
+        "dur": 11,
+        "voice": "Entspanne dich in diese Nacht ohne Schlaf zu erzwingen",
+        "type": "observation"
+      },
+      {
+        "name": "Vertrauen",
+        "dur": 1,
+        "voice": "Vertraue, dass dein Körper weiß, wie man schläft",
+        "type": "observation"
+      }
+    ],
+    "tip": "Kampf gegen Schlaflosigkeit verstärkt sie. Ent-Kampf heilt.",
+    "info": {
+      "why": "Paradoxe Intention hat sich bei Insomnia als wirksam erwiesen.",
+      "evidence": "Schlafforschung zeigt, dass Entspannung Insomnia mehr reduziert als Erzwingung.",
+      "best": "Jede Nacht bei Schlafstörungen."
+    }
+  },
+  {
+    "id": "med_69",
+    "name": "Morgenfrische Erwachen",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Aufwachen mit Frische und Vitalität",
+    "duration": 420,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Sanftes Aufwachen",
+        "dur": 2,
+        "voice": "Erwache sanft und liebevoll",
+        "type": "observation"
+      },
+      {
+        "name": "Energetisierung",
+        "dur": 4,
+        "voice": "Energetisiere deinen Körper für den Tag",
+        "type": "observation"
+      },
+      {
+        "name": "Intention",
+        "dur": 1,
+        "voice": "Setze positive Intention für deinen Tag",
+        "type": "observation"
+      }
+    ],
+    "tip": "Wie du aufwachst setzt den Ton für deinen ganzen Tag.",
+    "info": {
+      "why": "Bewusstes Aufwachen setzt positive Tagesabläufe in Bewegung.",
+      "evidence": "Morgen-Ritual-Forschung zeigt signifikante Tageseffekte.",
+      "best": "Jeden Morgen."
+    }
+  },
+  {
+    "id": "med_70",
+    "name": "Jet-Lag Anpassung",
+    "cat": "Meditation",
+    "subcat": "Schlaf",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Schnelle Anpassung an neue Zeitzonen und Jet-Lag",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkenntnis",
+        "dur": 1,
+        "voice": "Erkenne deinen lokalen Zeit-Rhythmus",
+        "type": "observation"
+      },
+      {
+        "name": "Umgestaltung",
+        "dur": 8,
+        "voice": "Gestalte deinen inneren Rhythmus in neue Zone um",
+        "type": "observation"
+      },
+      {
+        "name": "Ankern",
+        "dur": 1,
+        "voice": "Ankere dich in neue Zeitzone ein",
+        "type": "observation"
+      }
+    ],
+    "tip": "Mentale Umgestaltung funktioniert oft besser als Schlafmittel bei Jet-Lag.",
+    "info": {
+      "why": "Zirkadiane Rhythmus-Neuprogrammierung hilft Jet-Lag schneller zu überwinden.",
+      "evidence": "Chronobiologie zeigt, dass Meditation schnellere Anpassung unterstützt.",
+      "best": "Bei Ankunft in neuer Zeitzone."
+    }
+  },
+  {
+    "id": "med_71",
+    "name": "Fokus Klarheit Konzentration",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Schärfe deinen Fokus für maximale Produktivität",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Sammlung",
+        "dur": 1,
+        "voice": "Sammle deinen zerstreuten Geist",
+        "type": "observation"
+      },
+      {
+        "name": "Fokus-Training",
+        "dur": 6,
+        "voice": "Trainiere deinen Fokus mit jeder Sekunde",
+        "type": "observation"
+      },
+      {
+        "name": "Durchdringung",
+        "dur": 1,
+        "voice": "Durchdringe deine Aufgabe mit Laser-Fokus",
+        "type": "observation"
+      }
+    ],
+    "tip": "Fokus ist trainierbare Fähigkeit. Diese Meditation trainiert sie.",
+    "info": {
+      "why": "Attention-Training aktiviert präfrontalen Kortex zur Fokus-Optimierung.",
+      "evidence": "Brain-Training-Studien zeigen, dass Fokus-Meditation Produktivität erhöht.",
+      "best": "Vor wichtigen Arbeiten."
+    }
+  },
+  {
+    "id": "med_72",
+    "name": "Mentale Klarheit Erhellung",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Klare dein Gehirn für mentale Helligkeit",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Nebel-Auflösung",
+        "dur": 1,
+        "voice": "Löse mentalen Nebel auf",
+        "type": "observation"
+      },
+      {
+        "name": "Klar-Machen",
+        "dur": 7,
+        "voice": "Mache deinen Geist kristallklar",
+        "type": "observation"
+      },
+      {
+        "name": "Glanz",
+        "dur": 1,
+        "voice": "Strahle mentale Klarheit aus",
+        "type": "observation"
+      }
+    ],
+    "tip": "Mentale Klarheit ist nicht genetisch. Sie ist trainierbar.",
+    "info": {
+      "why": "Gehirn-Klarheits-Training aktiviert Default Mode Network zur Gedanken-Organisation.",
+      "evidence": "Kognitive Effizienz-Studien zeigen Verbesserungen durch Meditation.",
+      "best": "Morgens vor dem Tag."
+    }
+  },
+  {
+    "id": "med_73",
+    "name": "Energie Auffüllung Revival",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Schnelle Energieauffüllung für müde Tage",
+    "duration": 360,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkennung",
+        "dur": 1,
+        "voice": "Erkenne deine Müdigkeit",
+        "type": "observation"
+      },
+      {
+        "name": "Aufladung",
+        "dur": 4,
+        "voice": "Lade deine Energie schnell wieder auf",
+        "type": "observation"
+      },
+      {
+        "name": "Vitalität",
+        "dur": 1,
+        "voice": "Strahle neue Vitalität aus",
+        "type": "observation"
+      }
+    ],
+    "tip": "Diese 6-Minuten-Meditation kann Mittagsmüdigkeit sofort beheben.",
+    "info": {
+      "why": "Kurze Meditationen aktivieren schnelle Energie-Regeneration.",
+      "evidence": "Power-Nap-Forschung zeigt schnelle Energieauffüllung möglich.",
+      "best": "Zur Mittagszeit bei Energieabfall."
+    }
+  },
+  {
+    "id": "med_74",
+    "name": "Flow State Aktivierung",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Aktiviere deinen Flow-State für optimale Leistung",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Einstimmung",
+        "dur": 1,
+        "voice": "Stimme dich auf Flow ein",
+        "type": "observation"
+      },
+      {
+        "name": "Flow-Zustand",
+        "dur": 8,
+        "voice": "Betritt deinen Flow-State von zeitloser Konzentration",
+        "type": "observation"
+      },
+      {
+        "name": "Aufbau",
+        "dur": 1,
+        "voice": "Baue deine Flow-Fähigkeit auf",
+        "type": "observation"
+      }
+    ],
+    "tip": "Flow-State ist der Gipfel von Produktivität und Zufriedenheit.",
+    "info": {
+      "why": "Flow-Aktivierungs-Meditationen aktivieren spezifische Hirnmuster für Flow.",
+      "evidence": "Flow-Psychologie-Forschung zeigt Meditationseffektivität.",
+      "best": "Vor kreativer oder konzentrierter Arbeit."
+    }
+  },
+  {
+    "id": "med_75",
+    "name": "Mentale Ausdauer Trainierung",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Trainiere mentale Ausdauer für längere Konzentration",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Fundament",
+        "dur": 2,
+        "voice": "Baue Konzentrations-Fundament",
+        "type": "observation"
+      },
+      {
+        "name": "Ausdauer",
+        "dur": 8,
+        "voice": "Trainiere mentale Ausdauer wie Muskeltraining",
+        "type": "observation"
+      },
+      {
+        "name": "Stabilität",
+        "dur": 1,
+        "voice": "Baue dauerhafte mentale Stabilität auf",
+        "type": "observation"
+      }
+    ],
+    "tip": "Mentale Ausdauer ist Muskel, die trainiert werden muss.",
+    "info": {
+      "why": "Konzentrations-Training stärkt die Gehirn-Muskeln für längere Fokus.",
+      "evidence": "Neurotraining-Studien zeigen, dass Meditation Ausdauer stärkt.",
+      "best": "Regelmäßig zur Aufbau von Ausdauer."
+    }
+  },
+  {
+    "id": "med_76",
+    "name": "Kreativer Durchbruch",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Durchbreche kreative Blockaden und Stagnation",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Blockade Erkennung",
+        "dur": 1,
+        "voice": "Erkenne deine kreativen Blockaden",
+        "type": "observation"
+      },
+      {
+        "name": "Durchbruch",
+        "dur": 8,
+        "voice": "Durchbreche diese Blockaden mit Bewusstsein und Intention",
+        "type": "observation"
+      },
+      {
+        "name": "Fluss",
+        "dur": 1,
+        "voice": "Lasse Kreativität wieder frei fließen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Kreative Blockaden sind psychische Konstrukte, die leicht gelöst werden können.",
+    "info": {
+      "why": "Blockade-Durchbruch-Meditation aktiviert den Standard Network für Kreativität.",
+      "evidence": "Kreativitätsforschung zeigt, dass Achtsamkeit Blockaden löst.",
+      "best": "Bei kreativer Stagnation."
+    }
+  },
+  {
+    "id": "med_77",
+    "name": "Müdigkeit Energetisierung",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Energetisierung bei chronischer Müdigkeit",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Lokalisierung",
+        "dur": 2,
+        "voice": "Lokalisiere die Quelle deiner Müdigkeit",
+        "type": "observation"
+      },
+      {
+        "name": "Energetisierung",
+        "dur": 9,
+        "voice": "Aktiviere deine innere Energiequellen",
+        "type": "observation"
+      },
+      {
+        "name": "Prana-Aktivierung",
+        "dur": 1,
+        "voice": "Aktiviere Prana-Fluss durch deinen Körper",
+        "type": "observation"
+      }
+    ],
+    "tip": "Chronische Müdigkeit hat oft emotionale oder energetische Wurzeln.",
+    "info": {
+      "why": "Energie-Aktivierungs-Meditation adressiert die Wurzeln der Müdigkeit.",
+      "evidence": "Pranic-Heilungs-Studien zeigen Effektivität bei Müdigkeit.",
+      "best": "Morgens oder bei Müdigkeit."
+    }
+  },
+  {
+    "id": "med_78",
+    "name": "Willenskraft Stärkung",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Stärke deine Willenskraft für anhaltende Ziele",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Kontakt",
+        "dur": 1,
+        "voice": "Kontaktiere deine innere Willenskraft",
+        "type": "observation"
+      },
+      {
+        "name": "Aktivierung",
+        "dur": 7,
+        "voice": "Aktiviere und stärke deine Willenskraft-Zentren",
+        "type": "observation"
+      },
+      {
+        "name": "Entschlossenheit",
+        "dur": 1,
+        "voice": "Baue Entschlossenheit für deine Ziele auf",
+        "type": "observation"
+      }
+    ],
+    "tip": "Willenskraft ist nicht genetisch. Sie kann trainiert und gestärkt werden.",
+    "info": {
+      "why": "Willenskraft-Training aktiviert das Solarplexus-Chakra zur Willens-Stärkung.",
+      "evidence": "Willenskraft-Forschung zeigt, dass sie trainierbar ist.",
+      "best": "Täglich zur Willenskraft-Aufbau."
+    }
+  },
+  {
+    "id": "med_79",
+    "name": "Proaktive Energie",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Entwickle proaktive statt reaktive Energie",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkenntnis",
+        "dur": 1,
+        "voice": "Erkenne deine reaktiven Muster",
+        "type": "observation"
+      },
+      {
+        "name": "Umgestaltung",
+        "dur": 6,
+        "voice": "Gestalte sie in proaktive Kraft um",
+        "type": "observation"
+      },
+      {
+        "name": "Initiative",
+        "dur": 1,
+        "voice": "Baue proaktive Initiative in deinem Energiemuster auf",
+        "type": "observation"
+      }
+    ],
+    "tip": "Reaktivität ist Energieverschwendung. Proaktivität ist Energieoptimierung.",
+    "info": {
+      "why": "Proaktive Energie-Umgestaltung spart Energie und multipliziert Effektivität.",
+      "evidence": "Psychologische Flexibilität erhöht sich durch diese Praxis.",
+      "best": "Morgens zur Tagesausrichtung."
+    }
+  },
+  {
+    "id": "med_80",
+    "name": "Immunenergie Aktivierung",
+    "cat": "Meditation",
+    "subcat": "Fokus & Energie",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Aktiviere deine Immun-Energiefunktion",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Kontakt",
+        "dur": 1,
+        "voice": "Kontaktiere dein Immun-System",
+        "type": "observation"
+      },
+      {
+        "name": "Aktivierung",
+        "dur": 9,
+        "voice": "Aktiviere und stärke deine Immunfunktion",
+        "type": "observation"
+      },
+      {
+        "name": "Schutz",
+        "dur": 1,
+        "voice": "Baue einen energetischen Immunschutz auf",
+        "type": "observation"
+      }
+    ],
+    "tip": "Das Immune System ist größtenteils mental-emotional kontrolliert.",
+    "info": {
+      "why": "Psychoneuroimmunologie zeigt, dass Gedanken Immunfunktion beeinflussen.",
+      "evidence": "Studien zeigen, dass Meditation Immune-Marker verbessert.",
+      "best": "Täglich zur Immun-Stärkung."
+    }
+  },
+  {
+    "id": "med_81",
+    "name": "Selbstliebe Grundlagen",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Grundlagen der Selbstliebe und Selbstannahme",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkenntnis",
+        "dur": 1,
+        "voice": "Erkenne, dass du Liebe würdig bist",
+        "type": "observation"
+      },
+      {
+        "name": "Akzeptanz",
+        "dur": 6,
+        "voice": "Akzeptiere dich vollständig so wie du bist",
+        "type": "observation"
+      },
+      {
+        "name": "Liebe",
+        "dur": 1,
+        "voice": "Liebe dich selbst bedingungslos",
+        "type": "observation"
+      }
+    ],
+    "tip": "Selbstliebe ist nicht Egoismus. Sie ist Selbstrespekt.",
+    "info": {
+      "why": "Selbstliebe ist Wurzel aller psychologischen Gesundheit.",
+      "evidence": "Psychologiestudien zeigen, dass Selbstliebe das Fundament von Wohlbefinden ist.",
+      "best": "Täglich für innere Stabilität."
+    }
+  },
+  {
+    "id": "med_82",
+    "name": "Selbstmitgefühl Praxis",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Entwickle Mitgefühl für deine eigenen Leiden und Fehler",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkennung",
+        "dur": 1,
+        "voice": "Erkenne dein eigenes Leiden",
+        "type": "observation"
+      },
+      {
+        "name": "Mitgefühl",
+        "dur": 7,
+        "voice": "Wende Mitgefühl auf deine eigenen Fehler und Leiden an",
+        "type": "observation"
+      },
+      {
+        "name": "Heilung",
+        "dur": 1,
+        "voice": "Heile dich selbst mit Mitgefühl",
+        "type": "observation"
+      }
+    ],
+    "tip": "Der größte Schmerz kommt von Selbstkritik. Mitgefühl heilt ihn.",
+    "info": {
+      "why": "Selbstmitgefühl reduziert Selbstkritik und fördert innere Heilung.",
+      "evidence": "Kristin Neff-Forschung zeigt Selbstmitgefühl ist fundional für Wohlbefinden.",
+      "best": "Täglich besonders nach Rückschlägen."
+    }
+  },
+  {
+    "id": "med_83",
+    "name": "Innerer Kritiker Transformation",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Transformiere deinen inneren Kritiker in einen inneren Unterstützer",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkennung",
+        "dur": 2,
+        "voice": "Erkenne die Stimme deines inneren Kritikers",
+        "type": "observation"
+      },
+      {
+        "name": "Dialog",
+        "dur": 7,
+        "voice": "Führe einen Dialog mit diesem inneren Teil",
+        "type": "observation"
+      },
+      {
+        "name": "Transformation",
+        "dur": 1,
+        "voice": "Transformiere Kritik in liebevolle Unterstützung",
+        "type": "observation"
+      }
+    ],
+    "tip": "Der innere Kritiker versucht zu schützen. Erkenne das und danke ihm.",
+    "info": {
+      "why": "Innerer-Kritiker-Transformation reduziert interne Feindseligkeit dramatisch.",
+      "evidence": "IFS-Therapie zeigt wirksame Transformation des inneren Kritikers.",
+      "best": "Regelmäßig zur inneren Harmonie."
+    }
+  },
+  {
+    "id": "med_84",
+    "name": "Körper Liebe Akzeptanz",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Liebe und akzeptiere deinen Körper so wie er ist",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkenntnis",
+        "dur": 1,
+        "voice": "Erkenne die Perfektion deines Körpers",
+        "type": "observation"
+      },
+      {
+        "name": "Würdigung",
+        "dur": 7,
+        "voice": "Würdige alles, was dein Körper tut",
+        "type": "observation"
+      },
+      {
+        "name": "Liebe",
+        "dur": 1,
+        "voice": "Liebe deinen Körper bedingungslos",
+        "type": "observation"
+      }
+    ],
+    "tip": "Körperhass ist kulturelle Indoktrination. Körperliebe ist natürlich.",
+    "info": {
+      "why": "Körperakzeptanz reduziert Angststörungen und verbessert Gesundheit.",
+      "evidence": "Body-Image-Forschung zeigt, dass Akzeptanz Diät-Erfolg erhöht.",
+      "best": "Täglich zur Körper-Integration."
+    }
+  },
+  {
+    "id": "med_85",
+    "name": "Fehler Vergebung Weise",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Verzeihe dir selbst für deine Fehler mit Weisheit",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Anerkennung",
+        "dur": 2,
+        "voice": "Erkenne deine Fehler ohne Schande",
+        "type": "observation"
+      },
+      {
+        "name": "Vergebung",
+        "dur": 8,
+        "voice": "Vergebe dir selbst für deine Fehler",
+        "type": "observation"
+      },
+      {
+        "name": "Weisheit",
+        "dur": 1,
+        "voice": "Lerne und baue Weisheit aus deinen Erfahrungen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Fehler sind Lehrmomente, nicht Defekte.",
+    "info": {
+      "why": "Selbstvergebung reduziert Schuldgefühle und Scham.",
+      "evidence": "Vergebungsforschung zeigt, dass Selbstvergebung essentiell für Heilung ist.",
+      "best": "Nach Rückschlägen oder Fehlern."
+    }
+  },
+  {
+    "id": "med_86",
+    "name": "Einsamkeit Umwandlung",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Transformiere Einsamkeit in Selbstliebe und Integrität",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Anerkennung",
+        "dur": 1,
+        "voice": "Erkenne deine Einsamkeit mit Mitgefühl",
+        "type": "observation"
+      },
+      {
+        "name": "Transformation",
+        "dur": 8,
+        "voice": "Transformiere Einsamkeit in Chance für Selbstliebe",
+        "type": "observation"
+      },
+      {
+        "name": "Erfüllung",
+        "dur": 1,
+        "voice": "Erfülle dich selbst mit Liebe",
+        "type": "observation"
+      }
+    ],
+    "tip": "Einsamkeit ist Signal, dass du Selbstliebe brauchst, nicht Andere.",
+    "info": {
+      "why": "Einsamkeitstransformation durch Selbstliebe ist wirksamstes Heilmittel.",
+      "evidence": "Einsamkeitsforschung zeigt, dass Selbstliebe Einsamkeit unmittelbar reduziert.",
+      "best": "Bei Einsamkeitsgefühlen."
+    }
+  },
+  {
+    "id": "med_87",
+    "name": "Selbstwert Aufbau",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Baue starken Selbstwert unabhängig von äußeren Bewertungen",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkenntnis",
+        "dur": 2,
+        "voice": "Erkenne, dass dein Wert intrinsisch ist",
+        "type": "observation"
+      },
+      {
+        "name": "Aufbau",
+        "dur": 9,
+        "voice": "Baue Selbstwert von innen heraus",
+        "type": "observation"
+      },
+      {
+        "name": "Unabhängigkeit",
+        "dur": 1,
+        "voice": "Baue Wertunabhängigkeit von äußeren Urteilen auf",
+        "type": "observation"
+      }
+    ],
+    "tip": "Echter Selbstwert kommt von innen, nicht von äußeren Bestätigungen.",
+    "info": {
+      "why": "Intrinsischer Selbstwert ist Basis für mentale Gesundheit.",
+      "evidence": "Selbstwert-Forschung zeigt, dass intrinsischer Wert stabiler ist.",
+      "best": "Regelmäßig zur Selbstwert-Stabilisierung."
+    }
+  },
+  {
+    "id": "med_88",
+    "name": "Schuldgefühl Freigabe",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Befreie dich von lähmenden Schuldgefühlen",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkenntnis",
+        "dur": 2,
+        "voice": "Erkenne, dass Schuldgefühl oft unangemessen ist",
+        "type": "observation"
+      },
+      {
+        "name": "Freigabe",
+        "dur": 8,
+        "voice": "Lasse Schuldgefühle los durch Selbstmitgefühl",
+        "type": "observation"
+      },
+      {
+        "name": "Freiheit",
+        "dur": 1,
+        "voice": "Fühle dich frei und leicht",
+        "type": "observation"
+      }
+    ],
+    "tip": "Schuldgefühl ist manchmal signalisiert, dass wir ändern müssen, nicht dass wir böse sind.",
+    "info": {
+      "why": "Chronisches Schuldgefühl ist selbstschädigend und verhindert Wachstum.",
+      "evidence": "Psychotherapie zeigt, dass Schuldgefühl durch Akzeptanz gelöst wird.",
+      "best": "Bei Schuldgefühlen."
+    }
+  },
+  {
+    "id": "med_89",
+    "name": "Scham Heiler und Befreier",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Heile tiefe Scham und unbegrenzte Selbstbegrenzung",
+    "duration": 780,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Anerkennung",
+        "dur": 2,
+        "voice": "Erkenne tiefe Scham mit Milde",
+        "type": "observation"
+      },
+      {
+        "name": "Heilung",
+        "dur": 10,
+        "voice": "Heile Scham mit liebevoller Aufmerksamkeit",
+        "type": "observation"
+      },
+      {
+        "name": "Befreiung",
+        "dur": 1,
+        "voice": "Befreie dich von Schambegrenzungen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Scham ist tiefste Form der Selbstablehnung. Liebe ist das Gegenmittel.",
+    "info": {
+      "why": "Scham-Heilung ist Foundation für echtes psychologisches Wachstum.",
+      "evidence": "Brené Brown-Forschung zeigt, dass Scham-Heilung Authentizität freisetzt.",
+      "best": "Regelmäßig über mehrere Wochen."
+    }
+  },
+  {
+    "id": "med_90",
+    "name": "Grenzen Bewusstsein",
+    "cat": "Meditation",
+    "subcat": "Selbstmitgefühl",
+    "icon": "💖",
+    "iconBg": "linear-gradient(135deg,#ff6a00,#ee0979)",
+    "desc": "Etabliere gesunde psychologische Grenzen",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erkennung",
+        "dur": 1,
+        "voice": "Erkenne wo deine Grenzen sind",
+        "type": "observation"
+      },
+      {
+        "name": "Establishment",
+        "dur": 7,
+        "voice": "Etabliere energetische Grenzen",
+        "type": "observation"
+      },
+      {
+        "name": "Respekt",
+        "dur": 1,
+        "voice": "Respektiere und schütze deine Grenzen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Gesunde Grenzen sind nicht egoistisch. Sie sind notwendig.",
+    "info": {
+      "why": "Grenzenloses Geben führt zu Burnout. Grenzen sind Selbstschutz.",
+      "evidence": "Boundary-Forschung zeigt, dass Grenzen Beziehungen verbessern.",
+      "best": "Bei Energie-Vamypiren oder schwachen Grenzen."
+    }
+  },
+  {
+    "id": "med_91",
+    "name": "Waldmeditation Erdung",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Verbinde dich mit Waldenergie zur Erdung und Heilung",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Eintritt",
+        "dur": 2,
+        "voice": "Betritt den heiligen Wald",
+        "type": "observation"
+      },
+      {
+        "name": "Verbindung",
+        "dur": 7,
+        "voice": "Verbinde dich mit der Waldenergie und Kraft",
+        "type": "observation"
+      },
+      {
+        "name": "Earthing",
+        "dur": 1,
+        "voice": "Spüre dich geerdet in der Erde",
+        "type": "observation"
+      }
+    ],
+    "tip": "Der Wald ist der beste Ort für innere Heilung und Erneuerung.",
+    "info": {
+      "why": "Waldmeditation aktiviert den parasympathischen Nerv durch Natur.",
+      "evidence": "Waldmeditation-Studien zeigen signifikante Stressreduktion.",
+      "best": "In oder neben einem Wald oder mit Waldgeräuschen."
+    }
+  },
+  {
+    "id": "med_92",
+    "name": "Bergenergie Vertrauen",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Kanalisiere Bergenergie für Stabilität und Vertrauen",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Verbindung",
+        "dur": 2,
+        "voice": "Verbinde dich mit Bergenergie",
+        "type": "observation"
+      },
+      {
+        "name": "Stabilität",
+        "dur": 8,
+        "voice": "Lass die Berg-Stabilität in dir verankern",
+        "type": "observation"
+      },
+      {
+        "name": "Vertrauen",
+        "dur": 1,
+        "voice": "Entwickle unerschütterliches Vertrauen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Berge symbolisieren Dauerhaftigkeit und innere Stabilität.",
+    "info": {
+      "why": "Bergenergie-Verbindung aktiviert Vertrauens-Zentren.",
+      "evidence": "Archetypische Symbolik zeigt, dass Berge Sicherheit aktivieren.",
+      "best": "Bei Unsicherheit oder während Veränderungen."
+    }
+  },
+  {
+    "id": "med_93",
+    "name": "Ozean Tiefe Weisheit",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Tauche in die Tiefe des Ozeans zur Zugang zu Weisheit",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Abstieg",
+        "dur": 3,
+        "voice": "Steige hinab in die Tiefe des Ozeans",
+        "type": "observation"
+      },
+      {
+        "name": "Weisheit",
+        "dur": 8,
+        "voice": "Kontaktiere die alte Weisheit in den Ozean-Tiefen",
+        "type": "observation"
+      },
+      {
+        "name": "Rückehr",
+        "dur": 1,
+        "voice": "Bringe diese Weisheit zurück zur Oberfläche",
+        "type": "observation"
+      }
+    ],
+    "tip": "Tiefere emotionale und unbewusste Weiheit liegt in den Tiefern.",
+    "info": {
+      "why": "Ozean-Tiefe-Meditation aktiviert das tiefe Unbewusste.",
+      "evidence": "Junguianische Psychologie nutzt tiefe Gewässer für Unbewusste-Zugang.",
+      "best": "Bei der Suche nach Weisheit oder bei lebensveränderungen."
+    }
+  },
+  {
+    "id": "med_94",
+    "name": "Sonnenaufgang Neubeginn",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Nutze Sonnenaufgangsenergie für Neubeginn und Hoffnung",
+    "duration": 480,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Antizipation",
+        "dur": 1,
+        "voice": "Erwartet den Sonnenaufgang",
+        "type": "observation"
+      },
+      {
+        "name": "Aufgang",
+        "dur": 6,
+        "voice": "Erlebe den Sonnenaufgang und seine Neuerschaffung",
+        "type": "observation"
+      },
+      {
+        "name": "Hoffnung",
+        "dur": 1,
+        "voice": "Fühle Hoffnung und erneuerte Möglichkeiten",
+        "type": "observation"
+      }
+    ],
+    "tip": "Jeder Sonnenaufgang ist eine Chance für Neubeginn.",
+    "info": {
+      "why": "Sonnenaufgang aktiviert zirkadiane Rhythmen und neue Energie.",
+      "evidence": "Circadian-Rhythmus-Forschung zeigt Sonnenaufgang-Effekte.",
+      "best": "In den frühen Morgenstunden."
+    }
+  },
+  {
+    "id": "med_95",
+    "name": "Sonnenuntergang Loslassen",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Nutze Sonnenuntergangsenergie zum Loslassen und Dankbarkeit",
+    "duration": 540,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Reflexion",
+        "dur": 2,
+        "voice": "Reflektiere über deinen Tag",
+        "type": "observation"
+      },
+      {
+        "name": "Loslassen",
+        "dur": 6,
+        "voice": "Lasse den Tag los mit Dankbarkeit und Akzeptanz",
+        "type": "observation"
+      },
+      {
+        "name": "Friede",
+        "dur": 1,
+        "voice": "Finde Frieden in Loslassen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Sonnenuntergang ist natürliche Zeit zum Loslassen und Dankbarkeit.",
+    "info": {
+      "why": "Sonnenuntergang-Meditation fördert Akzeptanz und Dankbarkeit.",
+      "evidence": "Rhythmus-Meditations-Forschung zeigt Abend-Effekte.",
+      "best": "In den Abendstunden."
+    }
+  },
+  {
+    "id": "med_96",
+    "name": "Mondenergie Weiblichkeit",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Kanalisiere Mondenergie zur Aktivierung weiblicher Kraft",
+    "duration": 660,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Anrufung",
+        "dur": 2,
+        "voice": "Rufe Mondenergie an",
+        "type": "observation"
+      },
+      {
+        "name": "Empfängnis",
+        "dur": 8,
+        "voice": "Empfange Mond-Kraft in deinen weiblichen Zentren",
+        "type": "observation"
+      },
+      {
+        "name": "Integration",
+        "dur": 1,
+        "voice": "Integriere Mondweisheit",
+        "type": "observation"
+      }
+    ],
+    "tip": "Der Mond repräsentiert weibliche, empfangende Kraft und Intuition.",
+    "info": {
+      "why": "Mondenergie-Verbindung aktiviert Intuitions-Zentren.",
+      "evidence": "Lunare-Zyklus-Forschung zeigt biologische Mondverbindung.",
+      "best": "Bei Vollmond oder bei Bedarf weiblicher Kraft."
+    }
+  },
+  {
+    "id": "med_97",
+    "name": "Sternenlicht Kosmische Gehalt",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Verbinde dich mit Sternenlicht zur kosmischen Verbindung",
+    "duration": 780,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Himmelaufschauen",
+        "dur": 2,
+        "voice": "Schau auf zum Sternenlicht",
+        "type": "observation"
+      },
+      {
+        "name": "Verbindung",
+        "dur": 10,
+        "voice": "Verbinde dich mit den Sternen und dem Kosmos",
+        "type": "observation"
+      },
+      {
+        "name": "Bewusstsein",
+        "dur": 1,
+        "voice": "Erwei tern Sie Ihr Bewusstsein zum kosmischen Bewusstsein",
+        "type": "observation"
+      }
+    ],
+    "tip": "Wir sind aus Sternenstaub gemacht. Sterne sind unsere kosmische Familie.",
+    "info": {
+      "why": "Sternenlicht-Meditation verbindet mit großerem Ganzen.",
+      "evidence": "Kosmische Bewusstseins-Forschung zeigt Perspektivöffnung.",
+      "best": "Bei klarem Himmel oder regelmäßig."
+    }
+  },
+  {
+    "id": "med_98",
+    "name": "Baum Wurzeln Himmel Kraft",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Werde wie ein Baum mit Wurzeln in der Erde und Ästen im Himmel",
+    "duration": 600,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Verwurzelung",
+        "dur": 3,
+        "voice": "Schreibe tiefe Wurzeln in die Erde",
+        "type": "observation"
+      },
+      {
+        "name": "Wachstum",
+        "dur": 6,
+        "voice": "Wachse mit deinen Ästen zum Himmel",
+        "type": "observation"
+      },
+      {
+        "name": "Balance",
+        "dur": 1,
+        "voice": "Balanciere irdische und himmlische Kraft",
+        "type": "observation"
+      }
+    ],
+    "tip": "Der Baum ist das perfekte Symbol für geerdet und erreicht gleichzeitig.",
+    "info": {
+      "why": "Baum-Meditation aktiviert beide, Erde und Himmel Chakren.",
+      "evidence": "Schamanische Praktizierer nutzen Baum-Archetyp effektiv.",
+      "best": "Regelmäßig zur Energie-Balance."
+    }
+  },
+  {
+    "id": "med_99",
+    "name": "Vier Elemente Integration",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Integriere die Kraft der vier Elemente in deinem Körper",
+    "duration": 720,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Erde",
+        "dur": 2,
+        "voice": "Integriere Erdstabilität",
+        "type": "observation"
+      },
+      {
+        "name": "Wasser",
+        "dur": 3,
+        "voice": "Integriere Wasserfluss und Emotionen",
+        "type": "observation"
+      },
+      {
+        "name": "Feuer",
+        "dur": 3,
+        "voice": "Integriere Feuer-Kraft und Transformation",
+        "type": "observation"
+      },
+      {
+        "name": "Luft",
+        "dur": 3,
+        "voice": "Integriere Luft-Geist und mentale Klarheit",
+        "type": "observation"
+      }
+    ],
+    "tip": "Die vier Elemente repräsentieren alle Aspekte unseres Wesens.",
+    "info": {
+      "why": "Vier-Elemente-Integration aktiviert alle Ebenen des Seins.",
+      "evidence": "Traditionelle Elementarlehren zeigen ganzheitliche Integration.",
+      "best": "Regelmäßig zur ganzheitlichen Balance."
+    }
+  },
+  {
+    "id": "med_100",
+    "name": "Natur Gesamtvereinigung",
+    "cat": "Meditation",
+    "subcat": "Natur",
+    "icon": "🌿",
+    "iconBg": "linear-gradient(135deg,#11998e,#38ef7d)",
+    "desc": "Vereinige dich vollständig mit der Natur und allen Wesen",
+    "duration": 900,
+    "anim": "lotus",
+    "phases": [
+      {
+        "name": "Öffnung",
+        "dur": 2,
+        "voice": "Öffne dich der Natur",
+        "type": "observation"
+      },
+      {
+        "name": "Eins-Sein",
+        "dur": 12,
+        "voice": "Werde eins mit Bäumen, Bergen, Ozeanen, Tieren und Menschen",
+        "type": "observation"
+      },
+      {
+        "name": "Liebe",
+        "dur": 1,
+        "voice": "Überströme von universeller Liebe",
+        "type": "observation"
+      }
+    ],
+    "tip": "Das höchste Ziel ist Vereinigung mit der Natur und allem Leben.",
+    "info": {
+      "why": "Natur-Vereinigung ist höchste Erkenntnis und Heilung.",
+      "evidence": "Mystische Tradtionen zeigen, dass Natur-Vereinigung Liberation ist.",
+      "best": "Regelmäßig für tiefe spirituelle Integration."
+    }
+  }
+]

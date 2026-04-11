@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Option 3: Fließende Atemwelle – Ein- und Ausatmen als Sinuswelle -->
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6c63ff"/>
+      <stop offset="100%" stop-color="#b388ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#0a0a1a"/>
+  <!-- Breath wave -->
+  <path d="M100 256 Q160 160 220 256 Q280 352 340 256 Q400 160 460 256"
+        fill="none" stroke="url(#g3)" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+  <!-- Second wave, offset -->
+  <path d="M100 256 Q160 180 220 256 Q280 332 340 256 Q400 180 460 256"
+        fill="none" stroke="url(#g3)" stroke-width="4" stroke-linecap="round" opacity="0.3"/>
+  <!-- Dot at center peak -->
+  <circle cx="256" cy="256" r="10" fill="url(#g3)" opacity="0.7"/>
+</svg>

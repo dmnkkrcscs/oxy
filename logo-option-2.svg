@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Option 2: Stilisierte Lungen aus zwei geschwungenen Bögen -->
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6c63ff"/>
+      <stop offset="100%" stop-color="#b388ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#0a0a1a"/>
+  <!-- Trachea -->
+  <line x1="256" y1="130" x2="256" y2="210" stroke="url(#g2)" stroke-width="8" stroke-linecap="round"/>
+  <!-- Left lung -->
+  <path d="M248 210 Q248 220 230 230 Q170 260 160 310 Q148 370 185 400 Q215 425 240 400 Q252 388 252 360 L252 210"
+        fill="none" stroke="url(#g2)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <!-- Right lung -->
+  <path d="M264 210 Q264 220 282 230 Q342 260 352 310 Q364 370 327 400 Q297 425 272 400 Q260 388 260 360 L260 210"
+        fill="none" stroke="url(#g2)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <!-- Inner glow dot -->
+  <circle cx="256" cy="300" r="12" fill="url(#g2)" opacity="0.5"/>
+</svg>

@@ -1,0 +1,202 @@
+/* Exercise Screen */
+#exercise {
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  overflow-y: auto;
+}
+
+.exercise-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: 24px;
+  gap: 12px;
+}
+
+.exercise-back {
+  background: none;
+  border: none;
+  color: var(--text);
+  font-size: 24px;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.exercise-back:hover {
+  background-color: var(--surface);
+  color: var(--accent2);
+}
+
+.exercise-titles {
+  flex: 1;
+}
+
+.exercise-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.exercise-subtitle {
+  font-size: 13px;
+  color: var(--text2);
+}
+
+.anim-container {
+  width: 280px;
+  height: 280px;
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.countdown {
+  font-size: 48px;
+  font-weight: 800;
+  color: var(--accent2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.phase-text {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  text-align: center;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.phase-sub {
+  font-size: 12px;
+  color: var(--text2);
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.timer-display {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  margin-bottom: 16px;
+  font-size: 13px;
+  color: var(--text2);
+}
+
+.timer-part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.timer-value {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.timer-label {
+  font-size: 11px;
+  color: var(--text2);
+  margin-top: 2px;
+}
+
+.progress-bar {
+  width: 100%;
+  max-width: 300px;
+  height: 4px;
+  background-color: var(--surface);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--calm), var(--accent2));
+  border-radius: 2px;
+  width: 0%;
+  transition: width 0.1s linear;
+}
+
+.exercise-controls {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.control-btn {
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: 16px;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.control-btn:hover {
+  background-color: var(--surface2);
+  border-color: var(--accent);
+}
+
+.control-btn:active {
+  transform: scale(0.9);
+}
+
+.control-btn.primary {
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  border-color: var(--accent);
+  color: white;
+  font-size: 20px;
+  width: 56px;
+  height: 56px;
+}
+
+.control-btn.primary:hover {
+  transform: scale(1.05);
+}
+
+.breath-counter {
+  font-size: 13px;
+  color: var(--text2);
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.counter-value {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--accent2);
+}
+
+.instruction {
+  font-size: 14px;
+  color: var(--text);
+  text-align: center;
+  line-height: 1.6;
+  max-width: 300px;
+  margin-top: 8px;
+}

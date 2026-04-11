@@ -1,0 +1,3449 @@
+[
+  {
+    "id": "478",
+    "name": "4-7-8 Atmung",
+    "cat": "Einschlafen",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Die bewährte Einschlaftechnik von Dr. Andrew Weil zur Entspannung des Nervensystems",
+    "duration": 900,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden durch die Nase einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 7,
+        "voice": "Sieben Sekunden Atem halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden durch den Mund ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Vor dem Schlafengehen üben. Die lange Ausatmung aktiviert den Parasympathikus.",
+    "info": {
+      "why": "Die 4-7-8 Atmung von Dr. Weil nutzt das Verhältnis der Atemzeiten, um das Nervensystem zu beruhigen. Die verlängerte Ausatmung senkt die Herzfrequenz und fördert tiefe Entspannung.",
+      "evidence": "Wissenschaftliche Studien zeigen, dass diese Technik die Herzfrequenzvariabilität erhöht und parasympathische Aktivität fördert, was zu schnellerem Einschlafen führt.",
+      "best": "Optimal 30 Minuten vor dem Schlafengehen, wiederholt mehrmals pro Nacht bei Schlafstörungen."
+    }
+  },
+  {
+    "id": "box",
+    "name": "Box Breathing",
+    "cat": "Einschlafen",
+    "icon": "📦",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Die Atemtechnik der Navy SEALs zur Beruhigung und Fokussierung",
+    "duration": 600,
+    "anim": "box",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten oben",
+        "dur": 4,
+        "voice": "Vier Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Halten unten",
+        "dur": 4,
+        "voice": "Vier Sekunden Pause",
+        "type": "hold_bottom"
+      }
+    ],
+    "tip": "Rhythmisches Atmen beruhigt das Nervensystem. Ideal vor dem Schlafen.",
+    "info": {
+      "why": "Box Breathing schafft einen stabilen, vorhersehbaren Rhythmus, der das sympathische Nervensystem aktiviert und dann gezielt beruhigt. Dies reduziert Angstzustände und fördert tiefe Entspannung.",
+      "evidence": "Militärische und zivile Studien zeigen, dass diese 4-4-4-4 Atmung Stressmarker senkt und den Blutdruck normalisiert.",
+      "best": "Jederzeit anwendbar, besonders effektiv 20-30 Minuten vor dem Schlafengehen."
+    }
+  },
+  {
+    "id": "coherent",
+    "name": "Kohärentes Atmen",
+    "cat": "Einschlafen",
+    "icon": "🌊",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "HeartMath Resonanzatemung für Herz-Gehirn Kohärenz",
+    "duration": 900,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5.5,
+        "voice": "Fünfeinhalb Sekunden sanft einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5.5,
+        "voice": "Fünfeinhalb Sekunden sanft ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese 5,5-Sekunden-Frequenz führt zu maximaler Herzvariabilität und Entspannung.",
+    "info": {
+      "why": "Kohärentes Atmen mit 5,5 Sekunden Ein- und Ausatmung erzeugt Resonanz zwischen Herz und Gehirn. Dies aktiviert den Vagusnerv und fördert tiefe parasympathische Ruhe.",
+      "evidence": "HeartMath-Forschung demonstriert, dass diese Frequenz die Herzvariabilität optimiert und emotionale Kohärenz erhöht, was zu besseren Schlaf führt.",
+      "best": "Täglich für 15 Minuten, besonders effektiv am Abend zur Vorbereitung auf den Schlaf."
+    }
+  },
+  {
+    "id": "moon",
+    "name": "Mondatmung",
+    "cat": "Einschlafen",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Kühlende Nasenloch-Atmung zur Herabsenkung der Körpertemperatur",
+    "duration": 600,
+    "anim": "nose",
+    "phases": [
+      {
+        "name": "Linkes Nasenloch",
+        "dur": 5,
+        "voice": "Rechtes Nasenloch zu, durch links einatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Linkes Nasenloch zu, durch rechts ausatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      }
+    ],
+    "tip": "Die linke Nasenloch-Atmung (Mond-Energie) kühlt und beruhigt das Nervensystem.",
+    "info": {
+      "why": "Nach Yogischer Tradition wirkt die linke Nasenloch-Atmung kühlend und aktiviert das parasympathische Nervensystem. Dies senkt die Körpertemperatur und ermöglicht Schlaf.",
+      "evidence": "Neuere Studien zeigen, dass uni-nostrale Atmung asymmetrische Gehirnaktivität mit entspannungsfördernden Effekten auslöst.",
+      "best": "10 Minuten vor dem Schlafengehen durchführen für optimale Temperatursenkung und Entspannung."
+    }
+  },
+  {
+    "id": "slow",
+    "name": "0.1 Hz Atmung",
+    "cat": "Einschlafen",
+    "icon": "⏱️",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Resonanzfrequenz-Atmung für maximale parasympathische Aktivierung",
+    "duration": 1200,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden sanft einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden sanft ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese langsame 0,1 Hz Frequenz ist die optimale Resonanzfrequenz des menschlichen Körpers.",
+    "info": {
+      "why": "Die 0,1 Hz Atemfrequenz (6 Atemzüge pro Minute) entspricht der natürlichen Resonanzfrequenz des kardiovaskulären Systems. Dies führt zu maximaler Variabilität und Entspannung.",
+      "evidence": "Kardiologische Studien zeigen, dass 0,1 Hz Atmung die Baroreflex-Empfindlichkeit maximiert und das Stress-Hormon Cortisol reduziert.",
+      "best": "Täglich 20 Minuten durchführen, ideal am Abend oder wenn die Schlafqualität verbessert werden soll."
+    }
+  },
+  {
+    "id": "extended",
+    "name": "Verlängertes Ausatmen",
+    "cat": "Einschlafen",
+    "icon": "😤",
+    "iconBg": "linear-gradient(135deg,#a8e6cf,#ffd3b6)",
+    "desc": "Einfache Technik mit fokussierter, längerer Ausatmung für tiefe Entspannung",
+    "duration": 720,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden langsam und vollständig ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Je länger die Ausatmung, desto mehr Aktivierung des Parasympathikus und desto schneller der Schlaf.",
+    "info": {
+      "why": "Die verlängerte Ausatmung aktiviert den Vagusnerv direkt und signalisiert dem Gehirn, dass es sicher ist zu entspannen. Dies ist eine der einfachsten und wirksamsten Techniken.",
+      "evidence": "Vagale Stimulation durch lange Ausatmung erhöht die GABA-Produktion und senkt Erregungszustände im Gehirn.",
+      "best": "Kann jederzeit angewendet werden, besonders effektiv als letzte Technik vor dem Einschlafen."
+    }
+  },
+  {
+    "id": "sleep_count",
+    "name": "Schlaf-Countdown",
+    "cat": "Einschlafen",
+    "icon": "🔢",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Atemtechnik kombiniert mit abwärtsgerichtetem Zählen zur Ablenkung des Verstandes",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen und eine Zahl denken",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 7,
+        "voice": "Sieben Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Von 100 rückwärts zählen während der Atemzyklen. Dies lenkt den aktiven Verstand ab und fördert den Schlaf.",
+    "info": {
+      "why": "Die Kombination aus strukturierter Atmung und rückwärtsgerichteter Zählung bündelt die Aufmerksamkeit und verhindert grübelnd eingeschlafene Gedanken.",
+      "evidence": "Kognitive Intervention mit rhythmischer Atmung reduziert nächtliche Rumination und beschleunigt den Übergang zum Schlaf.",
+      "best": "30 Minuten vor dem Schlafengehen mit entspannter Körperhaltung durchführen."
+    }
+  },
+  {
+    "id": "dream_breath",
+    "name": "Traumreise-Atmung",
+    "cat": "Einschlafen",
+    "icon": "✨",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Rhythmische Atmung mit Pausen zur Förderung von luziden Träumen",
+    "duration": 900,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden sanft einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Pause",
+        "dur": 2,
+        "voice": "Zwei Sekunden stille Pause",
+        "type": "pause"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden sanft ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Pause",
+        "dur": 2,
+        "voice": "Zwei Sekunden stille Pause",
+        "type": "pause"
+      }
+    ],
+    "tip": "Die gleichmäßigen Pausen fördern die Transition zwischen Wach- und Traumzustand.",
+    "info": {
+      "why": "Die vier-phasige Atmung mit Pausen ermöglicht Hirnwellen-Synchronisation zwischen Alpha- und Theta-Zuständen, was luzide Träume fördert.",
+      "evidence": "EEG-Studien zeigen, dass rhythmische Atmung mit Pausen die Theta-Aktivität im Hippocampus erhöht, die mit Traum- und Gedächtniskonsolidierung verbunden ist.",
+      "best": "Beim Schlafengehen durchführen, wenn Sie an lucid dreaming interessiert sind."
+    }
+  },
+  {
+    "id": "cloud",
+    "name": "Wolkenatmung",
+    "cat": "Einschlafen",
+    "icon": "☁️",
+    "iconBg": "linear-gradient(135deg,#a8e6cf,#ffd3b6)",
+    "desc": "Visualisierungs-Atmung, bei der Sie sich auf Wolken vorstellen",
+    "duration": 720,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen und sich auf einer Wolke vorstellen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden ausatmen, während die Wolke Sie sanft trägt",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Kombiniere die Atmung mit mentaler Visualisierung: Stelle dir vor, du schwebst auf einer weichen Wolke.",
+    "info": {
+      "why": "Positive Visualisierung mit rhythmischer Atmung lenkt den Verstand weg von Sorgen und aktiviert positive limbische Strukturen.",
+      "evidence": "Neuroimaging zeigt, dass Visualisierung mit Atmung die Aktivität in Angst-verarbeitenden Bereichen reduziert.",
+      "best": "In entspannter Liegeposition durchführen, ideal als eine der letzten Techniken vor dem Schlaf."
+    }
+  },
+  {
+    "id": "sleep555",
+    "name": "5-5-5 Schlafatmung",
+    "cat": "Einschlafen",
+    "icon": "🎵",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Symmetrische 5-5-5 Atmung für einfache und stabile Entspannung",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 5,
+        "voice": "Fünf Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese einfache symmetrische Atmung ist leicht zu merken und sehr effektiv vor dem Schlaf.",
+    "info": {
+      "why": "Symmetrische Atmung schafft Ausgewogenheit im autonomen Nervensystem und ist leicht für Anfänger zu praktizieren.",
+      "evidence": "Studien zeigen, dass symmetrische Atemzüge das Nervensystem schneller beruhigen als asymmetrische Muster.",
+      "best": "Ideal für Anfänger oder wenn Sie schnell einschlafen müssen."
+    }
+  },
+  {
+    "id": "heavy",
+    "name": "Schwere-Atmung",
+    "cat": "Einschlafen",
+    "icon": "⬇️",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Atemung mit progressiver Körperschwere-Suggestion",
+    "duration": 720,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, während der Körper schwer wird",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Mit jeder Ausatmung visualisiere, wie dein Körper schwerer und entspannter wird.",
+    "info": {
+      "why": "Die Kombination aus längerer Ausatmung und Suggestionv von Körperschwere aktiviert progressive Muskelentspannung auf neurologischer Ebene.",
+      "evidence": "Imagerie-Studien zeigen, dass Schwere-Suggestion die Muskelspannung senkt und Delta-Wellen (Tiefschlaf) erhöht.",
+      "best": "Im Bett liegend durchführen, besonders effektiv bei nächtlichen Aufwachen."
+    }
+  },
+  {
+    "id": "hourglass",
+    "name": "Sanduhr-Atmung",
+    "cat": "Einschlafen",
+    "icon": "⏳",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Schnelle, fließende Atemung wie Sand durch eine Sanduhr",
+    "duration": 600,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden sanft einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden sanft ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Stelle dir vor, wie dein Atem wie Sand fließt - flüssig, kontinuierlich und entspannend.",
+    "info": {
+      "why": "Schneller fließende Atmung mit dieser Frequenz induziert schnell tiefe Entspannungszustände, ohne zu aufregend zu wirken.",
+      "evidence": "Die 3-3 Frequenz optimiert den Übergang zu langsameren Hirnwellen für frühen Schlaf.",
+      "best": "Für Menschen, die schnell zu tieferen Entspannungszuständen kommen möchten."
+    }
+  },
+  {
+    "id": "silent_night",
+    "name": "Stille-Nacht-Atmung",
+    "cat": "Einschlafen",
+    "icon": "🤫",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Vier-phasige Atmung mit ausgeprägten Pausen für tiefe Stille",
+    "duration": 900,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Oben halten",
+        "dur": 4,
+        "voice": "Vier Sekunden in stiller Ruhe halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden langsam ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Unten pausieren",
+        "dur": 2,
+        "voice": "Zwei Sekunden Pause bevor erneut eingeatmet wird",
+        "type": "observation"
+      }
+    ],
+    "tip": "Die Pausen ermöglichen das vollständige Loslassen und tiefe parasympathische Reaktion.",
+    "info": {
+      "why": "Diese vier-phasige Technik schafft intensive Pausen, die das zentrale Nervensystem in tiefste Ruhe versetzen.",
+      "evidence": "Langsamere Atemfrequenzen mit Pausen senken das Stresshormon Cortisol maximal.",
+      "best": "Jeden Abend durchführen für konsistenten und besseren Schlaf."
+    }
+  },
+  {
+    "id": "deep_sleep",
+    "name": "Tiefschlaf-Vorbereitung",
+    "cat": "Einschlafen",
+    "icon": "😪",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Sehr langsame 6-10 Atmung zur direkten Induktion von Tiefschlaf",
+    "duration": 1200,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden tief einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 10,
+        "voice": "Zehn Sekunden langsam und vollständig ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist eine der langsamsten Atemfrequenzen. Perfekt wenn du unmittelbar tiefen Schlaf brauchst.",
+    "info": {
+      "why": "Diese extrem lange Ausatmung aktiviert maximale parasympathische Aktivation und reduziert Adrenalin-Spiegel schnellstmöglich.",
+      "evidence": "Extrem lange Ausatmungen sind mit sofortigem Eintritt in Delta-Wellen assoziiert.",
+      "best": "Als letzte Technik vor dem Schlaf verwenden, wenn sofortiger Tiefschlaf erforderlich ist."
+    }
+  },
+  {
+    "id": "wave_sleep",
+    "name": "Wellenatmung",
+    "cat": "Einschlafen",
+    "icon": "🌊",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Fließende Wellenbewegung mit kurzen Pausen in Atemfluss",
+    "duration": 720,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Kleine Pause",
+        "dur": 1,
+        "voice": "Eine Sekunde stille Pause",
+        "type": "pause"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Kleine Pause",
+        "dur": 1,
+        "voice": "Eine Sekunde stille Pause",
+        "type": "pause"
+      }
+    ],
+    "tip": "Stellen Sie sich vor, Sie reiten auf sanften Wellen, die Sie sanft zum Schlaf tragen.",
+    "info": {
+      "why": "Die Wellenmuster mit kurzen Pausen erzeugen eine natürliche Rhythmik, die das Gehirn zum Abdriften führt.",
+      "evidence": "Rhythmische Atmungsmuster mit Pausen synchronisieren mit natürlichen Schlaf-Zyklen.",
+      "best": "Für Menschen, die metaphorische oder visuelle Techniken bevorzugen."
+    }
+  },
+  {
+    "id": "heartbeat",
+    "name": "Herzschlag-Atmung",
+    "cat": "Einschlafen",
+    "icon": "❤️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Schnelle, pulsierende Atmung im Rhythmus des ruhigen Herzschlags",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden synchron mit Herzschlag einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden synchron mit Herzschlag ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Versuche, deinen Atem mit deinem Herzschlag zu synchronisieren - dies schafft tiefe Kohärenz.",
+    "info": {
+      "why": "Die Synchronisation von Atem und Herzschlag erzeugt maximale Herzvariabilität und parasympathische Balance.",
+      "evidence": "Herz-Atem-Kohärenz-Studien zeigen signifikante Verbesserungen bei Angst und Schlafstörungen.",
+      "best": "Besonders wirksam bei Schlaflosigkeit aufgrund von Herzangst oder physischer Unruhe."
+    }
+  },
+  {
+    "id": "night_ujjayi",
+    "name": "Nacht-Ujjayi",
+    "cat": "Einschlafen",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#a8e6cf,#ffd3b6)",
+    "desc": "Sanfte ozeanähnliche Ujjayi-Atmung im Liegen",
+    "duration": 720,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden durch leicht konstrigierten Rachen einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 7,
+        "voice": "Sieben Sekunden mit Ozeanklang ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Ujjayi wird durch leichte Kehlkopf-Konstriktion erzeugt. Das Ozeanrauschen in deinen Ohren ist sehr beruhigend.",
+    "info": {
+      "why": "Der Ujjayi-Klang aktiviert den Vagusnerv direkt und erzeugt ein selbst-sensorisches Feedback, das den Verstand beruhigt.",
+      "evidence": "Die vibratorische Stimulation des Vagusnerven durch Ujjayi-Atmung erhöht Parasympathische Ton.",
+      "best": "Im Liegen durchführen, ideal als Einschlaf-Ritual."
+    }
+  },
+  {
+    "id": "slumber",
+    "name": "Schlummer-Zählung",
+    "cat": "Einschlafen",
+    "icon": "😴",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Atemung mit rückwärtsgerichtetem Zählen von 100 zur Schlaf-Induktion",
+    "duration": 900,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen und eine Zahl denken",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Zähle von 100 rückwärts. Wenn dein Verstand abdriftet, ist das optimal. Das ist kein Test, es ist Meditation.",
+    "info": {
+      "why": "Die Kombination aus Atemfokus und mathematischer Aufgabe beschäftigt den analytischen Verstand, während der parasympathische Nerv entspannt wird.",
+      "evidence": "Kontrollierte Aufmerksamkeit auf einfache Aufgaben mit rhythmischer Atmung induziert Schlaf schneller als bloße Entspannung.",
+      "best": "Jeden Abend verwenden, besonders wirksam bei aktiven, überlegenden Verstanden."
+    }
+  },
+  {
+    "id": "sigh",
+    "name": "Physiologischer Seufzer",
+    "cat": "Stressabbau",
+    "icon": "😮‍💨",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Doppelter schneller Atemzug, dann lange Ausatmung - die schnellste Stressabbau-Technik",
+    "duration": 300,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Doppel-Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden schnell einatmen, dann ein kurzer Nachzieh-Atemzug",
+        "type": "double_inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden langsam und vollständig ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist wissenschaftlich die schnellste Methode, sofortigen Stress abzubauen. Nutze dies in Notfallsituationen.",
+    "info": {
+      "why": "Der doppelte Atemzug füllt die Alveolen mit Sauerstoff und maximiert die CO2-Eliminierung. Die lange Ausatmung aktiviert Vagus unmittelbar.",
+      "evidence": "Stanford-Neurowissenschaftler zeigen, dass der physiologische Seufzer Stress innerhalb von Sekunden reduziert - schneller als jede andere Technik.",
+      "best": "Bei akutem Stress, Panik oder unmittelbar vor wichtigen Momenten verwenden."
+    }
+  },
+  {
+    "id": "tactical",
+    "name": "Taktische Atmung",
+    "cat": "Stressabbau",
+    "icon": "💪",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Gleichmäßige 4-4-4-4 Atmung für schnelle Beruhigung",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Oben halten",
+        "dur": 4,
+        "voice": "Vier Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Unten halten",
+        "dur": 4,
+        "voice": "Vier Sekunden halten",
+        "type": "hold_bottom"
+      }
+    ],
+    "tip": "Diese Technik wird von Polizei und Militär verwendet. Sie ist einfach, effektiv und überall anwendbar.",
+    "info": {
+      "why": "Die starre 4-4-4-4 Struktur fordert volle mentale Konzentration, was den Stressgedanken-Kreislauf unterbricht.",
+      "evidence": "Taktische Atmung senkt Adrenalin-Spiegel und normalisiert Herzfrequenz schnell bei akutem Stress.",
+      "best": "Bei Panikattacken, vor schwierigen Situationen oder wenn du schnell wieder konzentriert sein musst."
+    }
+  },
+  {
+    "id": "exhale_stress",
+    "name": "Stress-Ausatmung",
+    "cat": "Stressabbau",
+    "icon": "💨",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Fokus auf die lange Ausatmung zur schnellen Stressabbau",
+    "duration": 480,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 9,
+        "voice": "Neun Sekunden langsam und vollständig ausatmen und Stress loslassen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Je länger die Ausatmung, desto stärker die Stressabbau. Visualisiere Stress, der mit dem Atem verlässt.",
+    "info": {
+      "why": "Vagale Afferenzen (Signale vom Vagusnerv zum Gehirn) sind ausatmungs-dominiert. Lange Ausatmungen maximieren diese stressabbauenden Signale.",
+      "evidence": "Noch nicht vollständig verstandener, aber reproduzierbarer Effekt: Längere Ausatmungen senken Stress objektiv messbar.",
+      "best": "Bei chronischem Stress, Angststörungen oder zur alltäglichen Stressabbau-Wartung."
+    }
+  },
+  {
+    "id": "counted",
+    "name": "Gezähltes Atmen",
+    "cat": "Stressabbau",
+    "icon": "🔢",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Einfache Atemung mit mentaler Zählung zur Ablenkung",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen während du zählst: eins, zwei, drei, vier",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen während du zählst: eins, zwei, drei, vier, fünf, sechs",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Die Konzentration auf die Zählung lenkt den überaktiven Stressverstand ab.",
+    "info": {
+      "why": "Kognitive Beschäftigung mit einfacher Mathematik während Atmung verringert die Aktivität in Angst-verarbeitenden Hirnregionen.",
+      "evidence": "Dual-task Interferenz bei Stressgedanken reduziert deren Intensität.",
+      "best": "Bei Grübelei, Sorgen oder Angst-Spiralen verwenden."
+    }
+  },
+  {
+    "id": "lion",
+    "name": "Löwenatmen",
+    "cat": "Stressabbau",
+    "icon": "🦁",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Intensive Ausatmung mit offenem Mund zur Spannungsabbau",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden durch die Nase kraftvoll einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden mit offenem Mund und Zunge heraus ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist therapeutisch und körperlich ausdrucksvoll. Lasse los und brülle dich aus!",
+    "info": {
+      "why": "Volle körperliche Expression mit intensiver Ausatmung gibt dem Körper die Erlaubnis, angestaute Spannung zu lösen.",
+      "evidence": "Somatisches Release durch intensive Ausatmung reduziert Körperspannung und emotionale Suppression.",
+      "best": "In privater Umgebung durchführen. Hervorragend bei aufgestauter Frustration oder Wut."
+    }
+  },
+  {
+    "id": "grounding",
+    "name": "Erdung durch Atem",
+    "cat": "Stressabbau",
+    "icon": "🌍",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Vier-phasige Atemung mit Fokus auf physische Erdung",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 2,
+        "voice": "Zwei Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, Füße in Boden",
+        "type": "exhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 2,
+        "voice": "Zwei Sekunden Pause, spüre deine Verbindung zur Erde",
+        "type": "hold_top"
+      }
+    ],
+    "tip": "Mit jeder Ausatmung, stelle dir vor, deine Wurzeln wachsen tief in die Erde.",
+    "info": {
+      "why": "Kombination aus Atemfokus und somatischer Aufmerksamkeit (Körper in Raum) reduziert Dissoziation und Panikgefühle.",
+      "evidence": "Erdungs-Techniken sind wirksam bei PTSD und Panikstörungen.",
+      "best": "Bei Angst, Schwindel oder Panik-Attacken, besonders wenn du dich \"nicht präsent\" fühlst."
+    }
+  },
+  {
+    "id": "emergency",
+    "name": "Notfall-Atmung",
+    "cat": "Stressabbau",
+    "icon": "🚨",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Ultra-schnelle Stressabbau-Atmung für echte Notfälle",
+    "duration": 180,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Doppel-Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden schnell hintereinander einatmen",
+        "type": "double_inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden langsam und vollständig ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist für echte Notfallsituationen. Es ist intensiv und schnell. Nutze es nur wenn nötig.",
+    "info": {
+      "why": "Diese Ultra-Schnell-Variante maximiert die Sauerstoff-aufnahme und CO2-Eliminierung in minimaler Zeit.",
+      "evidence": "Für akuteste Notsituationen optimiert, wo normale Atemtechniken zu langsam sind.",
+      "best": "Bei echten Notfällen, Panikattacken oder unmittelbar bevorstehendem Kollaps verwenden."
+    }
+  },
+  {
+    "id": "shoulder_breath",
+    "name": "Schulter-Atem",
+    "cat": "Stressabbau",
+    "icon": "💪",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Atmung mit Schulter-Bewegung zur Spannungsabbau",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen, Schultern hoch zum Ohr",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen, Schultern fallen lassen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies kombiniert körperliche Bewegung mit Atmung. Sehr effektiv bei Nacken-Schulter-Spannungen.",
+    "info": {
+      "why": "Körper-Atem-Integration hilft, gehaltene physische Spannung zu lösen, während das Nervensystem beruhigt wird.",
+      "evidence": "Progressive Muskelentspannung mit Atemung ist wirksamer als nur Atmung allein.",
+      "best": "Bei Nacken-, Schulter- oder Kopfverspannungen verwenden."
+    }
+  },
+  {
+    "id": "sigh_chain",
+    "name": "Seufzer-Kette",
+    "cat": "Stressabbau",
+    "icon": "😮‍💨",
+    "iconBg": "linear-gradient(135deg,#a8e6cf,#ffd3b6)",
+    "desc": "Wiederholte physiologische Seufzer in einer Kette",
+    "duration": 300,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden schnell einatmen mit Nachzieh-Atemzug",
+        "type": "inhale"
+      },
+      {
+        "name": "Seufzer",
+        "dur": 4,
+        "voice": "Vier Sekunden seufzen beim Ausatmen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Dieser Seufzer-Effekt ist überraschend wirksam. Wiederhole mehrfach für maximalen Stress-Abbau.",
+    "info": {
+      "why": "Wiederholter physiologischer Seufzer verstärkt die vagale Aktivation kumulativ.",
+      "evidence": "Mehrfache Seufzer erhöhen die Effekt exponentiell, nicht nur linear.",
+      "best": "Bei Frustration, Überwältigung oder nach längeren Stressperioden."
+    }
+  },
+  {
+    "id": "storm",
+    "name": "Sturm-Atmung",
+    "cat": "Stressabbau",
+    "icon": "⛈️",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Schnelle, intensive Atemung zur Abbau von aufgestauter Energie",
+    "duration": 480,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden schnell einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 1,
+        "voice": "Eine Sekunde halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden intensiv ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese intensive Atmung ist für Menschen mit aufgestauter Energie oder unterdrückter Wut.",
+    "info": {
+      "why": "Intensive Ausatmung mit schnellem Einatmen erlaubt dem Körper, angestaute Spannung zu entladen.",
+      "evidence": "Intensive Atemzug-Muster stimulieren die Freisetzung von Endorphinen.",
+      "best": "Wenn du dich \"voller Energie\" oder \"angespannt\" fühlst und es loswerden musst."
+    }
+  },
+  {
+    "id": "anchor",
+    "name": "Ankertechnik",
+    "cat": "Stressabbau",
+    "icon": "⚓",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Rhythmische Atemung mit physischem Ankerpunkt (Füße am Boden)",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen, Füße in den Boden drücken",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen, Füße am Boden spüren",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dein Anker ist die physische Verbindung deiner Füße zur Erde. Dies verhindert Dissoziation.",
+    "info": {
+      "why": "Somatischer Anker mit Atemung verbindet den Menschen mit gegenwärtigem Moment und physischem Körper.",
+      "evidence": "Ankertechniken reduzieren Dissoziation und Angst bei Trauma-Überlebenden.",
+      "best": "Bei Angst-bedingter Dissoziation oder bei Gefühl von \"nicht wirklich hier\" sein."
+    }
+  },
+  {
+    "id": "reset",
+    "name": "Reset-Atmung",
+    "cat": "Stressabbau",
+    "icon": "🔄",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Die Dr. Weil 4-7-8 Atmung speziell für Stress-Reset",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 7,
+        "voice": "Sieben Sekunden halten und internal reset",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden ausatmen und alten Stress loslassen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist die 4-7-8 Atmung, aber nur 5 Minuten. Kurz und effektiv für schnellen Stress-Reset.",
+    "info": {
+      "why": "Die 4-7-8 Proportion ist optimal für Vagale Aktivation. Kurze Sessions sind genauso effektiv wie lange.",
+      "evidence": "Wissenschaftlich bewiesene Effektivität, kürzere Sessions für Notfall-Anwendung optimiert.",
+      "best": "Wenn du schnell von Stresszustand zu normale Funktionalität übergehen musst."
+    }
+  },
+  {
+    "id": "anger_vent",
+    "name": "Wut-Entlüftung",
+    "cat": "Stressabbau",
+    "icon": "😤",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Intensive Ausatmung zur Loslassung von Wut und Frustration",
+    "duration": 300,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden schnell einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 1,
+        "voice": "Eine Sekunde halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden kräftig und laut ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Lasse aus, halte nicht zurück. Der Lärm und die Intensität sind therapeutisch.",
+    "info": {
+      "why": "Somatische Expression mit intensiver Ausatmung erlaubt unterdrückter Emotion, körperlich befreit zu werden.",
+      "evidence": "Emotionale Freisetzung durch intensive Atmung reduziert Blutdruck und Stresshormone.",
+      "best": "In privater Umgebung, wenn Wut oder intensive Frustration vorhanden ist."
+    }
+  },
+  {
+    "id": "thought_stop",
+    "name": "Gedankenstopp",
+    "cat": "Stressabbau",
+    "icon": "🛑",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Kurze, scharfe Atemung zur Unterbrechung von Gedanken-Spiralen",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 2,
+        "voice": "Zwei Sekunden - sage innerlich: STOPP",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden ausatmen, Gedanke loslassen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Die interne \"Stopp\"-Aussage mit Atemrituale ist eine klassische kognitive Verhaltens-Technik.",
+    "info": {
+      "why": "Sprachlicher Stopp mit Atemритуал unterbricht Gedanken-Schleifen durch Neuro-Linguistisches Patterning.",
+      "evidence": "Gedankenstopp-Techniken sind wirksam bei obsessiven Gedanken und Panikstörungen.",
+      "best": "Bei Rumination, obsessiven Gedanken oder Angst-Spiralen verwenden."
+    }
+  },
+  {
+    "id": "calm336",
+    "name": "3-3-6 Beruhigung",
+    "cat": "Stressabbau",
+    "icon": "✌️",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Schnelle 3-3-6 Atmung für Stressabbau in 8 Minuten",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden schnell einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 3,
+        "voice": "Drei Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden langsam ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese schnellere Version der 4-7-8 ist gut für eilige Situationen.",
+    "info": {
+      "why": "Schnellere Proportionalität reduziert immer noch effektiv Stress, aber braucht weniger Zeit.",
+      "evidence": "Atemproportionen sind proportional wirksam; schneller ist nicht weniger wirksam.",
+      "best": "Wenn du nur wenig Zeit hast, aber schnell Stress reduzieren musst."
+    }
+  },
+  {
+    "id": "first_aid",
+    "name": "Erste-Hilfe-Atem",
+    "cat": "Stressabbau",
+    "icon": "🆘",
+    "iconBg": "linear-gradient(135deg,#a8e6cf,#ffd3b6)",
+    "desc": "Ultrakurze 3-Minuten Notfall-Atemung",
+    "duration": 180,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden langsam ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist Erste-Hilfe für akuten Stress. So kurz und fokussiert wie möglich.",
+    "info": {
+      "why": "Minimale Zeit für maximale Wirkung. Lange Ausatmung ist alles was nötig ist.",
+      "evidence": "Sofortige Vagale Stimulation durch lange Ausatmung in Sekundenbruchteilen.",
+      "best": "In absolute Notfall-Situationen, wenn keine Zeit für längere Sitzungen vorhanden ist."
+    }
+  },
+  {
+    "id": "valve",
+    "name": "Druckventil",
+    "cat": "Stressabbau",
+    "icon": "🎚️",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Kontrollierte Druckabbau-Atmung",
+    "duration": 300,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen - Druck aufbauen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 7,
+        "voice": "Sieben Sekunden ausatmen - Ventil öffnen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Stelle dir vor, dass Stress wie Dampf in einem Druckventil ist. Mit jeder Ausatmung wird der Druck abgelassen.",
+    "info": {
+      "why": "Metapher des Druckventils hilft dem Unterbewusstsein zu verstehen, dass Stress freigesetzt werden kann.",
+      "evidence": "Visuelle Metapher mit Atemung verstärkt psychosomatische Stress-Abbau.",
+      "best": "Bei aufgestauter Spannung oder Gefühl von internalem Druck."
+    }
+  },
+  {
+    "id": "bhramari",
+    "name": "Bienenatmung",
+    "cat": "Beruhigung",
+    "icon": "🐝",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Vibrierende Ujjayi-Atmung, die wie Bienengeräusch klingt",
+    "duration": 600,
+    "anim": "hum",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden durch die Nase einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden mit summendem Geräusch ausatmen, wie eine Biene",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Das Summen sollte tieffrequent und vibrierend sein. Fühle die Vibration in deinem Kopf.",
+    "info": {
+      "why": "Die Vibration der Bhramari-Atmung stimuliert den Vagusnerv und erzeugt beruhigende Hirnwellen.",
+      "evidence": "EEG-Studien zeigen, dass Bhramari Alpha und Theta-Wellen erhöht und Stress-Marker reduziert.",
+      "best": "Jeden Tag durchführen für chronischen Stress und Angstabbau."
+    }
+  },
+  {
+    "id": "ocean",
+    "name": "Ozean-Atmung",
+    "cat": "Beruhigung",
+    "icon": "🌊",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Ujjayi-Atmung mit Ozeanklang zur tiefsten Entspannung",
+    "duration": 600,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden durch konstrigierten Rachen einatmen - Ozeangeräusch",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden mit Ujjayi-Ozeangeräusch ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Ujjayi wird durch leichte Konstriktion in der Kehle erzeugt. Das Geräusch sollte wie Ozeanwellen klingen.",
+    "info": {
+      "why": "Die Ujjayi-Konstriktion erzeugt vibratorische Vagale Stimulation, die das tiefste Entspannungszentrum des Gehirns erreicht.",
+      "evidence": "Yoga-Studien zeigen, dass Ujjayi bei Schlafstörungen und Angst äußerst wirksam ist.",
+      "best": "Jeden Tag durchführen, besonders wirksam vor dem Schlaf."
+    }
+  },
+  {
+    "id": "belly",
+    "name": "Bauchatmung",
+    "cat": "Beruhigung",
+    "icon": "🤰",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Diaphragmatisches Atmen mit Fokus auf Bauchbewegung",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden in den Bauch einatmen - Bauch sollte sich dehnen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden aus dem Bauch ausatmen - Bauch zieht sich ein",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Lege deine Hand auf deinen Bauch. Mit jeder Einatmung sollte er sich nach außen wölben.",
+    "info": {
+      "why": "Bauchatmung aktiviert das Zwerchfell direkt und ist die effizienteste Art zu atmen. Dies ist der natürliche Zustand.",
+      "evidence": "Diaphragmatisches Atmen ist mit maximalem vagalen Tonus assoziiert.",
+      "best": "Täglich üben, besonders wenn du normalerweise flach atmest."
+    }
+  },
+  {
+    "id": "calm_wave",
+    "name": "Beruhigende Welle",
+    "cat": "Beruhigung",
+    "icon": "🌊",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Vier-phasige Wellenbewegung zur tiefsten Beruhigung",
+    "duration": 720,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden sanft einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Kleine Pause",
+        "dur": 1,
+        "voice": "Eine Sekunde kurze Pause",
+        "type": "pause"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden sanft ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Kleine Pause",
+        "dur": 1,
+        "voice": "Eine Sekunde kurze Pause",
+        "type": "pause"
+      }
+    ],
+    "tip": "Dies ist wohl die sanfteste und beruhigendste aller Techniken. Perfekt für extreme Entspannung.",
+    "info": {
+      "why": "Die langen 6-Sekunden-Phasen mit kurzen Pausen erzeugen maximale Entspannung ohne Anforderungen.",
+      "evidence": "Sanfte Wellenatemung reduziert die Herzfrequenz am meisten von allen Techniken.",
+      "best": "Wenn du tiefste Entspannung brauchst, mit deinem Körper in Kontakt sein möchtest."
+    }
+  },
+  {
+    "id": "sitali",
+    "name": "Kühlatmung",
+    "cat": "Beruhigung",
+    "icon": "❄️",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Kühlende Atmung durch gerollte Zunge für körperliche Abkühlung",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden durch die gerollte Zunge einatmen - kühl",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden durch die Nase ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Rolle deine Zunge längs. Der Luftstrom über die Zunge kühlt den Atem deutlich ab.",
+    "info": {
+      "why": "Sitali senkt die Körpertemperatur durch direkten Kontakt mit kühlerer Luft auf der Zunge.",
+      "evidence": "Yogische Literatur und moderne Messungen zeigen eine tatsächliche Körpertemperatur-Senkung.",
+      "best": "Bei Hitze, Fieber, Entzündungen oder wenn du physische Abkühlung brauchst."
+    }
+  },
+  {
+    "id": "rocking",
+    "name": "Sanftes Wiegen",
+    "cat": "Beruhigung",
+    "icon": "🪑",
+    "iconBg": "linear-gradient(135deg,#a8e6cf,#ffd3b6)",
+    "desc": "Rhythmische Atemung mit leichter Körper-Schaukel-Bewegung",
+    "duration": 600,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen, Körper schaukelt sanft vor",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen, Körper schaukelt sanft zurück",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies kombiniert rhythmisches Schaukeln mit Atemung. Sehr beruhigend und prägnant.",
+    "info": {
+      "why": "Rhythmisches Wiegen aktiviert primitive Beruhigungssysteme im Hirnstamm (ähnlich wie bei Babys).",
+      "evidence": "Somatisches Wiegen mit Atemung ist wirksam bei Trauma und Dysregulation.",
+      "best": "Für Menschen, die körperliche Bewegung mit Atemung kombinieren möchten."
+    }
+  },
+  {
+    "id": "moon_circle",
+    "name": "Mond-Kreis",
+    "cat": "Beruhigung",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Vier-phasige Mondenergieatemung mit innerer Bewegung",
+    "duration": 720,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen, Mond-Energie steigt",
+        "type": "inhale"
+      },
+      {
+        "name": "Oben halten",
+        "dur": 1,
+        "voice": "Eine Sekunde an Scheitelkrone halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen, Energie fließt nach unten",
+        "type": "exhale"
+      },
+      {
+        "name": "Unten halten",
+        "dur": 1,
+        "voice": "Eine Sekunde am Nabel halten",
+        "type": "hold_bottom"
+      }
+    ],
+    "tip": "Visualisiere Mondlicht, das mit der Einatmung aufsteigt und mit der Ausatmung in den Bauch hinunterfließt.",
+    "info": {
+      "why": "Nach Taoisischen Traditionen fließt kühlende Mond-Energie der Entspannung auf diesem inneren Kreis.",
+      "evidence": "Moderne Neurowissenschaft zeigt, dass innere Visualisierungen mit Atemung echte neurologische Effekte haben.",
+      "best": "Abends durchführen für tiefste Entspannung und Schlafvorbereitung."
+    }
+  },
+  {
+    "id": "butterfly",
+    "name": "Schmetterling",
+    "cat": "Beruhigung",
+    "icon": "🦋",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Leichte, flatternde Atemung wie Schmetterlingsflügel",
+    "duration": 480,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden sanft einatmen wie Schmetterlingsflügel hochgehen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden sanft ausatmen wie Schmetterlingsflügel hinuntergehen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese Atmung ist besonders angenehm und zart. Perfekt für empfindliche Menschen.",
+    "info": {
+      "why": "Die sanfte, fließende Qualität dieser Atemung beruhigt ohne Anforderungen oder Kraft.",
+      "evidence": "Sanfte Atemwellen sind besonders wirksam bei Angststörungen und Sensibilität.",
+      "best": "Für sensible Menschen oder wenn aggressive Techniken nicht passen."
+    }
+  },
+  {
+    "id": "feather",
+    "name": "Feder-Atem",
+    "cat": "Beruhigung",
+    "icon": "🪶",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Ultra-leichte, flüchtige Atemung wie eine Feder im Wind",
+    "duration": 600,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden - so leicht wie möglich einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden kaum spürbar ausatmen, wie eine Feder schwebt",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist wohl die sanfteste Atmung. Fast unmerklich, aber profund wirksam.",
+    "info": {
+      "why": "Minimale Atemzug-Größe reduziert die psychische Anforderung und erlaubt maximale Entspannung.",
+      "evidence": "Paradoxerweise ist minimal angestrengte Atmung am entspannendsten.",
+      "best": "Wenn du dich überfordert oder zu angestrengt fühlst."
+    }
+  },
+  {
+    "id": "heart_breath",
+    "name": "Herzatmung",
+    "cat": "Beruhigung",
+    "icon": "❤️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Atmung mit Fokus auf Herz-Chakra Öffnung",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden direkt ins Herz einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden vom Herz ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Mit jeder Einatmung stelle dir vor, wie sich dein Herz-Zentrum öffnet. Mit jeder Ausatmung strahlst du Liebe aus.",
+    "info": {
+      "why": "Herzfokus mit Atemung aktiviert liebevolle parasympathische Zustände und reduziert Angst.",
+      "evidence": "Herzgerichtete Aufmerksamkeit mit Atemung erhöht Oxytocin und reduziert Cortisol.",
+      "best": "Für emotionale Heilung, Selbstliebe oder wenn du dich hart an dich selbst bist."
+    }
+  },
+  {
+    "id": "warmth",
+    "name": "Wärme-Atem",
+    "cat": "Beruhigung",
+    "icon": "🔥",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Atemung zur inneren Wärme-Erzeugung bei Kälte oder Numbing",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen und innere Wärme spüren",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, Wärme durchströmt den Körper",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Visualisiere mit jeder Einatmung eine sonnige innere Wärme, die deinen Körper durchströmt.",
+    "info": {
+      "why": "Positive Visualisierung mit Atemung aktiviert die physische Wärme-Produktion durch parasympathische Vasodilation.",
+      "evidence": "Innere Wärme-Atemung erhöht nachweisbar die Hauttemperatur.",
+      "best": "Bei Kälte, Numbing oder wenn du dich emotional distanziert fühlst."
+    }
+  },
+  {
+    "id": "lake",
+    "name": "See-Atmung",
+    "cat": "Beruhigung",
+    "icon": "💧",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Ruhige Seeoberflächen-Atmung mit Stille",
+    "duration": 720,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Stille",
+        "dur": 2,
+        "voice": "Zwei Sekunden stille Ruhe wie eine glatte Seeoberfläche",
+        "type": "observation"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Stelle dir einen ruhigen See vor - dein Geist ist wie die glatte Oberfläche, dein Körper wie das tiefe Wasser.",
+    "info": {
+      "why": "Stille-Pausen zwischen Atemphasen erzeugen Momente des mentalen Stillstands und tiefster Ruhe.",
+      "evidence": "Meditation mit Pausen ist tiefgreifender als kontinuierliche Meditation.",
+      "best": "Wenn du Stille und mentale Klarheit suchst."
+    }
+  },
+  {
+    "id": "purr",
+    "name": "Schnurr-Atmung",
+    "cat": "Beruhigung",
+    "icon": "🐱",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Sanfte schnurrende Ausatmung wie eine zufriedene Katze",
+    "duration": 600,
+    "anim": "hum",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden sanft einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden mit sanftem Schnurrlaut ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Das Schnurren sollte tief im Brustbereich entstehen und sich weich und zufrieden anfühlen.",
+    "info": {
+      "why": "Das Schnurr-Geräusch aktiviert den beruhigungsmechanismus ähnlich wie bei Katzen - durch Vibration und Frequenz.",
+      "evidence": "Die Frequenz des Schnurrens (25-150 Hz) hat nachgewiesene therapeutische Eigenschaften.",
+      "best": "Für sofortige Entspannung und um sich \"zufrieden\" und \"sicher\" zu fühlen."
+    }
+  },
+  {
+    "id": "cloud_watch",
+    "name": "Wolken-Beobachtung",
+    "cat": "Beruhigung",
+    "icon": "☁️",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Passive Atemung mit Wolken-Visualisierung",
+    "duration": 600,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen, eine Wolke vorbei-ziehen lassen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 7,
+        "voice": "Sieben Sekunden ausatmen, die Wolke weiter-ziehen sehen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist wie Cloud-Watching kombiniert mit Atemung. Lass Gedanken wie Wolken vorbeiziehen, ohne sie zu verfolgen.",
+    "info": {
+      "why": "Passive Beobachtung von Gedanken mit Atemung ist eine Form von Achtsamkeits-Meditation, die Angst reduziert.",
+      "evidence": "Gedanken-Loslass-Meditation reduziert Rumination und Angst.",
+      "best": "Für Menschen mit aktiven Verständen oder bei Grübelei."
+    }
+  },
+  {
+    "id": "rainbow",
+    "name": "Regenbogen-Atem",
+    "cat": "Beruhigung",
+    "icon": "🌈",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Farbige Visualisierung mit Atemung - Chakren-Ausgleich",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen und Farbe visualisieren",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 2,
+        "voice": "Zwei Sekunden die Farbe halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen und die Farbe ausstrahlen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Mit jeder Runde visualisiere eine andere Farbe des Regenbogens: Rot, Orange, Gelb, Grün, Blau, Indigo, Violett.",
+    "info": {
+      "why": "Farbvisualisierung mit Chakren-Ausrichtung integriert mehrere Sinne und vertieft die Entspannung.",
+      "evidence": "Mehrmodale Visualisierung mit Atemung ist wirksamer als nur Atmung allein.",
+      "best": "Wenn du visuell-orientiert bist oder an Chakren-Heilung interessiert bist."
+    }
+  },
+  {
+    "id": "lavender",
+    "name": "Lavendel-Atmung",
+    "cat": "Beruhigung",
+    "icon": "💜",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Atemung mit Lavendel-Duft-Visualisierung",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen und Lavendel-Duft visualisieren",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, Duft durchströmt dich",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Wenn verfügbar, trage etwas Lavendelöl auf. Wenn nicht, visualisiere einfach den Duft.",
+    "info": {
+      "why": "Duft-Visualisierung mit Aromatherapie-Effekten verstärkt die Entspannung. Lavendel ist ein bewährtes anxiolytisches Ätherisches Öl.",
+      "evidence": "Lavendel-Aromatherapie senkt Angst messbar. Visualisierung verstärkt den Effekt.",
+      "best": "Mit echtem Lavendelöl durchführen für maximale Effektivität."
+    }
+  },
+  {
+    "id": "candle",
+    "name": "Kerzen-Atmung",
+    "cat": "Beruhigung",
+    "icon": "🕯️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Ultra-sanfte Atmung wie eine flackernde Kerzenflamme",
+    "duration": 600,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden sanft einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden ganz sanft ausatmen, kaum Bewegung, wie eine Kerzenflamme flackert",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Stelle dir vor, dass dein Atem eine Kerzen-flamme nicht ausblasen würde. So sanft sollte deine Ausatmung sein.",
+    "info": {
+      "why": "Ultra-sanfte Ausatmung erfordert maximale parasympathische Kontrolle und ist tiefst beruhigend.",
+      "evidence": "Sanfte, kontrollierte Bewegung aktiviert meditative Hirnzustände.",
+      "best": "Für absolute Ruhe und Sicherheit nach intensivem Stress."
+    }
+  },
+  {
+    "id": "nadi",
+    "name": "Wechselatmung",
+    "cat": "Balance",
+    "icon": "🔄",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Klassische Yoga-Wechselatmung für Nerven-Gleichgewicht",
+    "duration": 600,
+    "anim": "nose",
+    "phases": [
+      {
+        "name": "Linkes Nasenloch",
+        "dur": 4,
+        "voice": "Vier Sekunden links einatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      },
+      {
+        "name": "Rechtes Nasenloch",
+        "dur": 4,
+        "voice": "Vier Sekunden rechts ausatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      },
+      {
+        "name": "Rechtes Nasenloch",
+        "dur": 4,
+        "voice": "Vier Sekunden rechts einatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      },
+      {
+        "name": "Linkes Nasenloch",
+        "dur": 4,
+        "voice": "Vier Sekunden links ausatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      }
+    ],
+    "tip": "Dies ist die Nadi Shodhana Atemung. Sie balanciert das zentrale Nervensystem perfekt.",
+    "info": {
+      "why": "Wechselatmung balanciert die Gehirnhälften und den ida/pingala Nerven-Fluss nach Yogischer Theorie. Modern: Sie integriert die Hemisphären.",
+      "evidence": "EEG-Studien zeigen erhöhte Kohärenz zwischen Gehirnhälften nach Wechselatmung.",
+      "best": "Täglich durchführen für optimales mentales Gleichgewicht."
+    }
+  },
+  {
+    "id": "square_breath",
+    "name": "Gleichgewichts-Atmung",
+    "cat": "Balance",
+    "icon": "⬜",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Symmetrische 5-5-5-5 Atmung für perfektes Nervensystem-Gleichgewicht",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten oben",
+        "dur": 5,
+        "voice": "Fünf Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Halten unten",
+        "dur": 5,
+        "voice": "Fünf Sekunden Pause",
+        "type": "hold_bottom"
+      }
+    ],
+    "tip": "Die perfekte Box - diese Atemung wirkt wie ein Neuroscaler-Reset für das autonome Nervensystem.",
+    "info": {
+      "why": "Vier gleiche 5-Sekunden-Phasen erzeugen maximale Symmetrie und Gleichgewicht im autonomen Nervensystem.",
+      "evidence": "Symmetrische Atemung ist mit erhöhter Herzvariabilität und parasympathischem Tonus verbunden.",
+      "best": "Täglich durchführen für optimale Nervensystem-Funktion."
+    }
+  },
+  {
+    "id": "sunrise",
+    "name": "Sonnenatmung",
+    "cat": "Balance",
+    "icon": "🌅",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Erwärmende Sonnenenergie durch aktivierende Nasenloch-Atemung",
+    "duration": 480,
+    "anim": "nose",
+    "phases": [
+      {
+        "name": "Rechtes Nasenloch",
+        "dur": 4,
+        "voice": "Vier Sekunden durch rechts einatmen - Sonnenenergie",
+        "nostril": "right",
+        "type": "nostril_right"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden durch links ausatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      }
+    ],
+    "tip": "Nach Yogischer Tradition: Rechte Nasenloch-Atmung (Surya/Sonne) aktiviert und wärmt.",
+    "info": {
+      "why": "Rechte Nasenloch-Atmung aktiviert die sympathische Aktivität und erhöht Alertness und Energie. Ideal morgens.",
+      "evidence": "Uni-nostrale Atemung beeinflusst Hemisphärische Aktivität.",
+      "best": "Morgens durchführen zur Energie-Aktivierung."
+    }
+  },
+  {
+    "id": "alternate_hold",
+    "name": "Wechselatmung Plus",
+    "cat": "Balance",
+    "icon": "🔀",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Erweiterte Wechselatmung mit Hold-Pausen für tiefere Balance",
+    "duration": 720,
+    "anim": "nose",
+    "phases": [
+      {
+        "name": "Linkes Nasenloch ein",
+        "dur": 4,
+        "voice": "Vier Sekunden links einatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      },
+      {
+        "name": "Oben halten",
+        "dur": 4,
+        "voice": "Vier Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Rechtes Nasenloch aus",
+        "dur": 4,
+        "voice": "Vier Sekunden rechts ausatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      },
+      {
+        "name": "Unten halten",
+        "dur": 4,
+        "voice": "Vier Sekunden halten",
+        "type": "hold_bottom"
+      },
+      {
+        "name": "Rechtes Nasenloch ein",
+        "dur": 4,
+        "voice": "Vier Sekunden rechts einatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      },
+      {
+        "name": "Ausatmen",
+        "dur": 4,
+        "voice": "Vier Sekunden links ausatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      }
+    ],
+    "tip": "Dies ist fortgeschrittenere Wechselatmung. Halten macht es intensiver.",
+    "info": {
+      "why": "Holds während Wechselatmung verstärken die hemisphärische Integration.",
+      "evidence": "Holding mit uni-nostraler Atemung verstärkt neurologische Umstrukturierung.",
+      "best": "Für Fortgeschrittene oder bei Bedarf für tiefergehende Balance."
+    }
+  },
+  {
+    "id": "kapalabhati",
+    "name": "Kapalabhati",
+    "cat": "Balance",
+    "icon": "💥",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Schädelleuchten-Atemung mit kräftigen passiven Ausatmungen",
+    "duration": 300,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Kräftige Ausatmung",
+        "dur": 0.5,
+        "voice": "Schnell ausatmen durch die Nase",
+        "type": "exhale"
+      },
+      {
+        "name": "Passive Einatmung",
+        "dur": 0.5,
+        "voice": "Passiv einatmen",
+        "type": "inhale"
+      }
+    ],
+    "tip": "Dies ist eine Reinigungs-Atemung. Schnell und kräftig. Nicht für Anfänger empfohlen.",
+    "info": {
+      "why": "Kapalabhati reinigt die Nasengänge und stimuliert das Gehirn durch schnelle Atemwechsel.",
+      "evidence": "Kapalabhati erhöht Oxygenation und Hirnenergie, wird aber für medizinische Fälle nicht empfohlen.",
+      "best": "Morgens durchführen für Energie und mentale Klarheit. Nicht vor dem Schlaf!"
+    }
+  },
+  {
+    "id": "sheetkari",
+    "name": "Sheetkari",
+    "cat": "Balance",
+    "icon": "❄️",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Kühlende Zungen-Atmung durch Zähne mit Zischgeräusch",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden durch die Zähne einatmen mit Zischgeräusch",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden durch die Nase ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Die Luft über deine Zähne ist kühler. Das Zischgeräusch ist therapeutisch.",
+    "info": {
+      "why": "Sheetkari ähnelt Sitali in Effekt, aber mit verschiedenen Sensationen. Beides kühlend.",
+      "evidence": "Kühlende Atemungen reduzieren Körpertemperatur und Agitation.",
+      "best": "Bei Hitze oder Überaktivität verwenden."
+    }
+  },
+  {
+    "id": "viloma_in",
+    "name": "Viloma Einatmung",
+    "cat": "Balance",
+    "icon": "➡️",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Segmentierte Einatmung mit Pausen für Klarheit",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung 1",
+        "dur": 2,
+        "voice": "Zwei Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Pause",
+        "dur": 1,
+        "voice": "Eine Sekunde Pause",
+        "type": "pause"
+      },
+      {
+        "name": "Einatmung 2",
+        "dur": 2,
+        "voice": "Zwei Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Pause",
+        "dur": 1,
+        "voice": "Eine Sekunde Pause",
+        "type": "pause"
+      },
+      {
+        "name": "Einatmung 3",
+        "dur": 2,
+        "voice": "Zwei Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden aus",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist wie \"Rucken\"-Einatmen. Mental anspruchsvoll, aber sehr klärend.",
+    "info": {
+      "why": "Segmentierte Einatmung mit Pausen erfordert volle Aufmerksamkeit und erhöht mentale Fokus.",
+      "evidence": "Anspruchsvolle Atemaufgaben verbessern Konzentration.",
+      "best": "Wenn du mentale Fokussierung oder Klarheit brauchst."
+    }
+  },
+  {
+    "id": "viloma_out",
+    "name": "Viloma Ausatmung",
+    "cat": "Balance",
+    "icon": "⬅️",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Segmentierte Ausatmung mit Pausen für Kontrolle",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ein",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung 1",
+        "dur": 2,
+        "voice": "Zwei Sekunden ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Pause",
+        "dur": 1,
+        "voice": "Eine Sekunde Pause",
+        "type": "pause"
+      },
+      {
+        "name": "Ausatmung 2",
+        "dur": 2,
+        "voice": "Zwei Sekunden ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Pause",
+        "dur": 1,
+        "voice": "Eine Sekunde Pause",
+        "type": "pause"
+      },
+      {
+        "name": "Ausatmung 3",
+        "dur": 2,
+        "voice": "Zwei Sekunden ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Segmentierte Ausatmung erfordert extreme Kontrolle. Das ist trainierend und empowernd.",
+    "info": {
+      "why": "Kontrollierte segmentierte Ausatmung trainiert das Atemzwerchfell-Bewusstsein und Kontrolle.",
+      "evidence": "Atemkontroll-Training verbessert Selbstvertrauen und respiratorische Fitness.",
+      "best": "Für Atem-Kontrolle und Empowerment-Training."
+    }
+  },
+  {
+    "id": "anulom",
+    "name": "Anulom Vilom Langsam",
+    "cat": "Balance",
+    "icon": "🔁",
+    "iconBg": "linear-gradient(135deg,#a8e6cf,#ffd3b6)",
+    "desc": "Sehr langsame Wechselatmung für tiefste Balance",
+    "duration": 900,
+    "anim": "nose",
+    "phases": [
+      {
+        "name": "Linkes Nasenloch",
+        "dur": 6,
+        "voice": "Sechs Sekunden links einatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      },
+      {
+        "name": "Rechtes Nasenloch",
+        "dur": 6,
+        "voice": "Sechs Sekunden rechts ausatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      },
+      {
+        "name": "Rechtes Nasenloch",
+        "dur": 6,
+        "voice": "Sechs Sekunden rechts einatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      },
+      {
+        "name": "Linkes Nasenloch",
+        "dur": 6,
+        "voice": "Sechs Sekunden links ausatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      }
+    ],
+    "tip": "Dies ist die langsame, meditative Version von Nadi Shodhana.",
+    "info": {
+      "why": "Extrem langsame Wechselatmung erzeugt tiefste Gehirn-Synchronisation.",
+      "evidence": "Langsame Atemfrequenzen unter 6/min erzeugen Delta-Hirnwellen.",
+      "best": "Täglich durchführen für tiefste neurologische Balance."
+    }
+  },
+  {
+    "id": "surya_chandra",
+    "name": "Surya-Chandra",
+    "cat": "Balance",
+    "icon": "☀️🌙",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Sonnenkühle Wechselatmung für energetischen Ausgleich",
+    "duration": 720,
+    "anim": "nose",
+    "phases": [
+      {
+        "name": "Rechtes-Sonne",
+        "dur": 5,
+        "voice": "Fünf Sekunden durch rechts(Sonne) einatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      },
+      {
+        "name": "Linkes-Mond",
+        "dur": 5,
+        "voice": "Fünf Sekunden durch links(Mond) ausatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      },
+      {
+        "name": "Linkes-Mond",
+        "dur": 5,
+        "voice": "Fünf Sekunden durch links(Mond) einatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      },
+      {
+        "name": "Rechtes-Sonne",
+        "dur": 5,
+        "voice": "Fünf Sekunden durch rechts(Sonne) ausatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      }
+    ],
+    "tip": "Surya (Sonne) belebt. Chandra (Mond) beruhigt. Dies balanciert beides.",
+    "info": {
+      "why": "Surya-Chandra ist fortgeschrittenere energetische Ausgleich-Atemung. Besser nach Meditationspraxis.",
+      "evidence": "Traditionelle Yoga-Technik mit modernen Anpassungen für Nerven-Balance.",
+      "best": "Nach einiger Praxis durchführen, nicht als erste Technik."
+    }
+  },
+  {
+    "id": "tri_bandha",
+    "name": "Tri-Bandha-Atem",
+    "cat": "Balance",
+    "icon": "🔗",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Atemung mit drei energetischen Schlösser für Energie-Management",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Bandhas halten",
+        "dur": 4,
+        "voice": "Vier Sekunden alle drei Schlösser: Mulbandha (Beckenboden), Uddiyana Bandha (Bauch), Jalandhara Bandha (Kinn)",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden ausatmen und Schlösser loslassen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Bandhas sind innere Muskel-Kontraktion. Anfänger sollten mit nur einem Bandha starten.",
+    "info": {
+      "why": "Bandhas verstärken Prana (Lebensenergie) Wirkung durch innere Muskel-Locks.",
+      "evidence": "Bandhas sind traditionelle Yoga-Techniken, die innere Energie aktivieren.",
+      "best": "Nur für erfahrene Praktiker. Beginne mit einem Bandha und baue auf."
+    }
+  },
+  {
+    "id": "pendulum",
+    "name": "Pendel-Atmung",
+    "cat": "Balance",
+    "icon": "🎛️",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Rhythmische schnelle Wechselatmung wie ein Pendel",
+    "duration": 480,
+    "anim": "nose",
+    "phases": [
+      {
+        "name": "Linkes Nasenloch",
+        "dur": 3,
+        "voice": "Drei Sekunden links einatmen",
+        "nostril": "left",
+        "type": "nostril_left"
+      },
+      {
+        "name": "Rechtes Nasenloch",
+        "dur": 3,
+        "voice": "Drei Sekunden rechts ausatmen",
+        "nostril": "right",
+        "type": "nostril_right"
+      }
+    ],
+    "tip": "Das Pendel-Rhythmus ist meditativ. Lass dich vom inneren Rhythmus führen.",
+    "info": {
+      "why": "Schnellere Wechselatmung ist belebender, langsamer Rhythmus wirkt wie ein meditatives Pendel.",
+      "evidence": "Rhythmisches Bewegungsmuster mit Atemung induziert Theta-Wellen.",
+      "best": "Wenn du Rhythmus und Pendel-Metapher magst."
+    }
+  },
+  {
+    "id": "balance_breath",
+    "name": "Atem-Balance",
+    "cat": "Balance",
+    "icon": "⚖️",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Einfache, ausgewogene 4-4 Atmung für Balance",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Die einfachste Balance-Atemung. Nicht unterschätzen - Einfachheit ist oft am mächtigsten.",
+    "info": {
+      "why": "Symmetrische 4-4 Atemung schafft sofortiges Nervensystem-Gleichgewicht.",
+      "evidence": "Symmetrische Atemung ist fundamental wirksam.",
+      "best": "Täglich durchführen als Balance-Basis-Praxis."
+    }
+  },
+  {
+    "id": "morning_greet",
+    "name": "Morgengruß-Atem",
+    "cat": "Balance",
+    "icon": "☀️",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Aufwach-Atemung mit Energie-Aktivierung",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden energisch einatmen, den Tag begrüßen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 2,
+        "voice": "Zwei Sekunden Energie halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden ausatmen, Bereitschaft spreizen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist eine Aktivierungs-Atemung. Ideal beim Aufwachen durchführen.",
+    "info": {
+      "why": "Schnellere Rhythmen mit kurzen Holds aktivieren das sympathische System für Wachsamkeit.",
+      "evidence": "Morgen-Atemung mit höherer Frequenz erhöht Cortisol physiologisch.",
+      "best": "Unmittelbar nach dem Aufwachen durchführen."
+    }
+  },
+  {
+    "id": "evening_greet",
+    "name": "Abendgruß-Atem",
+    "cat": "Balance",
+    "icon": "🌙",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Abend-Atemung mit Entspannungs-Ritual",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden sanft einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 2,
+        "voice": "Zwei Sekunden den Tag loslassen",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, sich zur Ruhe begrüßen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist eine Entspannungs-Atemung. Ideal am Abend durchführen.",
+    "info": {
+      "why": "Längere Ausatmung am Abend signalisiert dem Körper, in Ruhebereitschaft zu gehen.",
+      "evidence": "Abend-Atemung sollte parasympathisch dominiert sein.",
+      "best": "Am Abend durchführen vor dem Entspannungsritual."
+    }
+  },
+  {
+    "id": "yin_yang",
+    "name": "Yin-Yang-Atmung",
+    "cat": "Balance",
+    "icon": "☯️",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Wechsel zwischen Aktivierung und Entspannung",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Yang Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden kräftig einatmen - Yang Aktivität",
+        "type": "inhale"
+      },
+      {
+        "name": "Yin Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden sanft ausatmen - Yin Entspannung",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Das Yang-Yin ist wie Aktivität-Ruhe. Dies bringt Ausgleich.",
+    "info": {
+      "why": "Unterschiedliche Ein-/Ausatmungen erzeugen dynamischen Ausgleich.",
+      "evidence": "Asymmetrische Atemung mit bewussten Ein/Aus-Unterschieden schafft Balance.",
+      "best": "Täglich durchführen für dynamische Ausgewogenheit."
+    }
+  },
+  {
+    "id": "pmr",
+    "name": "Körperreise",
+    "cat": "Körper",
+    "icon": "🧘",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Progressive Muskelentspannung mit Atmung - alle Körperteile",
+    "duration": 1200,
+    "anim": "body",
+    "bodyParts": [
+      "Zehen",
+      "Füße",
+      "Unterschenkel",
+      "Oberschenkel",
+      "Gesäß",
+      "Bauch",
+      "Brust",
+      "Rücken",
+      "Hände",
+      "Unterarme",
+      "Oberarme",
+      "Nacken",
+      "Schultern",
+      "Kopf"
+    ],
+    "phases": [
+      {
+        "name": "Anspannung",
+        "dur": 5,
+        "voice": "Fünf Sekunden Körperteil anspannen - Energie hinein",
+        "type": "observation"
+      },
+      {
+        "name": "Entspannung",
+        "dur": 10,
+        "voice": "Zehn Sekunden loslassen und entspannen - Energie heraus",
+        "type": "observation"
+      }
+    ],
+    "tip": "Dies ist klassische PMR. Arbeite jeden Körperteil 5-10 Sekunden an, dann entspanne 10 Sekunden.",
+    "info": {
+      "why": "Progressive Muskelentspannung kombiniert mit Atmung lehrt den Körper, Spannung zu erkennen und loszulassen.",
+      "evidence": "PMR ist eine der wissenschaftlich validesten Entspannungstechniken für Angst und Insomnie.",
+      "best": "Vor dem Schlaf durchführen oder bei allgemeiner Körper-Spannungen."
+    }
+  },
+  {
+    "id": "body_scan",
+    "name": "Atem-Body-Scan",
+    "cat": "Körper",
+    "icon": "🫀",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Atembasierter Body-Scan mit Spüren durch alle Körperteile",
+    "duration": 900,
+    "anim": "body",
+    "bodyParts": [
+      "Zehen",
+      "Fußsohlen",
+      "Waden",
+      "Knie",
+      "Oberschenkel",
+      "Hüften",
+      "Unterleib",
+      "Bauch",
+      "Rippenraum",
+      "Brustbein",
+      "Rücken",
+      "Schultern",
+      "Nacken",
+      "Kopf"
+    ],
+    "phases": [
+      {
+        "name": "Spüren",
+        "dur": 5,
+        "voice": "Fünf Sekunden Körperteil spüren und mit Atem Aufmerksamkeit schicken",
+        "type": "observation"
+      },
+      {
+        "name": "Loslassen",
+        "dur": 7,
+        "voice": "Sieben Sekunden Spannung loslassen, Entspannung durchströmen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Im Gegensatz zu PMR spannen wir nicht an. Wir spüren nur und lassen los.",
+    "info": {
+      "why": "Body-Scanning mit Atemung kombiniert Achtsamkeit mit Körper-Awareness und progressiver Entspannung.",
+      "evidence": "Body-Scan-Meditation reduziert Schmerz und Angst durch Körper-Bewusstsein.",
+      "best": "Täglich durchführen für tiefes Körper-Bewusstsein und Entspannung."
+    }
+  },
+  {
+    "id": "stretch_breath",
+    "name": "Dehn-Atmung",
+    "cat": "Körper",
+    "icon": "🤸",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Atemung kombiniert mit sanften Dehnübungen",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen und sanft dehnen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 7,
+        "voice": "Sieben Sekunden ausatmen und tiefer in die Dehnung gehen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Kombiniere jeden Atemzug mit sanftem Dehnen. Dies verbessert Flexibilität und Entspannung.",
+    "info": {
+      "why": "Atem mit Bewegung kombiniert limbische Bewegungs-Integration und reduziert Steifheit.",
+      "evidence": "Bewegungs-Atmung verbessert Flexibilität besser als nur Dehnen.",
+      "best": "Morgens oder nach Bewegung durchführen."
+    }
+  },
+  {
+    "id": "yawn_breath",
+    "name": "Gähn-Atmung",
+    "cat": "Körper",
+    "icon": "😪",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Bewusste Gähnatmung mit Dehnung des Gesichts und Kiefers",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Gähnen",
+        "dur": 4,
+        "voice": "Vier Sekunden lang und tief gähnen",
+        "type": "observation"
+      },
+      {
+        "name": "Seufzer",
+        "dur": 6,
+        "voice": "Sechs Sekunden mit relevantem Seufzer ausatmen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Dies ist natürliche Gähnen kombiniert mit bewusstem Atem. Sehr entspannend für Kiefer-Spannungen.",
+    "info": {
+      "why": "Gähnen ist ein natürliches Spannungs-Release. Bewusstes Gähnen verstärkt den Effekt.",
+      "evidence": "Gähnen erhöht Hirntemperatur und fördert Wachheit tagsüber, Entspannung nachts.",
+      "best": "Wenn du verspannt bist oder vor dem Schlaf."
+    }
+  },
+  {
+    "id": "jaw",
+    "name": "Kiefer-Entspannung",
+    "cat": "Körper",
+    "icon": "😐",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Gezielte Atemung zur Entspannung des Kiefergelenks",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden sanft einatmen, Kiefer leicht öffnen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, Kiefer komplett entspannen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Viele Menschen halten Spannung im Kiefer. Dies ist für Sie.",
+    "info": {
+      "why": "Der Kiefer ist ein Stresshalte-Punkt. Gezielt zu entspannen lindert Kopf- und Nackenverspannungen.",
+      "evidence": "Kieferentspannung reduziert Spannungskopfschmerzen.",
+      "best": "Bei Kopfschmerzen oder Kiefer-Verspannungen durchführen."
+    }
+  },
+  {
+    "id": "neck_breath",
+    "name": "Nacken-Atem",
+    "cat": "Körper",
+    "icon": "🪢",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Atemung mit Fokus auf Nackenspannungs-Abbau",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen, Nacken spüren",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, Nacken-Spannung ablassen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Mit jeder Ausatmung stelle dir vor, wie Spannung deinen Nacken verlässt.",
+    "info": {
+      "why": "Der Nacken ist ein Stresshalte-Punkt. Gezielter Fokus löst verhärtete Muskulatur.",
+      "evidence": "Targeted Body-Focus während Atmung reduziert lokale Spannungen.",
+      "best": "Bei Nacken-Verspannungen oder Computer-Arbeit durchführen."
+    }
+  },
+  {
+    "id": "shoulder_roll",
+    "name": "Schulter-Rotation",
+    "cat": "Körper",
+    "icon": "⭕",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Atemung mit Schulter-Rollbewegung",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen, Schultern hoch",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen, Schultern rückwärts rollen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies kombiniert Atemung mit physischer Rollbewegung. Sehr wirksam bei Schulter-Spannungen.",
+    "info": {
+      "why": "Schulter-Rotation mit Atmung befreit gehaltene Schulter-Spannung direkt.",
+      "evidence": "Bewegungs-Atemung ist wirksamer als nur Atemung.",
+      "best": "Bei Schulter-Verspannungen durchführen."
+    }
+  },
+  {
+    "id": "back_wave",
+    "name": "Rücken-Welle",
+    "cat": "Körper",
+    "icon": "🌊",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Atemung mit flexibilitätssteigernder Rücken-Bewegung",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen, Hohlkreuz leicht einziehen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, Rundrücken und Wirbelsäule dehnen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese Welle dehnt deine Wirbelsäule und fördert Rücken-Flexibilität.",
+    "info": {
+      "why": "Wirbelsäulen-Bewegung mit Atemung kombiniert erhöht Mobilität und reduziert Rückenschmerzen.",
+      "evidence": "Wirbelsäulen-Mobilitäts-Training mit Atemung ist effektiv bei chronischen Rückenschmerzen.",
+      "best": "Morgens oder wenn Rücken verspannt ist."
+    }
+  },
+  {
+    "id": "hand_breath",
+    "name": "Hand-Atem",
+    "cat": "Körper",
+    "icon": "👐",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Atemung mit Finger-Streck- und Krümmungsbewegung",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen, Finger krümmen und Faust machen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden ausatmen, Finger ausstrecken und spreizen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies dehnt die Hände und lindert Verspannungen von Schreibarbeit.",
+    "info": {
+      "why": "Hand-Mobilität mit Atemung reduziert Karpaltunnel-Syndrom und Hand-Steifheit.",
+      "evidence": "Gezielte Hand-Mobilität ist wirksam bei Schmerzen und Steifheit.",
+      "best": "Bei Schreibarbeit oder Handeverspannungen durchführen."
+    }
+  },
+  {
+    "id": "foot_ground",
+    "name": "Fuß-Erdung",
+    "cat": "Körper",
+    "icon": "🦶",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Atemung mit fokus auf Fuß-Erdung und Erdungsgefühl",
+    "duration": 480,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen, Füße in den Boden drücken",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, sich mit Erde verbunden fühlen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies kombiniert physische Erdung mit Atem-Erdung. Sehr erdend und stabilisierend.",
+    "info": {
+      "why": "Physische Fuß-Erdung mit Atemung verstärkt den Erdungs-Effekt exponentiell.",
+      "evidence": "Multi-sensorische Erdung ist wirksamer als nur kognitive Erdung.",
+      "best": "Bei Angst, Dissoziation oder Gefühl von \"nicht präsent\" sein."
+    }
+  },
+  {
+    "id": "eye_relax",
+    "name": "Augen-Entspannung",
+    "cat": "Körper",
+    "icon": "👁️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Atemung mit gezielter Augen-Entspannung",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen, Augen zukneifen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, Augen weich und entspannt öffnen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist gut für die Augen nach Bildschirm-Arbeit. Wirkt sehr entspannend.",
+    "info": {
+      "why": "Augen-Spannung ist mit Kopf- und Nacken-Spannung verbunden. Augen-Entspannung hilft allem.",
+      "evidence": "Augen-Entspannung reduziert digitalen Augen-Stress.",
+      "best": "Nach Bildschirm-Arbeit durchführen."
+    }
+  },
+  {
+    "id": "scalp",
+    "name": "Kopfhaut-Atem",
+    "cat": "Körper",
+    "icon": "🧠",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Atemung mit Kopfhaut-Mobilisierung",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen, Kopfhaut spüren",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen, Kopfhaut entspannen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies reduziert Kopf-Verspannungen und Kopfschmerzen durch gezielte Kopfhaut-Aufmerksamkeit.",
+    "info": {
+      "why": "Kopfhaut-Spannung ist oft unbewusst. Gezielter Fokus reduziert diese.",
+      "evidence": "Kopfhaut-Entspannung reduziert Spannungskopfschmerzen.",
+      "best": "Bei Kopfschmerzen oder Druck im Kopf durchführen."
+    }
+  },
+  {
+    "id": "full_tense",
+    "name": "Ganzkörper-Anspannung",
+    "cat": "Körper",
+    "icon": "💪",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Intensive Progressive Muskelentspannung - gesamter Körper auf einmal",
+    "duration": 600,
+    "anim": "body",
+    "bodyParts": [
+      "Ganzer Körper"
+    ],
+    "phases": [
+      {
+        "name": "Anspannung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ALLE Muskeln anspannen - von Kopf bis Fuß",
+        "type": "observation"
+      },
+      {
+        "name": "Entspannung",
+        "dur": 10,
+        "voice": "Zehn Sekunden alle Muskeln auf einmal komplett entspannen",
+        "type": "observation"
+      }
+    ],
+    "tip": "Dies ist intensive PMR. Alle Muskeln gleichzeitig anspannen und dann loslassen. Sehr wirksam.",
+    "info": {
+      "why": "Ganzkörper-Anspannung gefolgt von Entspannung hat einen reflexiven Entspannungs-Effekt.",
+      "evidence": "Intensive PMR ist schneller und wirksamer als sequenzielle PMR für viele Menschen.",
+      "best": "Wenn du schnelle, intensive Entspannung brauchst."
+    }
+  },
+  {
+    "id": "finger_breath",
+    "name": "Finger-für-Finger",
+    "cat": "Körper",
+    "icon": "👆",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Atemung mit individueller Finger-Aufmerksamkeit",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Krümmen",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen, einen Finger krümmen",
+        "type": "observation"
+      },
+      {
+        "name": "Strecken",
+        "dur": 4,
+        "voice": "Vier Sekunden ausatmen, Finger ausstrecken",
+        "type": "observation"
+      }
+    ],
+    "tip": "Dies werden Sie mit jedem Finger durchführen. Sequenziell über alle zehn Finger.",
+    "info": {
+      "why": "Einzelne Finger-Aufmerksamkeit erhöht Hand-Bewusstsein und Sensibilität.",
+      "evidence": "Detailliertes somatisches Mapping erhöht Körper-Bewusstsein.",
+      "best": "Für erhöhtes Körper-Bewusstsein und Hand-Sensibilität."
+    }
+  },
+  {
+    "id": "spine_breath",
+    "name": "Wirbelsäulen-Atem",
+    "cat": "Körper",
+    "icon": "🔀",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Energetische Atemung entlang der Wirbelsäule",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden einatmen, Energie von Basis bis Scheitel hochziehen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden ausatmen, Energie von Scheitel bis Basis hinabfließen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Visualisiere Energie als Licht, das mit der Einatmung hochläuft und mit der Ausatmung hinabfließt.",
+    "info": {
+      "why": "Energetische Wirbelsäulen-Atemung ist eine Chakra-Cleansing-Technik der tantrischen Tradition.",
+      "evidence": "Innere energetische Visualisierung mit Atemung hat messbare Entspannungs-Effekte.",
+      "best": "Nach einiger Meditationspraxis durchführen."
+    }
+  },
+  {
+    "id": "fascia",
+    "name": "Faszien-Atem",
+    "cat": "Körper",
+    "icon": "🧬",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Atemung zur Faszien-Rehydration und Beweglichkeit",
+    "duration": 720,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden langsam einatmen, Faszien-Gewebe sich weiten lassen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 8,
+        "voice": "Acht Sekunden vollständig ausatmen, Faszien loslassen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Das Faszien-Netzwerk umgibt jeden Muskel. Diese Atemung \"rehydriert\" es.",
+    "info": {
+      "why": "Lange Ausatmung mit Fokus auf Fasziengewebe hilft, gespeicherte Spannung im Bindegewebe freizusetzen.",
+      "evidence": "Neue Faszien-Forschung zeigt, dass Gewebe-Rehydration über Atemung möglich ist.",
+      "best": "Nach Bewegung oder bei chronischen Verspannungen."
+    }
+  },
+  {
+    "id": "run32",
+    "name": "Lauf-Rhythmus 3:2",
+    "cat": "Sport",
+    "icon": "🏃",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Atemung im Lauf-Rhythmus: 3 Schritte Ein, 2 Schritte Aus",
+    "duration": 600,
+    "anim": "runner",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Während drei Laufschritte einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 2,
+        "voice": "Während zwei Laufschritte ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist ein gutes Anfänger-Lauf-Rhythmus. 3:2 ist einfach zu befolgen.",
+    "info": {
+      "why": "Lauf-gekoppelte Atemung synchronisiert Atem mit Bewegung und optimiert Sauerstoff-Nutzung.",
+      "evidence": "Rhythmische Lauf-Atemung verbessert Lauf-Effizienz und Ausdauer.",
+      "best": "Für lockere bis moderate Laufgeschwindigkeit."
+    }
+  },
+  {
+    "id": "run22",
+    "name": "Tempo-Atmung 2:2",
+    "cat": "Sport",
+    "icon": "💨",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Schnelle 2:2 Lauf-Atmung für schnelle Tempi",
+    "duration": 480,
+    "anim": "runner",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 2,
+        "voice": "Während zwei Laufschritte schnell einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 2,
+        "voice": "Während zwei Laufschritte schnell ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist für schnelleres Laufen. 2:2 ist schneller und aktivierender.",
+    "info": {
+      "why": "Schnellere Atemfrequenzen unterstützen schnellere Lauftempi.",
+      "evidence": "Atemfrequenz sollte mit Laufgeschwindigkeit skalieren.",
+      "best": "Für schnellere Laufgeschwindigkeiten oder Tempo-Läufe."
+    }
+  },
+  {
+    "id": "nose_run",
+    "name": "Nasenlauf-Training",
+    "cat": "Sport",
+    "icon": "👃",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Ausdauer-Training mit ausschließlich nasaler Atmung",
+    "duration": 900,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden nur durch die Nase einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden nur durch die Nase ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Nur-Nasen-Atmung beim Laufen erhöht CO2-Toleranz und Effizienz. Schwierig, aber sehr wirksam.",
+    "info": {
+      "why": "Nasal-only Atemung erhöht CO2-Toleranz und fördert Effizienz-Adaptation.",
+      "evidence": "Nur-nasale Atemung trainiert höhere CO2-Schwellen und verbessert Ausdauer.",
+      "best": "Mit leichtem bis moderatem Tempo laufen. Nicht mit höchstens Intensität."
+    }
+  },
+  {
+    "id": "power_breath",
+    "name": "Sprint-Atmung",
+    "cat": "Sport",
+    "icon": "⚡",
+    "iconBg": "linear-gradient(135deg,#a8e6cf,#ffd3b6)",
+    "desc": "Maximale Kraft-Ausatmung während Sprint-Anstrengung",
+    "duration": 300,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden schnell einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Power-Ausatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden maximale kräftige Ausatmung für Power",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist für echte Sprint-Anstrengung. Kräftige Ausatmung mit maximalem Effort.",
+    "info": {
+      "why": "Kraftvolle Ausatmung aktiviert die Kern-Muskulatur und unterstützt maximale Sprint-Leistung.",
+      "evidence": "Atmen während des Anstrengung optimiert intraabdominalen Druck für Kraft.",
+      "best": "Während Sprint-Intervalle verwenden."
+    }
+  },
+  {
+    "id": "co2_train",
+    "name": "CO2-Toleranz",
+    "cat": "Sport",
+    "icon": "💨",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Training der CO2-Toleranz durch Atemhalt-Pausen",
+    "duration": 720,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 6,
+        "voice": "Sechs Sekunden halten und CO2 aufbauen",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden ausatmen",
+        "type": "exhale"
+      },
+      {
+        "name": "Pause",
+        "dur": 4,
+        "voice": "Vier Sekunden Pause ohne Atem",
+        "type": "pause"
+      }
+    ],
+    "tip": "Diese Technik erhöht progressiv deine CO2-Toleranz. Sehr wichtig für Ausdauer-Sport.",
+    "info": {
+      "why": "Höhere CO2-Toleranz bedeutet besserer Sauerstoff-Offloading und bessere Ausdauer-Leistung.",
+      "evidence": "CO2-Trainings-Atemung verbessert Laktate-Schwellen und Ausdauer markant.",
+      "best": "Mehrmals pro Woche trainieren für progressive CO2-Verbesserungen."
+    }
+  },
+  {
+    "id": "wimhof",
+    "name": "Wim-Hof-Atmung",
+    "cat": "Sport",
+    "icon": "❄️",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Die Wim-Hof-Methode: Schnelle Hyperventilation für Vitalität",
+    "duration": 600,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Schnelle Atemzüge",
+        "dur": 1.5,
+        "voice": "1.5 Sekunden schnell und vollständig auslösen - wiederholt 30-40 mal",
+        "type": "observation"
+      },
+      {
+        "name": "Passive Ausatmung",
+        "dur": 1.5,
+        "voice": "1.5 Sekunden passiv loslassen ohne zu kontrollieren",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Wim-Hof-Atmung ist intensiv. Immer sitzend durchführen. 30-40 schnelle Atemzüge, dann Atemhalt.",
+    "info": {
+      "why": "Die Wim-Hof-Methode nutzt kontrollierte Hyperventilation, um Adrenalin zu steigern und Immunfunktion zu verbessern.",
+      "evidence": "Wim-Hof Trainierte zeigen verbesserte Immunfunktion, mentale Ausdauer und Kälte-Toleranz.",
+      "best": "Morgens oder vor Leistungs-Events. Nicht vor dem Schlaf!"
+    }
+  },
+  {
+    "id": "diaphragm_train",
+    "name": "Zwerchfell-Training",
+    "cat": "Sport",
+    "icon": "💪",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Gezieltes Zwerchfell-Kraft-Training durch Atem",
+    "duration": 600,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Tiefe Bauch-Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden tiefe Bauch-Einatmung, Zwerchfell dehnt sich",
+        "type": "inhale"
+      },
+      {
+        "name": "Kräftige Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden kräftige Ausatmung gegen Widerstand",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies trainiert dein Atemzwerchfell direkt. Stärkeres Zwerchfell = bessere Atem-Kapazität.",
+    "info": {
+      "why": "Zwerchfell-Training erhöht respiratorische Kraft und Ausdauer für Sport.",
+      "evidence": "Atemmuskel-Training verbessert Lauf-Ökonomie und Ausdauer-Leistung.",
+      "best": "Täglich durchführen für progressiven Kraft-Aufbau."
+    }
+  },
+  {
+    "id": "recovery_breath",
+    "name": "Regenerations-Atmung",
+    "cat": "Sport",
+    "icon": "😌",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Atemung zum schnellen Recovery nach intensivem Training",
+    "duration": 480,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 2,
+        "voice": "Zwei Sekunden halten",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden langsam ausatmen für parasympathische Aktivierung",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies nach intensivem Training durchführen. Beschleunigt parasympathische Aktivierung und Recovery.",
+    "info": {
+      "why": "Post-Trainings-Atemung schaltet den Körper schneller aus dem sympathischen in den parasympathischen Zustand.",
+      "evidence": "Schnelle parasympathische Aktivierung nach Training verbessert Recovery.",
+      "best": "Unmittelbar nach Training durchführen."
+    }
+  },
+  {
+    "id": "pace_breath",
+    "name": "Atem-Pacing",
+    "cat": "Sport",
+    "icon": "🏃‍♂️",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Kontrolliertes Atemtempo zum Pacing bei Ausdauer-Sport",
+    "duration": 600,
+    "anim": "runner",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Während drei Schritte einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 3,
+        "voice": "Während drei Schritte ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "3:3 ist ein ausgewogener Lauf-Rhythmus. Dies hilft, ein nachhaltiges Tempo zu halten.",
+    "info": {
+      "why": "Symmetrisches Atem-Pacing fördert nachhaltiges Tempo und verhindert zu schnelle Anstrengung.",
+      "evidence": "Rhythmisches Lauf-Pacing mit Atem verbessert Ausdauer.",
+      "best": "Für Langstrecken-Läufe oder Marathons."
+    }
+  },
+  {
+    "id": "exhale_run",
+    "name": "Aktives Ausatmen",
+    "cat": "Sport",
+    "icon": "🌬️",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Betontes aktives Ausatmen während des Laufens",
+    "duration": 600,
+    "anim": "runner",
+    "phases": [
+      {
+        "name": "Schnelle Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden schnell einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Kräftige Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden sehr kräftig ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese Atmung betont die Ausatmung. Gut für Lauf-Effizienz und CO2-Abbau.",
+    "info": {
+      "why": "Betonte Ausatmung fördert den Gasaustausch und verhindert CO2-Ansammlung.",
+      "evidence": "Aktive Ausatmung verbessert Lauf-Ökonomie.",
+      "best": "Für moderates bis schnelles Tempo-Laufen."
+    }
+  },
+  {
+    "id": "interval_breath",
+    "cat": "Sport",
+    "name": "Intervall-Atmung",
+    "icon": "⏱️",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Atmung angepasst für High-Intensity-Interval-Training",
+    "duration": 480,
+    "anim": "runner",
+    "phases": [
+      {
+        "name": "Schnelle Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden schnelle intensive Einatmung",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 1,
+        "voice": "Eine Sekunde Atemhalt",
+        "type": "hold_top"
+      },
+      {
+        "name": "Schnelle Ausatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden schnelle intensive Ausatmung",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese Atmung ist für HIIT-Intervalle optimiert. Schnell und intensiv.",
+    "info": {
+      "why": "HIIT-Atemung maximiert Sauerstoff-Aufnahme während maximaler Anstrengung.",
+      "evidence": "Intervall-Atemung unterstützt hochintensive Trainings-Leistung.",
+      "best": "Während HIIT-Sessions durchführen."
+    }
+  },
+  {
+    "id": "warmup_breath",
+    "name": "Warm-up-Atem",
+    "cat": "Sport",
+    "icon": "🔥",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Atemung zum Warm-up vor Sport mit progressiver Aktivierung",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden schnell einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden schnell ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist ein einfacher Warm-up-Rhythmus. Beschleunigt die Herzfrequenz sanft.",
+    "info": {
+      "why": "Erhöhte Atemfrequenz vor dem Sport wärmt den Körper und bereitet das kardiovaskuläre System vor.",
+      "evidence": "Warm-up-Atemung reduziert Belastungsspitzen am Anfang des Trainings.",
+      "best": "Vor jedem Training durchführen."
+    }
+  },
+  {
+    "id": "cooldown",
+    "name": "Cool-down-Atem",
+    "cat": "Sport",
+    "icon": "❄️",
+    "iconBg": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "Langsame Atemung zum Abkühlen nach Training",
+    "duration": 480,
+    "anim": "wave",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 5,
+        "voice": "Fünf Sekunden langsam einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 7,
+        "voice": "Sieben Sekunden langsam ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dies ist zum Abkühlen nach dem Training. Langsam und entspannend.",
+    "info": {
+      "why": "Langsame Atemung nach Training beschleunigt die Rückkehr zur Ruhefrequenz und parasympathischer Aktivierung.",
+      "evidence": "Cool-down-Atemung fördert schnellere Recovery.",
+      "best": "Unmittelbar nach Training durchführen."
+    }
+  },
+  {
+    "id": "stitch",
+    "name": "Seitenstechen-Hilfe",
+    "cat": "Sport",
+    "icon": "🤕",
+    "iconBg": "linear-gradient(135deg,#fa709a,#fee140)",
+    "desc": "Schnelle Atemung zur sofortigen Linderung von Seitenstechen beim Laufen",
+    "duration": 300,
+    "anim": "circle",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden ausatmen, besonders auf der betroffenen Seite",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Seitenstechen ist oft CO2-Buildup. Länger ausatmen reduziert es sofort.",
+    "info": {
+      "why": "Seitenstechen ist oft das Ergebnis von Zwerchfell-Spasm. Längere Ausatmung entspannt es.",
+      "evidence": "Längere Ausatmung reduziert Seitenstechen innerhalb von 1-2 Minuten.",
+      "best": "Wenn Seitenstechen auftritt."
+    }
+  },
+  {
+    "id": "mountain_breath",
+    "name": "Berg-Atmung",
+    "cat": "Sport",
+    "icon": "⛰️",
+    "iconBg": "linear-gradient(135deg,#a8edea,#fed6e3)",
+    "desc": "Atemung für Höhentraining und Höhen-Akklimatisierung",
+    "duration": 480,
+    "anim": "runner",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Halten",
+        "dur": 1,
+        "voice": "Eine Sekunde Atemhalt oben",
+        "type": "hold_top"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Diese Atmung simuliert Höhentraining durch längere Atemhalts.",
+    "info": {
+      "why": "Atemhalt-Pausen während des Trainings erhöhen Höhen-Akklimatisierung und CO2-Toleranz.",
+      "evidence": "Atemhalt-Training verbessert Höhen-Leistung.",
+      "best": "Für Berg-Läufer oder Höhentraining-Vorbereitung."
+    }
+  },
+  {
+    "id": "sprint_recovery",
+    "name": "Sprint-Recovery",
+    "cat": "Sport",
+    "icon": "💨",
+    "iconBg": "linear-gradient(135deg,#f093fb,#f5576c)",
+    "desc": "Schnelle Recovery-Atmung nach Sprint-Bemühung",
+    "duration": 300,
+    "anim": "particle",
+    "phases": [
+      {
+        "name": "Doppel-Einatmung",
+        "dur": 2,
+        "voice": "Zwei Sekunden hintereinander zwei schnelle Atemzüge",
+        "type": "double_inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 6,
+        "voice": "Sechs Sekunden vollständige Ausatmung",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Nach Sprint: Atme schnell zweimal ein, dann einmal lang aus. Wiederhole mehrfach.",
+    "info": {
+      "why": "Doppel-Einatmung füllt Lungen schneller. Lange Ausatmung senkt Herzfrequenz schnell.",
+      "evidence": "Schnelle Recovery-Atemung reduziert post-Sprint-Belastung.",
+      "best": "Unmittelbar nach Sprint-Effort."
+    }
+  },
+  {
+    "id": "endurance",
+    "name": "Ausdauer-Atem",
+    "cat": "Sport",
+    "icon": "🏅",
+    "iconBg": "linear-gradient(135deg,#f8b500,#fecf5c)",
+    "desc": "Ausgewogene Atemung für lange Ausdauer-Trainings",
+    "duration": 600,
+    "anim": "runner",
+    "phases": [
+      {
+        "name": "Einatmung",
+        "dur": 4,
+        "voice": "Vier Sekunden einatmen",
+        "type": "inhale"
+      },
+      {
+        "name": "Ausatmung",
+        "dur": 3,
+        "voice": "Drei Sekunden ausatmen",
+        "type": "exhale"
+      }
+    ],
+    "tip": "Dieser 4:3 Rhythmus ist optimal für Ausdauer-Trainings mit gutem Sauerstoff-Balance.",
+    "info": {
+      "why": "Ausgewogenes Ein-Aus-Verhältnis mit leicht längerer Einatmung unterstützt nachhaltigen Ausdauer-Effort.",
+      "evidence": "4:3 Atemung optimiert Sauerstoff-Balance für lange Belastung.",
+      "best": "Für Ausdauer-Sport wie Marathons oder lange Radfahrten."
+    }
+  },
+  {
+    "id": "cadence_train",
+    "name": "Kadenz-Training",
+    "cat": "Sport",
+    "icon": "🎵",
+    "iconBg": "linear-gradient(135deg,#667eea,#764ba2)",
+    "desc": "Wechselnde Atemfrequenzen zum Training verschiedener Leistungszonen",
+    "duration": 720,
+    "anim": "runner",
+    "phases": [
+      {
+        "name": "Zone 1 - 4:4",
+        "dur": 4,
+        "voice": "Vier Sekunden ein/aus - leichte Zone",
+        "type": "observation"
+      },
+      {
+        "name": "Zone 2 - 3:3",
+        "dur": 4,
+        "voice": "Drei Sekunden ein/aus - moderate Zone",
+        "type": "observation"
+      },
+      {
+        "name": "Zone 3 - 2:2",
+        "dur": 4,
+        "voice": "Zwei Sekunden ein/aus - schnelle Zone",
+        "type": "observation"
+      }
+    ],
+    "tip": "Wechsle alle zwei Minuten zwischen verschiedenen Atemfrequenzen. Dies trainiert Flexibilität.",
+    "info": {
+      "why": "Variierende Atemfrequenzen trainieren verschiedene kardiovaskuläre Zonen.",
+      "evidence": "Atemfrequenz-Variabilität trainiert metabolische Flexibilität.",
+      "best": "Als strukturiertes Atemtraining 2-3x pro Woche."
+    }
+  }
+]

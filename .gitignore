@@ -1,0 +1,8 @@
+.env
+.DS_Store
+__pycache__/
+node_modules/
+index.old.html
+app_data.js
+.claude/
+Recherche_Atemuebungen_Schlaf.md
