@@ -11,6 +11,3 @@ export function toggleFavorite(exerciseId) {
   saveToStorage('oxy_favs', state.favs);
 }
 
-export function isFavorite(exerciseId) {
-  return state.favs.includes(exerciseId);
-}

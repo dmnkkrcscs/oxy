@@ -24,16 +24,20 @@ function initAudio() {
   }
 }
 
-export function startExercise(exerciseId) {
-  const exercise = findExercise(exerciseId);
-  if (!exercise) return;
-
-  state.exercise = exercise;
+function resetExerciseState() {
   state.phase = 0;
   state.elapsed = 0;
   state.totalElapsed = 0;
   state.running = false;
   state.paused = false;
+}
+
+export function startExercise(exerciseId) {
+  const exercise = findExercise(exerciseId);
+  if (!exercise) return;
+
+  state.exercise = exercise;
+  resetExerciseState();
 
   showScreen('exercise');
   renderExercisePlayer();
@@ -73,11 +77,8 @@ export function toggleVoice() {
 function runExercise() {
   if (state.running) return;
 
+  resetExerciseState();
   state.running = true;
-  state.paused = false;
-  state.phase = 0;
-  state.elapsed = 0;
-  state.totalElapsed = 0;
 
   document.getElementById('playBtn').textContent = '\u23F8';
 

@@ -28,10 +28,10 @@ export function createAnimation(container, type) {
 
 export function initPhaseAnimation(type, phase) {
   const mod = animModules[type] || circle;
-  mod.initPhase(phase);
+  mod.initPhase?.(phase);
 }
 
 export function updatePhaseAnimation(type, phase, progress) {
   const mod = animModules[type] || circle;
-  mod.update(phase, progress);
+  mod.update?.(phase, progress);
 }

@@ -7,5 +7,3 @@ export function create(container) {
   container.appendChild(svg);
 }
 
-export function initPhase() {}
-export function update() {}

@@ -1,9 +1,10 @@
 import { el } from '../utils/dom.js';
 import { formatTime } from '../utils/format.js';
-import { isFavorite, toggleFavorite } from './favorites.js';
+import { toggleFavorite } from './favorites.js';
+import state from '../state.js';
 
 export function createExerciseCard(exercise, { onStart, onInfo, onFavToggle }) {
-  const fav = isFavorite(exercise.id);
+  const fav = state.favs.includes(exercise.id);
 
   const iconDiv = el('div', {
     className: 'exercise-card-icon',
